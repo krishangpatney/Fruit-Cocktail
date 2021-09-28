@@ -17,4 +17,7 @@
 ### 28 Sep 2022
 
 * *1 hours* Read the project guidance notes
-* *0.5 hour* Created GitHub repository and added timelong.md template
+* *0.5 hours* Created GitHub repository and added timelong.md template
+* *1 hours* Initial Supervisor meeting and future meeting set-up
+* 
+
