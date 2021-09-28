@@ -1,0 +1,21 @@
+### Meeting Minutes - 28/09/21
+- What this project is meant to be
+    - Identify the trade-offs for deploying microservice architecture in different ways in the cloud.
+    - Such as deploying a microservice application on the cloud, and there are many options on how they can be set-up
+    - The project tries to answer the best way of deploying microservices. What does that depend on.
+    - Wanting to deploy a microservice application,
+- Resources to use
+    - Wait for confirmation on what cloud resource to use.
+    - In the meanwhile I can use a local set-up and deploy docker images to it.
+    - Need to experiment with different frameworks - [Link](https://github.com/delimitrou/DeathStarBench)
+    - finding the best way of deploying docker containers with microservice applications automatically
+    - finding the best way to collect data from these set-ups
+        - Measuring it and then plotting it. Could require upto 1000 takes to get correct metrics. (Hence automation of process)
+        - Measure - Preformance (Completion time), Response-time (requests per second)
+- Planning ahead
+    - Create a plan, allows to think ahead.
+    - Can deviate from it later on, it's not a strict plan.
+- Papers to read up
+    - [https://www.csl.cornell.edu/~delimitrou/papers/2019.asplos.microservices.pdf](https://www.csl.cornell.edu/~delimitrou/papers/2019.asplos.microservices.pdf)
+    - Will be sent more by emails
+- Future meeting timings - Tuesdays 3:30
