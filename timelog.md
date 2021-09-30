@@ -14,10 +14,15 @@
 
 ## Week 1
 
-### 28 Sep 2022
+### 29 Sep 2022
 
 * *1 hours* Read the project guidance notes
 * *0.5 hours* Created GitHub repository and added timelong.md template
 * *1 hours* Initial Supervisor meeting and future meeting set-up
-* 
+
+### 30 Sep 2022
+
+* *1 hours* VM Workbench set-up with docker + other utils 
+* *2 hours* Reading An Open-Source Benchmark Suite for Microservices and Their Hardware-Software Implications for Cloud & Edge Systems 
+* *1 hours* Tesing DeathStarBench - ran into issues, will spend more time on so
 
