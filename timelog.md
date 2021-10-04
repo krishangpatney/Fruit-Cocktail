@@ -35,3 +35,8 @@
 * *0.5 hours* Reading - Deploying Microservices: Choosing a Strategy
 * *1 hours* Reading - The Architectural Implications of Cloud Microservices
 
+## Week 2 
+
+### 4 Oct 2022 
+
+* *0.5 hours* Reading - https://medium.com/@WSO2/guidelines-for-designing-microservices-71ee1997776c
