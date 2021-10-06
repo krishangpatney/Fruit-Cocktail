@@ -39,4 +39,10 @@
 
 ### 4 Oct 2022 
 
-* *0.5 hours* Reading - https://medium.com/@WSO2/guidelines-for-designing-microservices-71ee1997776c
+* *0.5 hours* Reading - https://medium.com/@WSO2/guidelines-for-designing-microservices-71ee1997776c 
+
+### 6 Oct 2022
+
+* *1 hours* Reading - https://www.jaegertracing.io/docs/1.26/
+* *0.5 hours* Running HotRod https://github.com/jaegertracing/jaeger/tree/master/examples/hotrod
+
