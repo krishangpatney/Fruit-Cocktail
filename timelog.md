@@ -45,4 +45,4 @@
 
 * *1 hours* Reading - https://www.jaegertracing.io/docs/1.26/
 * *0.5 hours* Running HotRod https://github.com/jaegertracing/jaeger/tree/master/examples/hotrod
-
+* *1 hours* Supervisor meeting and note-taking 

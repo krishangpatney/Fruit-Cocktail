@@ -1,4 +1,4 @@
-### Meeting Minutes - 28/09/21
+### Meeting Notes - 28/09/21
 - What this project is meant to be
     - Identify the trade-offs for deploying microservice architecture in different ways in the cloud.
     - Such as deploying a microservice application on the cloud, and there are many options on how they can be set-up
