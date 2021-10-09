@@ -46,3 +46,13 @@
 * *1 hours* Reading - https://www.jaegertracing.io/docs/1.26/
 * *0.5 hours* Running HotRod https://github.com/jaegertracing/jaeger/tree/master/examples/hotrod
 * *1 hours* Supervisor meeting and note-taking 
+
+### 8 Oct 2022
+
+* *1 hours* Timelining - Refer to Notion. 
+* *0.5 hours* Research - Infrastructure - AWS / University Linux Server
+* *3 hours* Research - Docker Containers & Kubernetes & Terraform
+
+### 9 Oct 2022
+
+* *1 hours* Research - Microserivces project list - Refer to Notion. 
