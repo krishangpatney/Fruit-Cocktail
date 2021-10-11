@@ -55,4 +55,15 @@
 
 ### 9 Oct 2022
 
-* *1 hours* Research - Microserivces project list - Refer to Notion. 
+* *2 hours* Research - Microserivces project list - Refer to Notion.
+* *0.5 hours* Reading - https://codingsans.com/blog/microservice-architecture-best-practices
+
+### 10 Oct 2022
+
+* *2 hours* Testing - Application NAME - takes too much space on ec2 free tier, docker install timeout locally. 
+
+## Week 3 
+
+### 11 Oct 2022  
+
+* *1 hours* Research - Terraform - Explored its capabilites
