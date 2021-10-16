@@ -66,4 +66,17 @@
 
 ### 11 Oct 2022  
 
-* *1 hours* Research - Terraform - Explored its capabilites
+* *1 hours* Research - Terraform - Explored its capabilites 
+* *2 hours* Running applications locally - Still fails.
+
+### 12 Oct 2022
+
+* *3 hours* Running applications - Debugging, errors will downloading docker applications (Internet issues)
+
+### 13 Oct 2022
+
+* *2 hours* Trying different VMs to run the applications 
+
+### 14 Oct 2022
+
+* *1 hours* Created BASH script to install git and docker. 
