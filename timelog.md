@@ -80,3 +80,10 @@
 ### 14 Oct 2022
 
 * *1 hours* Created BASH script to install git and docker. 
+
+### 16 Oct 2022
+
+* *1 hours* Ran Robot Shop & Load generation. Issues with VM crashes 
+* *1 hours* Explored different script types.
+* *2 hours* Research - Exploring different metrics
+* *2 hours* Created script to take cpu usage data and export a graph.
