@@ -85,5 +85,21 @@
 
 * *1 hours* Ran Robot Shop & Load generation. Issues with VM crashes 
 * *1 hours* Explored different script types.
-* *2 hours* Research - Exploring different metrics
+* *1 hours* Research - Exploring different metrics
 * *2 hours* Created script to take cpu usage data and export a graph.
+
+### 17 Oct 2022 
+
+* *1 hours* Research - Prometius & Graphana
+
+## Week 4 
+
+### 19 Oct 2022
+
+* *0.5 hours* Supervisor meeting
+* *1 hours* Python Script : Creates a graph from CPU & Memory Usage
+
+### 20 Oct 2022
+
+* *3 hours* Python Script : Cleaned graph, collects data using PID
+* 
