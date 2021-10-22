@@ -102,4 +102,14 @@
 ### 20 Oct 2022
 
 * *3 hours* Python Script : Cleaned graph, collects data using PID
+
+### 21 Oct 2022
+
+* *4 hours* Playing with Azure.
+* *2 hours* Creating scripts for VM setups.
+
+### 22 Oct 2022
+
+* *0.5 hours* Watching : https://www.youtube.com/watch?v=Axs2IH94hbA&ab_channel=HashiCorp
+* *1 hours* Research : Terraform - Hashi Corp
 * 
