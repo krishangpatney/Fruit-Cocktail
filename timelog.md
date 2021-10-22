@@ -112,4 +112,4 @@
 
 * *0.5 hours* Watching : https://www.youtube.com/watch?v=Axs2IH94hbA&ab_channel=HashiCorp
 * *1 hours* Research : Terraform - Hashi Corp
-* 
+* *3 hours* Playing with Terraform.
