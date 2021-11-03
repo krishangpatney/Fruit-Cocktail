@@ -18,7 +18,7 @@ To get a local copy up and running follow these simple steps.
   ```sh
   pip install -r requirements.txt
   ```
-* Run python script
+* Run python script inside env
   ```sh
   py main.py <life_time> <number_of_options> <iterations>
   ```
