@@ -139,4 +139,8 @@
 
 ### 02 Nov 2022
 
-* *2 hours* Python Script - Azure Prizing & Configurations
+* *2 hours* Python Script - Azure Prizing & Configurations 
+
+### 04 Nov 2022
+
+* *4 hours* Terraform Configuration Tools - Successfully uses pre-made resource groups. 
