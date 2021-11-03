@@ -122,6 +122,21 @@
 
 ### 26 Oct 2022
 
-* *0.5 hpurs* Supervisor meeting.
+* *0.5 hours* Supervisor meeting.
 * *1 hours* Terraform scripting for Robot Shop
-* 
+
+### 27 Oct 2022
+
+* *0.5 hours* Supervisor & Dr Faiza Meeting
+* *1 hours* Meeting prep 
+* *0.5 hours* Meeting 
+
+## Week 7
+
+### 01 Nov 2022
+
+* *2 hours* Azure Pricing Research. 
+
+### 02 Nov 2022
+
+* *2 hours* Python Script - Azure Prizing & Configurations
