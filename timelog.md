@@ -143,4 +143,25 @@
 
 ### 04 Nov 2022
 
-* *4 hours* Terraform Configuration Tools - Successfully uses pre-made resource groups. 
+* *4 hours* Terraform Configuration Tools - Successfully uses pre-made resource groups
+
+### 05 Nov 2022
+
+* *4 hours* Bash my head against a non-working provisonal feature. 
+
+### 06 Nov 2022
+
+* *2 Hours* Reading - Terraform 
+
+## Week 8 
+
+### 08 Nov 2022 
+
+* *2 Hours* Reading - Nginx, and how to use it
+
+### 09 Nov 2022
+
+* *4 Hours* Single Server Pattern - Robot_shop upload to azure cloud works. 
+* *0.5 Hours* Weekly Meeting 
+* *1 Hours* LoadGen Script - Robot_Shop
+
