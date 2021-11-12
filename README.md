@@ -76,13 +76,13 @@
 
 This folder contains the 
 
-Using microservices is currently the prevalent architecture, this architectural style structures an application as a collection of services that are Highly maintainable and testable, loosely coupled and allow to be independently deployable. Which present new challanges of their own, hence this project investigates the differentways in which a cloud application with a microservice architecture could be deployed in an optimal way to the datacenter. 
+Using microservices is currently the prevalent architecture, this structures an application as a collection of services that are highly maintainable, testable, loosely coupled and allow to be independently deployable. These features present new challanges of their own, hence this project investigates optimization of different ways in which a application curated with microservices could be deployed in the cloud. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Built With
 
-This section lists major frameworks/libraries used to bootstrap Cocktail One.
+This section lists major frameworks/libraries used to bootstrap Fruit Coctail.
 
 * [Terraform](https://www.terraform.io/)
 * [Microsoft Azure](https://azure.microsoft.com/en-gb/)
