@@ -19,16 +19,16 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-<!--   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://w7.pngwing.com/pngs/629/982/png-transparent-fruits-and-juices-pineapple-yellow-fruit-juice-thumbnail.png">
+    <img src="images/logo.png" alt="Logo" width="200" height="200">
   </a>
- -->
-  <h3 align="center">Fruit Cocktail - Level 4 Student Project</h3>
+
+  <h3 align="center"><strong>Fruit Cocktail</strong> - Level 4 Student Project</h3>
 
   <p align="center">
     Optimised Microservice Deployment in the Cloud
     <br />
-    <a>Supervisor : Yehia Elkhatib</a>
+  <strong>Supervisor</strong> - Yehia Elkhatib
 
 <!--     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
@@ -73,13 +73,16 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com)
  -->
+
+This folder contains the 
+
 Using microservices is currently the prevalent architecture, this architectural style structures an application as a collection of services that are Highly maintainable and testable, loosely coupled and allow to be independently deployable. Which present new challanges of their own, hence this project investigates the differentways in which a cloud application with a microservice architecture could be deployed in an optimal way to the datacenter. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Built With
 
-This section lists major frameworks/libraries used to bootstrap the project.
+This section lists major frameworks/libraries used to bootstrap Cocktail One.
 
 * [Terraform](https://www.terraform.io/)
 * [Microsoft Azure](https://azure.microsoft.com/en-gb/)
@@ -88,7 +91,9 @@ This section lists major frameworks/libraries used to bootstrap the project.
 
 ## Top-level directory layout
 
-<pre>├── <font color="#3465A4"><b>L4-Dissertation</b></font>
+<pre>├── <font color="#3465A4"><b>images</b></font>
+│   └── <font color="#75507B"><b>logo.png</b></font>
+├── <font color="#3465A4"><b>L4-Dissertation</b></font>
 ├── <font color="#3465A4"><b>meetings</b></font>
 │   ├── meeting_06_10_21.md
 │   ├── meeting_09_11_21.md
@@ -100,6 +105,26 @@ This section lists major frameworks/libraries used to bootstrap the project.
 ├── README.md
 ├── <font color="#3465A4"><b>src</b></font>
 │   ├── manual.md
+│   ├── <font color="#3465A4"><b>Part 1 #Robot Shop Configuration Files</b></font>
+│   │   ├── <font color="#3465A4"><b>lime</b></font>
+│   │   │   ├── main.tf
+│   │   │   ├── readme.md
+│   │   │   ├── README.md
+│   │   │   ├── <font color="#3465A4"><b>scripts</b></font>
+│   │   │   │   └── rs_install.sh
+│   │   │   ├── terraform.tfvars
+│   │   │   └── variables.tf
+│   │   ├── <font color="#3465A4"><b>pineapple</b></font>
+│   │   │   ├── <font color="#3465A4"><b>files</b></font>
+│   │   │   │   ├── reverse
+│   │   │   │   └── setup.sh
+│   │   │   ├── main.tf
+│   │   │   ├── outputs.tf
+│   │   │   ├── readme.md
+│   │   │   ├── README.md
+│   │   │   ├── terraform.tfvars
+│   │   │   └── variables.tf
+│   │   └── README.md
 │   ├── readme.md
 │   └── <font color="#3465A4"><b>scripts</b></font>
 │       ├── <font color="#3465A4"><b>azure_pricing</b></font>
@@ -108,26 +133,8 @@ This section lists major frameworks/libraries used to bootstrap the project.
 │       │   └── requirements.txt
 │       ├── <font color="#3465A4"><b>py_scripts</b></font>
 │       │   └── viz_cpu_mem.py
-│       ├── <font color="#3465A4"><b>start_up</b></font>
-│       │   └── setup.sh
-│       ├── <font color="#3465A4"><b>tf_robot_shop_01</b></font>
-│       │   ├── <font color="#3465A4"><b>files</b></font>
-│       │   │   ├── reverse
-│       │   │   └── setup.sh
-│       │   ├── main.tf
-│       │   ├── outputs.tf
-│       │   ├── README.md
-│       │   ├── terraform.tfstate
-│       │   ├── terraform.tfstate.backup
-│       │   ├── terraform.tfvars
-│       │   └── variables.tf
-│       └── <font color="#3465A4"><b>tf_robot_shop_multiple</b></font>
-│           ├── main.tf
-│           ├── README.md
-│           ├── <font color="#3465A4"><b>scripts</b></font>
-│           │   └── rs_install.sh
-│           ├── terraform.tfvars
-│           └── variables.tf
+│       └── <font color="#3465A4"><b>start_up</b></font>
+│           └── setup.sh
 └── timelog.md
 </pre>
 
