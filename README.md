@@ -23,7 +23,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
  -->
-  <h3 align="center">Level 4 - Honours Student Project</h3>
+  <h3 align="center">Fruit Cocktail - Level 4 Student Project</h3>
 
   <p align="center">
     Optimised Microservice Deployment in the Cloud
