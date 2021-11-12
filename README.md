@@ -77,7 +77,7 @@ Using microservices is currently the prevalent architecture, this architectural 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-### Built With
+## Built With
 
 This section lists major frameworks/libraries used to bootstrap the project.
 
@@ -136,7 +136,7 @@ This section lists major frameworks/libraries used to bootstrap the project.
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/krishangpatney/L4-Project/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
