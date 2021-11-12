@@ -74,8 +74,6 @@
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com)
  -->
 
-This folder contains the 
-
 Using microservices is currently the prevalent architecture, this structures an application as a collection of services that are highly maintainable, testable, loosely coupled and allow to be independently deployable. These features present new challanges of their own, hence this project investigates optimization of different ways in which a application curated with microservices could be deployed in the cloud. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
