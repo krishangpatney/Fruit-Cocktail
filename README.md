@@ -28,9 +28,8 @@
   <p align="center">
     Optimised Microservice Deployment in the Cloud
     <br />
-    <a><strong>Supervisor : Yehia Elkhatib »</strong></a>
+    <a>Supervisor : Yehia Elkhatib</a>
 
-    <br />
 <!--     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
