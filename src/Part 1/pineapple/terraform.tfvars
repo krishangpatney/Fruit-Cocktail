@@ -1,6 +1,6 @@
 resource_group          = "krishangs_resource"
 resource_prefix         = "testapp"
-subscription_id 	    = ""
+
 
 hostname                = "testapp"
 location                = "uksouth"
