@@ -165,3 +165,15 @@
 * *0.5 Hours* Weekly Meeting 
 * *1 Hours* LoadGen Script - Robot_Shop
 
+### 12 Nov 2022 
+
+* *4 Hours* Organisation - Github repositories 
+
+## Week 9
+
+### 16 Nov 2022
+
+* *2 Hours* Load Generation Script - Takes in IP Address, can run without the need of a full application. 
+* *3 Hours* Load Generation VM - Errors with creating vnet.
+* *0.5 Hours* Supervisor Meeting - Updates on progress.
+ 
