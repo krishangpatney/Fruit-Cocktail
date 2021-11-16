@@ -1,8 +1,8 @@
 resource_group          = "krishangs_resource"
-resource_prefix         = "testapp"
+resource_prefix         = "robotshop"
 
 
-hostname                = "testapp"
+hostname                = "robotshops"
 location                = "uksouth"
 
 virtual_network_name    = "vnet"

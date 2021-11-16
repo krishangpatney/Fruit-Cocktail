@@ -31,10 +31,11 @@ provider "azurerm" {
 # resource group. Think of it as a container to hold all your resources. 
 # You can find a complete list of Azure resources supported by Terraform here:
 # https://www.terraform.io/docs/providers/azurerm/
-data "azurerm_resource_group" "robot_shop_single" {
+data "azurerm_resource_group" "robot_shop_load" {
   name     = "${var.resource_group}"
   # location = "${var.location}"
 }
+
 
 # The next resource is a Virtual Network. We can dynamically place it into the
 # resource group without knowing its name ahead of time. Terraform handles all
@@ -71,8 +72,8 @@ resource "azurerm_subnet" "subnet" {
 # automatically, and each resource is named with user-defined variables.
 
 # Security group to allow inbound access on port 80 (http) and 22 (ssh)
-resource "azurerm_network_security_group" "robot_shop_single" {
-  name                = "${var.resource_prefix}-sg"
+resource "azurerm_network_security_group" "robot_shop_load" {
+  name                = "${var.resource_prefix}-load"
   location            = "${var.location}"
   resource_group_name = "${var.resource_group}"
 
@@ -103,8 +104,8 @@ resource "azurerm_network_security_group" "robot_shop_single" {
 
 # A network interface. This is required by the azurerm_virtual_machine 
 # resource. Terraform will let you know if you're missing a dependency.
-resource "azurerm_network_interface" "robot_shop_single" {
-  name                      = "${var.resource_prefix}robot_shop_single"
+resource "azurerm_network_interface" "robot_shop_load" {
+  name                      = "${var.resource_prefix}robot_shop_load"
   location                  = "${var.location}"
   resource_group_name       = "${var.resource_group}"
 
@@ -112,14 +113,14 @@ resource "azurerm_network_interface" "robot_shop_single" {
     name                          = "${var.resource_prefix}ipconfig"
     subnet_id                     = "${azurerm_subnet.subnet.id}"
     private_ip_address_allocation = "Dynamic"
-    public_ip_address_id          = "${azurerm_public_ip.robot_shop_single-pip.id}"
+    public_ip_address_id          = "${azurerm_public_ip.robot_shop_load-pip.id}"
   }
 }
 
 # Every Azure Virtual Machine comes with a private IP address. You can also 
 # optionally add a public IP address for Internet-facing applications and 
 # demo environments like this one.
-resource "azurerm_public_ip" "robot_shop_single-pip" {
+resource "azurerm_public_ip" "robot_shop_load-pip" {
   name                         = "${var.resource_prefix}-ip"
   location                     = "${var.location}"
   resource_group_name          = "${var.resource_group}"
@@ -138,7 +139,7 @@ resource "azurerm_virtual_machine" "site" {
   resource_group_name = "${var.resource_group}"
   vm_size             = "${var.vm_size}"
 
-  network_interface_ids         = ["${azurerm_network_interface.robot_shop_single.id}"]
+  network_interface_ids         = ["${azurerm_network_interface.robot_shop_load.id}"]
   delete_os_disk_on_termination = "true"
 
   storage_image_reference {
@@ -174,21 +175,7 @@ resource "azurerm_virtual_machine" "site" {
       type     = "ssh"
       user     = "${var.admin_username}"
       password = "${var.admin_password}"
-      host     = "${azurerm_public_ip.robot_shop_single-pip.fqdn}"
-    }
-  }
-
-
-  # Transfer configuration file for NGINX
-  provisioner "file" {
-    source      = "files/reverse"
-    destination = "/home/${var.admin_username}/reverse"
-
-    connection {
-      type     = "ssh"
-      user     = "${var.admin_username}"
-      password = "${var.admin_password}"
-      host     = "${azurerm_public_ip.robot_shop_single-pip.fqdn}"
+      host     = "${azurerm_public_ip.robot_shop_load-pip.fqdn}"
     }
   }
 
@@ -196,14 +183,14 @@ resource "azurerm_virtual_machine" "site" {
   provisioner "remote-exec" {
     inline = [
       "chmod +x /home/${var.admin_username}/setup.sh",
-      "sudo /home/${var.admin_username}/setup.sh",
+      "sudo /home/${var.admin_username}/setup.sh ${var.applicationsIPAddr}",
     ]
 
     connection {
       type     = "ssh"
       user     = "${var.admin_username}"
       password = "${var.admin_password}"
-      host     = "${azurerm_public_ip.robot_shop_single-pip.fqdn}"
+      host     = "${azurerm_public_ip.robot_shop_load-pip.fqdn}"
     }
   }
 }
