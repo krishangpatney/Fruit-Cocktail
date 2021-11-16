@@ -1,12 +1,12 @@
 resource_group          = "krishangs_resource"
-resource_prefix         = "robotshop_loadgen"
+resource_prefix         = "loadGen"
 
-hostname                = "robotshop_loadgen"
+hostname                = "loadgen"
 location                = "uksouth"
 
-virtual_network_name    = "vnet"
+virtual_network_name    = "loadGenVnet"
 address_space           = "10.0.0.0/16"
-subnet_prefix           = "10.0.0.0/24"
+subnet_prefix           = "10.0.0.0/23"
 
 storage_account_tier    = "Standard"
 storage_replication_type ="LRS"

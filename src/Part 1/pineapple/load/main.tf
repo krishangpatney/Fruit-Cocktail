@@ -31,7 +31,7 @@ provider "azurerm" {
 # resource group. Think of it as a container to hold all your resources. 
 # You can find a complete list of Azure resources supported by Terraform here:
 # https://www.terraform.io/docs/providers/azurerm/
-data "azurerm_resource_group" "robot_shop_load" {
+data "azurerm_resource_group" "loadGen" {
   name     = "${var.resource_group}"
   # location = "${var.location}"
 }
@@ -56,7 +56,7 @@ resource "azurerm_virtual_network" "vnet" {
 # default variables in the variables.tf file. You can customize this demo by
 # making a copy of the terraform.tfvars.example file.
 resource "azurerm_subnet" "subnet" {
-  name                 = "${var.resource_prefix}subnet"
+  name                 = "${var.resource_prefix}_subnet"
   virtual_network_name = "${azurerm_virtual_network.vnet.name}"
   resource_group_name  = "${var.resource_group}"
   address_prefix       = "${var.subnet_prefix}"
@@ -72,7 +72,7 @@ resource "azurerm_subnet" "subnet" {
 # automatically, and each resource is named with user-defined variables.
 
 # Security group to allow inbound access on port 80 (http) and 22 (ssh)
-resource "azurerm_network_security_group" "robot_shop_load" {
+resource "azurerm_network_security_group" "loadGen" {
   name                = "${var.resource_prefix}-load"
   location            = "${var.location}"
   resource_group_name = "${var.resource_group}"
@@ -104,8 +104,8 @@ resource "azurerm_network_security_group" "robot_shop_load" {
 
 # A network interface. This is required by the azurerm_virtual_machine 
 # resource. Terraform will let you know if you're missing a dependency.
-resource "azurerm_network_interface" "robot_shop_load" {
-  name                      = "${var.resource_prefix}robot_shop_load"
+resource "azurerm_network_interface" "loadGen" {
+  name                      = "${var.resource_prefix}loadGen"
   location                  = "${var.location}"
   resource_group_name       = "${var.resource_group}"
 
@@ -113,14 +113,14 @@ resource "azurerm_network_interface" "robot_shop_load" {
     name                          = "${var.resource_prefix}ipconfig"
     subnet_id                     = "${azurerm_subnet.subnet.id}"
     private_ip_address_allocation = "Dynamic"
-    public_ip_address_id          = "${azurerm_public_ip.robot_shop_load-pip.id}"
+    public_ip_address_id          = "${azurerm_public_ip.loadGenPip.id}"
   }
 }
 
 # Every Azure Virtual Machine comes with a private IP address. You can also 
 # optionally add a public IP address for Internet-facing applications and 
 # demo environments like this one.
-resource "azurerm_public_ip" "robot_shop_load-pip" {
+resource "azurerm_public_ip" "loadGenPip" {
   name                         = "${var.resource_prefix}-ip"
   location                     = "${var.location}"
   resource_group_name          = "${var.resource_group}"
@@ -139,7 +139,7 @@ resource "azurerm_virtual_machine" "site" {
   resource_group_name = "${var.resource_group}"
   vm_size             = "${var.vm_size}"
 
-  network_interface_ids         = ["${azurerm_network_interface.robot_shop_load.id}"]
+  network_interface_ids         = ["${azurerm_network_interface.loadGen.id}"]
   delete_os_disk_on_termination = "true"
 
   storage_image_reference {
@@ -175,7 +175,7 @@ resource "azurerm_virtual_machine" "site" {
       type     = "ssh"
       user     = "${var.admin_username}"
       password = "${var.admin_password}"
-      host     = "${azurerm_public_ip.robot_shop_load-pip.fqdn}"
+      host     = "${azurerm_public_ip.loadGenPip.fqdn}"
     }
   }
 
@@ -183,14 +183,14 @@ resource "azurerm_virtual_machine" "site" {
   provisioner "remote-exec" {
     inline = [
       "chmod +x /home/${var.admin_username}/setup.sh",
-      "sudo /home/${var.admin_username}/setup.sh ${var.applicationsIPAddr}",
+      "sudo /home/${var.admin_username}/setup.sh ${var.applications_public_ip}",
     ]
 
     connection {
       type     = "ssh"
       user     = "${var.admin_username}"
       password = "${var.admin_password}"
-      host     = "${azurerm_public_ip.robot_shop_load-pip.fqdn}"
+      host     = "${azurerm_public_ip.loadGenPip.fqdn}"
     }
   }
 }
