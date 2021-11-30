@@ -8,3 +8,7 @@ terraform apply \
 -var-file=secret-variables.tfvars
 
 ```
+
+run.sh
+kill.sh
+secrets.sh -> Requires input.
