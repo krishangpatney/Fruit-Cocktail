@@ -177,3 +177,19 @@
 * *3 Hours* Load Generation VM - Errors with creating vnet.
 * *0.5 Hours* Supervisor Meeting - Updates on progress.
  
+## Week 11
+
+### 30 Nov 2021
+
+* *1 Hours* run.sh, kill.sh scripts to start and delete terraform (Pineapple, works fine).
+* *3 Hours* debugging script for load generation - Does not work yet.
+
+## Week 12
+
+### 03 Dec 2021
+
+* *1 Hours* Terraform modules research. 
+* *2 Hours* Different Azure monitoring systems research.
+* *1 Hours* Implementing possible solutions for logging metrics (Spoilers : Do not work)
+* *3 Hours* Debugging different solutions for logging metrics. 
+
