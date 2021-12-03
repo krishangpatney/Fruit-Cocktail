@@ -10,3 +10,6 @@ ip_address=$(grep -o '[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}' ..
 echo 'Kill Robot Shop Load Generation'
 
 terraform destroy -auto-approve -var applications_public_ip='${ip_address[0]}' -var-file=secret-variables.tfvars  -var-file=terraform.tfvars 
+
+#Delete all extra files and cleanup!
+

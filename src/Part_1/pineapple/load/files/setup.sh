@@ -20,6 +20,8 @@ chmod +x /usr/local/bin/docker-compose
 
 # Install and run load generation
 git clone -b load-gen https://github.com/krishangpatney/robot-shop.git
+sleep 5
 cd robot-shop/load-gen
-docker-compose pull
-sudo ./load-gen.sh 100 5m $1 >> load_output.txt 2>&1 &
+docker-compose 
+sudo chmod +x load-gen.sh  
+sudo ./load-gen.sh 100 5m $1 >> load_output.txt &

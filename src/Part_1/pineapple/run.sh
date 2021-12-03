@@ -1,4 +1,8 @@
 #!/bin/bash
+# run secrets.sh to have subscriptions 
+
+# ./secrets.sh 
+
 
 #Create Application VM
 echo 'Installing Application - Robot Shop Single Mode'
