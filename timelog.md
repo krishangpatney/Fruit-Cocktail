@@ -193,3 +193,7 @@
 * *1 Hours* Implementing possible solutions for logging metrics (Spoilers : Do not work)
 * *3 Hours* Debugging different solutions for logging metrics. 
 
+### 04 Dec 2021
+* *2 Hours* Research azure CLI & get metrics 
+* *2 Hours* Rearragne file system for readibility
+
