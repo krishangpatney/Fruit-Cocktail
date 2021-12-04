@@ -1,17 +1,17 @@
 resource_group          = "krishangs_resource"
-resource_prefix         = "load_gen"
+resource_prefix         = "pineapple_gen"
 
-hostname                = "loadgen"
+hostname                = "pinegen"
 location                = "uksouth"
 
-virtual_network_name    = "load_gen_vnet"
+virtual_network_name    = "pinegen_vnet"
 address_space           = "10.0.0.0/16"
 subnet_prefix           = "10.0.0.0/23"
 
 storage_account_tier    = "Standard"
 storage_replication_type ="LRS"
 
-vm_size                 = "Standard_A2m_v2"
+vm_size                 = "Standard_A2_v2"
 
 image_publisher         = "Canonical"
 image_offer             = "UbuntuServer"

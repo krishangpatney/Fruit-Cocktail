@@ -23,5 +23,5 @@ git clone -b load-gen https://github.com/krishangpatney/robot-shop.git
 sleep 5
 cd robot-shop/load-gen
 docker-compose 
-sudo chmod +x load-gen.sh  
-sudo ./load-gen.sh 100 5m $1 >> load_output.txt &
+chmod +x load-gen.sh  
+./load-gen.sh 100 5m $1 >> load_output.txt &
