@@ -7,63 +7,63 @@
 
 variable "subscription_id" {
   description = "Subscription ID of the user"
-  type = string
+  type        = string
 }
 
 variable "applications_public_ip" {
   description = "Applications IP "
-  type = string
+  type        = string
 }
 
 variable "resource_group" {
   description = "The name of your Azure Resource Group."
-  type = string
+  type        = string
 }
 
 variable "resource_prefix" {
   description = "This prefix will be included in the name of some resources."
-  type = string
+  type        = string
 
 }
 
 variable "hostname" {
   description = "Virtual machine hostname. Used for local hostname, DNS, and storage-related names."
-  type = string
+  type        = string
 }
 
 variable "location" {
   description = "The region where the virtual network is created."
-  type = string
+  type        = string
 }
 
 variable "virtual_network_name" {
   description = "The name for your virtual network."
-  type = string
+  type        = string
 }
 
 variable "address_space" {
   description = "The address space that is used by the virtual network. You can supply more than one address space. Changing this forces a new resource to be created."
-  type = string
+  type        = string
 }
 
 variable "subnet_prefix" {
   description = "The address prefix to use for the subnet."
-  type = string
+  type        = string
 }
 
 variable "storage_account_tier" {
   description = "Defines the storage tier. Valid options are Standard and Premium."
-  type = string
+  type        = string
 }
 
 variable "storage_replication_type" {
   description = "Defines the replication type to use for this storage account. Valid options include LRS, GRS etc."
-  type = string
+  type        = string
 }
 
 variable "vm_size" {
   description = "Specifies the size of the virtual machine."
-  type = string
+  type        = string
 }
 
 variable "image_publisher" {
@@ -73,30 +73,30 @@ variable "image_publisher" {
 
 variable "image_offer" {
   description = "Name of the offer (az vm image list)"
-  type = string
+  type        = string
 }
 
 variable "image_sku" {
   description = "Image SKU to apply (az vm image list)"
-  type = string
+  type        = string
 }
 
 variable "image_version" {
   description = "Version of the image to apply (az vm image list)"
-  type = string
+  type        = string
 }
 
 variable "admin_username" {
   description = "Administrator user name"
-  type = string
+  type        = string
 }
 
 variable "admin_password" {
   description = "Administrator password"
-  type = string
+  type        = string
 }
 
 variable "source_network" {
   description = "Allow access from this network prefix. Defaults to '*'."
-  type = string
+  type        = string
 }

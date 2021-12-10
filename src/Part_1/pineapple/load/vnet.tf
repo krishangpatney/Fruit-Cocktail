@@ -5,8 +5,8 @@
 # works visually, run `terraform graph` and copy the output into the online
 # GraphViz tool: http://www.webgraphviz.com/
 resource "azurerm_virtual_network" "vnet" {
-  name                = "${var.virtual_network_name}"
-  location            = "${var.location}"
+  name                = var.virtual_network_name
+  location            = var.location
   address_space       = ["${var.address_space}"]
-  resource_group_name = "${var.resource_group}"
+  resource_group_name = var.resource_group
 }

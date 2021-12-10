@@ -1,18 +1,18 @@
 
 resource "azurerm_virtual_machine" "site" {
   name                = "${var.hostname}-site"
-  location            = "${var.location}"
-  resource_group_name = "${var.resource_group}"
-  vm_size             = "${var.vm_size}"
+  location            = var.location
+  resource_group_name = var.resource_group
+  vm_size             = var.vm_size
 
   network_interface_ids         = ["${azurerm_network_interface.load_gen.id}"]
   delete_os_disk_on_termination = "true"
 
   storage_image_reference {
-    publisher = "${var.image_publisher}"
-    offer     = "${var.image_offer}"
-    sku       = "${var.image_sku}"
-    version   = "${var.image_version}"
+    publisher = var.image_publisher
+    offer     = var.image_offer
+    sku       = var.image_sku
+    version   = var.image_version
   }
 
   storage_os_disk {
@@ -23,9 +23,9 @@ resource "azurerm_virtual_machine" "site" {
   }
 
   os_profile {
-    computer_name  = "${var.hostname}"
-    admin_username = "${var.admin_username}"
-    admin_password = "${var.admin_password}"
+    computer_name  = var.hostname
+    admin_username = var.admin_username
+    admin_password = var.admin_password
   }
 
   os_profile_linux_config {
@@ -39,9 +39,9 @@ resource "azurerm_virtual_machine" "site" {
 
     connection {
       type     = "ssh"
-      user     = "${var.admin_username}"
-      password = "${var.admin_password}"
-      host     = "${azurerm_public_ip.load_gen_pip.fqdn}"
+      user     = var.admin_username
+      password = var.admin_password
+      host     = azurerm_public_ip.load_gen_pip.fqdn
     }
   }
 
@@ -54,9 +54,9 @@ resource "azurerm_virtual_machine" "site" {
 
     connection {
       type     = "ssh"
-      user     = "${var.admin_username}"
-      password = "${var.admin_password}"
-      host     = "${azurerm_public_ip.load_gen_pip.fqdn}"
+      user     = var.admin_username
+      password = var.admin_password
+      host     = azurerm_public_ip.load_gen_pip.fqdn
     }
   }
 }
