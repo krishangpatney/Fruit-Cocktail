@@ -6,7 +6,7 @@
 # making a copy of the terraform.tfvars.example file.
 resource "azurerm_subnet" "subnet" {
   name                 = "${var.resource_prefix}_subnet"
-  virtual_network_name = "${azurerm_virtual_network.vnet.name}"
-  resource_group_name  = "${var.resource_group}"
-  address_prefix       = "${var.subnet_prefix}"
+  virtual_network_name = azurerm_virtual_network.vnet.name
+  resource_group_name  = var.resource_group
+  address_prefix       = var.subnet_prefix
 }
