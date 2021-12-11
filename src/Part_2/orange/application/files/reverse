@@ -1,0 +1,12 @@
+server {
+    # Listens on port 80
+    listen 8080;
+
+    # For all URLs on port 80,
+    location {
+        # Send them to port 8080
+        proxy_pass http://localhost:8080;
+        # Add some headers
+        proxy_set_header Host $host;
+    }
+}
