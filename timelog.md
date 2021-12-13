@@ -190,10 +190,21 @@
 
 * *1 Hours* Terraform modules research. 
 * *2 Hours* Different Azure monitoring systems research.
-* *1 Hours* Implementing possible solutions for logging metrics (Spoilers : Do not work)
+* *1 Hours* Implementing possible solutions for logging metrics (Spoilers : Did not work)
 * *3 Hours* Debugging different solutions for logging metrics. 
 
 ### 04 Dec 2021
 * *2 Hours* Research azure CLI & get metrics 
 * *2 Hours* Rearragne file system for readibility
 
+## Week 13
+
+### 10 Dec 2021
+* *2 Hours* Create Documentation for different pattern types & Objectives
+* *1 Hours* Recreate Pattern 1 Files for Social Network Application and test. 
+* *1 Hours* Try different ways to scale scripts. 
+
+## Week 14 
+
+### 13 Dec 2021 
+* *1 Hours* Create Status Report 
