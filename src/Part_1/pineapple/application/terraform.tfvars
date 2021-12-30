@@ -1,5 +1,6 @@
 resource_group  = "krishangs_resource"
 resource_prefix = "pineapple"
+count_number = "1"
 
 hostname = "pineapplication"
 location = "uksouth"
@@ -11,7 +12,8 @@ subnet_prefix        = "10.0.0.0/24"
 storage_account_tier     = "Standard"
 storage_replication_type = "LRS"
 
-vm_size = "Standard_A2m_v2"
+# vm_size = "Standard_A2m_v2"
+# vm_size = "Standard_B1ls"
 
 image_publisher = "Canonical"
 image_offer     = "UbuntuServer"

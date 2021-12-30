@@ -1,6 +1,6 @@
 # Security group to allow inbound access on port 80 (http) and 22 (ssh)
 resource "azurerm_network_security_group" "robot_shop_single" {
-  name                = "${var.resource_prefix}-sg"
+  name                = "${var.resource_prefix}-sg-${var.count_number}"
   location            = var.location
   resource_group_name = var.resource_group
 

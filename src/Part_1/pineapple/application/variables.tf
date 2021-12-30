@@ -10,6 +10,10 @@ variable "subscription_id" {
   type        = string
 }
 
+variable "count_number" {
+  description = "Subscription ID of the user"
+  type        = string
+}
 
 variable "resource_group" {
   description = "The name of your Azure Resource Group."

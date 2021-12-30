@@ -29,5 +29,5 @@ sudo systemctl restart nginx
 cd /home/
 git clone https://github.com/instana/robot-shop.git
 cd robot-shop/
-docker-compose pull
+# docker-compose pull
 docker-compose up -d 
