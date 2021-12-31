@@ -13,15 +13,15 @@ terraform output public_ip_address > ../output/application_ip.txt
 
 # #Plan Load Generation VM - With -var
 cd .. 
-cd ./load
-echo 'Installing Load Generation For Robot Shop Single Mode'
-terraform init 
+# cd ./load
+# echo 'Installing Load Generation For Robot Shop Single Mode'
+# terraform init 
 
-ip_address=$(grep -o '[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}' ../output/application_ip.txt)
+# ip_address=$(grep -o '[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}' ../output/application_ip.txt)
 
-echo ${ip_address}
-echo 'Running Apply'
-# terraform plan -var applications_public_ip='${ip_address[0]}'
-terraform apply  -auto-approve -var applications_public_ip='${ip_address[0]}' -var-file=secret-variables.tfvars  -var-file=terraform.tfvars 
+# echo ${ip_address}
+# echo 'Running Apply'
+# # terraform plan -var applications_public_ip='${ip_address[0]}'
+# terraform apply  -auto-approve -var applications_public_ip='${ip_address[0]}' -var-file=secret-variables.tfvars  -var-file=terraform.tfvars 
 
-cd ..
+# cd ..

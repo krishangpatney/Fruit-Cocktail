@@ -4,14 +4,17 @@
 
 resource_group=${1}
 application_name=${2} 
-# run_number = ${3}
+machine_name=${3}
 
 # Get's metric values and stores them in output/raw_metrics.
-echo $resource_group
-echo $application_name
 
+cd ./output
+dir
+mkdir -p "$machine_name"
 # Percentage CPU
-az vm monitor metrics tail --name $application_name -g $resource_group --metric "Percentage CPU" >> 'output/raw_metrics/one/percentageCPU.json'
+az vm monitor metrics tail --name $application_name -g $resource_group --metric "Percentage CPU" > "./${vm_name}/percentageCPU.json"
 
-# Available Memory Bytes
-az vm monitor metrics tail --name $application_name -g $resource_group --metric "Available Memory Bytes" >> 'output/raw_metrics/one/availableMemoryBytes.json'
+# # Available Memory Bytes
+az vm monitor metrics tail --name $application_name -g $resource_group --metric "Available Memory Bytes" > "./${vm_name}/availableMemoryBytes.json"
+
+cd ..

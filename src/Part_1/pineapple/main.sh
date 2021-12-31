@@ -17,22 +17,19 @@ do
 
     sleep 5m 
 
-    source get_metrics.sh krishangs_resource pineapple-1-site
+    Run a load generator requires python and loctus 
+    ip_address=$(grep -o '[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}' ./output/application_ip.txt)
+    cd ./temp_load
+    locust --host "http://${ip_address[0]}" --csv "${machine}_load" --headless -u 1000 -r 10 -t 5m
+    cd ..
+    sleep 6m
+
+    source get_metrics.sh krishangs_resource pineapplication-1-site $machine
     
-    sleep 5m
     
     source kill.sh
 done
 
-
-# DONE take in sub id and create files with subscription id 
-
-# DONE run run.sh 
-# sleep this script for 50 minutes 
-
-# run get metrics. 
-
-# run kill.sh 
 
 
 
