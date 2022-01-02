@@ -1,0 +1,151 @@
+Method,Name,Error,Occurrences
+GET,/api/shipping/calc/3399952,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/3399952,1
+GET,/api/shipping/calc/4046560,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/4046560,1
+GET,/api/shipping/calc/5088178,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/5088178,1
+GET,/api/cart/update/anonymous-797/UHJ/2,Remote end closed connection without response,1
+GET,/api/shipping/calc/3201206,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/3201206,1
+GET,/api/shipping/cities/br,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/cities/br,9
+GET,/api/shipping/calc/5671159,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/5671159,1
+GET,/api/shipping/cities/us,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/cities/us,7
+GET,/api/shipping/codes,[Errno 104] Connection reset by peer,1
+GET,/api/shipping/calc/3203903,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/3203903,1
+GET,/api/shipping/calc/4043578,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/4043578,1
+GET,/api/cart/update/anonymous-833/Watson/2,Remote end closed connection without response,1
+POST,/api/user/login,Remote end closed connection without response,6
+GET,/api/shipping/calc/5821193,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/5821193,1
+GET,/api/cart/add/anonymous-832/UHJ/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/3437311,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/3437311,1
+GET,/api/shipping/cities/nl,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/cities/nl,8
+GET,/api/cart/add/anonymous-801/UHJ/1,500 Server Error: Internal Server Error for url: http://20.90.255.249/api/cart/add/anonymous-801/UHJ/1,1
+GET,/api/catalogue/categories,Remote end closed connection without response,1
+GET,/api/user/uniqueid,[Errno 104] Connection reset by peer,4
+GET,/api/shipping/calc/3750662,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/3750662,1
+GET,/api/shipping/cities/pt,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/cities/pt,8
+GET,/api/shipping/calc/5354234,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/5354234,1
+PUT,/api/ratings/api/rate/UHJ/1,500 Server Error: Internal Server Error for url: http://20.90.255.249/api/ratings/api/rate/UHJ/1,1
+GET,/api/shipping/calc/3439501,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/3439501,1
+GET,/,Remote end closed connection without response,2
+GET,/api/shipping/calc/3205800,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/3205800,1
+GET,/api/shipping/calc/3768912,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/3768912,1
+GET,/api/shipping/cities/no,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/cities/no,7
+GET,/api/ratings/api/fetch/RMC,500 Server Error: Internal Server Error for url: http://20.90.255.249/api/ratings/api/fetch/RMC,1
+GET,/api/shipping/calc/3958961,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/3958961,1
+GET,/api/shipping/calc/4573703,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/4573703,1
+GET,/api/shipping/cities/de,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/cities/de,10
+POST,/api/shipping/confirm/anonymous-20,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/confirm/anonymous-20,1
+GET,/api/shipping/calc/5671846,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/5671846,1
+GET,/api/shipping/calc/3779694,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/3779694,1
+GET,/api/shipping/calc/4582121,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/4582121,1
+GET,/api/shipping/codes,Remote end closed connection without response,2
+GET,/api/cart/cart/anonymous-837,500 Server Error: Internal Server Error for url: http://20.90.255.249/api/cart/cart/anonymous-837,1
+GET,/api/ratings/api/fetch/RMC,Remote end closed connection without response,1
+GET,/api/ratings/api/fetch/EPE,Remote end closed connection without response,1
+GET,/api/shipping/calc/3930375,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/3930375,1
+GET,/api/shipping/calc/3758296,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/3758296,1
+GET,/api/shipping/calc/5087180,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/5087180,1
+GET,/api/shipping/cities/cz,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/cities/cz,15
+GET,/api/shipping/calc/4007435,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/4007435,1
+GET,/api/ratings/api/fetch/HPTD,500 Server Error: Internal Server Error for url: http://20.90.255.249/api/ratings/api/fetch/HPTD,1
+GET,/api/shipping/calc/3846256,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/3846256,1
+GET,/api/shipping/calc/5095869,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/5095869,1
+GET,/api/shipping/calc/4584689,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/4584689,1
+GET,/api/shipping/calc/4032034,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/4032034,1
+GET,/api/shipping/cities/hu,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/cities/hu,10
+GET,/api/shipping/calc/3210607,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/3210607,1
+GET,/api/catalogue/categories,500 Server Error: Internal Server Error for url: http://20.90.255.249/api/catalogue/categories,1
+POST,/api/user/login,[Errno 104] Connection reset by peer,8
+GET,/api/cart/add/anonymous-833/SHCE/1,Remote end closed connection without response,1
+GET,/api/catalogue/product/HPTD,Remote end closed connection without response,1
+GET,/api/shipping/calc/5083043,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/5083043,1
+GET,/api/cart/add/anonymous-836/RMC/1,500 Server Error: Internal Server Error for url: http://20.90.255.249/api/cart/add/anonymous-836/RMC/1,1
+POST,/api/shipping/confirm/anonymous-22,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/confirm/anonymous-22,1
+PUT,/api/ratings/api/rate/STAN-1/5,Remote end closed connection without response,1
+GET,/api/shipping/calc/5368114,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/5368114,1
+GET,/api/shipping/calc/3929136,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/3929136,1
+GET,/api/shipping/cities/ch,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/cities/ch,8
+GET,/api/ratings/api/fetch/UHJ,500 Server Error: Internal Server Error for url: http://20.90.255.249/api/ratings/api/fetch/UHJ,1
+GET,/api/shipping/cities/tr,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/cities/tr,8
+GET,/api/ratings/api/fetch/STAN-1,[Errno 104] Connection reset by peer,1
+GET,/api/shipping/calc/3194703,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/3194703,1
+GET,/api/shipping/cities/ru,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/cities/ru,7
+GET,/api/cart/add/anonymous-830/RMC/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/5091305,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/5091305,1
+GET,/api/shipping/calc/4167746,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/4167746,1
+GET,/api/shipping/calc/3305214,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/3305214,1
+GET,/api/shipping/calc/3767430,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/3767430,1
+POST,/api/shipping/confirm/anonymous-15,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/confirm/anonymous-15,1
+POST,/api/shipping/confirm/anonymous-14,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/confirm/anonymous-14,1
+GET,/api/user/uniqueid,Remote end closed connection without response,2
+GET,/api/shipping/calc/5379020,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/5379020,1
+GET,/api/shipping/cities/fr,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/cities/fr,10
+GET,/api/shipping/calc/4029015,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/4029015,1
+GET,/api/shipping/calc/4173793,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/4173793,1
+GET,/api/catalogue/product/RMC,500 Server Error: Internal Server Error for url: http://20.90.255.249/api/catalogue/product/RMC,1
+GET,/api/cart/update/anonymous-830/HPTD/2,500 Server Error: Internal Server Error for url: http://20.90.255.249/api/cart/update/anonymous-830/HPTD/2,1
+GET,/api/shipping/calc/5093287,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/5093287,1
+GET,/api/shipping/cities/in,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/cities/in,12
+GET,/api/shipping/codes,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/codes,9648
+GET,/api/shipping/cities/jp,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/cities/jp,10
+GET,/api/shipping/calc/3774769,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/3774769,1
+GET,/api/shipping/cities/se,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/cities/se,8
+GET,/api/cart/add/anonymous-796/EMM/1,500 Server Error: Internal Server Error for url: http://20.90.255.249/api/cart/add/anonymous-796/EMM/1,1
+GET,/api/shipping/calc/4372690,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/4372690,1
+GET,/api/shipping/calc/3439250,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/3439250,1
+GET,/api/shipping/calc/4053517,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/4053517,1
+GET,/api/shipping/calc/3308177,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/3308177,1
+GET,/api/catalogue/product/EPE,500 Server Error: Internal Server Error for url: http://20.90.255.249/api/catalogue/product/EPE,1
+GET,/api/shipping/calc/3950324,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/3950324,1
+GET,/api/shipping/calc/5078754,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/5078754,1
+GET,/api/shipping/calc/3298837,[Errno 104] Connection reset by peer,1
+GET,/api/shipping/cities/au,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/cities/au,9
+GET,/api/shipping/calc/3756615,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/3756615,1
+GET,/api/shipping/cities/it,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/cities/it,8
+GET,/api/shipping/calc/3211500,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/3211500,1
+GET,/api/cart/update/anonymous-794/EPE/2,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-803/EMM/2,Remote end closed connection without response,1
+GET,/api/shipping/calc/4174476,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/4174476,1
+GET,/api/shipping/calc/3958175,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/3958175,1
+GET,/api/shipping/cities/bg,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/cities/bg,5
+GET,/api/shipping/calc/3850577,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/3850577,1
+GET,/api/shipping/calc/5080855,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/5080855,1
+GET,/api/ratings/api/fetch/STAN-1,Remote end closed connection without response,1
+GET,/api/shipping/calc/5823007,500 Server Error: Internal Server Error for url: http://20.90.255.249/api/shipping/calc/5823007,1
+GET,/api/shipping/calc/3345901,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/3345901,1
+GET,/api/catalogue/product/Watson,Remote end closed connection without response,1
+GET,/api/shipping/cities/dk,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/cities/dk,7
+GET,/api/shipping/calc/3437274,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/3437274,1
+GET,/api/shipping/calc/3803041,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/3803041,1
+POST,/api/shipping/confirm/anonymous-18,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/confirm/anonymous-18,1
+POST,/api/user/login,500 Server Error: Internal Server Error for url: http://20.90.255.249/api/user/login,2
+GET,/api/shipping/cities/ca,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/cities/ca,7
+GET,/api/shipping/cities/gb,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/cities/gb,12
+GET,/api/cart/cart/anonymous-801,500 Server Error: Internal Server Error for url: http://20.90.255.249/api/cart/cart/anonymous-801,1
+GET,/api/shipping/calc/3925381,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/3925381,1
+POST,/api/shipping/confirm/anonymous-13,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/confirm/anonymous-13,1
+GET,/api/catalogue/product/STAN-1,[Errno 104] Connection reset by peer,1
+GET,/api/shipping/calc/5370292,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/5370292,1
+GET,/api/catalogue/product/RMC,Remote end closed connection without response,1
+GET,/api/shipping/calc/5079673,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/5079673,1
+GET,/,[Errno 104] Connection reset by peer,13
+GET,/api/shipping/calc/4179229,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/4179229,1
+GET,/api/shipping/calc/3844309,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/3844309,1
+GET,/,500 Server Error: Internal Server Error for url: http://20.90.255.249/,12
+GET,/api/shipping/calc/5079707,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/5079707,1
+GET,/api/shipping/calc/5385067,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/5385067,1
+GET,/api/ratings/api/fetch/UHJ,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-16,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/confirm/anonymous-16,1
+GET,/api/shipping/calc/4571467,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/4571467,1
+GET,/api/shipping/calc/3208500,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/3208500,1
+GET,/api/shipping/calc/6025097,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/6025097,1
+GET,/api/shipping/calc/3399926,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/3399926,1
+GET,/api/shipping/calc/4410274,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/4410274,1
+GET,/api/shipping/cities/fi,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/cities/fi,8
+GET,/api/cart/add/anonymous-837/RED/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/4037760,[Errno 104] Connection reset by peer,1
+POST,/api/shipping/confirm/anonymous-3,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/confirm/anonymous-3,1
+GET,/api/shipping/cities/ro,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/cities/ro,5
+GET,/api/shipping/cities/es,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/cities/es,11
+GET,/api/user/uniqueid,500 Server Error: Internal Server Error for url: http://20.90.255.249/api/user/uniqueid,10
+GET,/api/shipping/cities/at,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/cities/at,8
+GET,/api/shipping/calc/4180015,Remote end closed connection without response,1
+GET,/api/shipping/calc/4393839,504 Server Error: Gateway Time-out for url: http://20.90.255.249/api/shipping/calc/4393839,1
