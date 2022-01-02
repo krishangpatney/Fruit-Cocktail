@@ -1,0 +1,845 @@
+Method,Name,Error,Occurrences
+GET,/api/cart/cart/anonymous-300,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-300,1
+GET,/api/cart/update/anonymous-6286/EMM/2,Remote end closed connection without response,1
+GET,/api/ratings/api/fetch/HPTD,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/ratings/api/fetch/HPTD,21
+GET,/api/cart/cart/anonymous-338,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-338,1
+GET,/api/cart/add/anonymous-315/Watson/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-3774/RMC/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-308/RED/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-308/RED/1,1
+GET,/api/cart/cart/anonymous-208,[Errno 104] Connection reset by peer,1
+GET,/api/cart/update/anonymous-159/HPTD/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-6350/Watson/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-4077/SHCE/1,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-372/EMM/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-372/EMM/1,1
+GET,/api/cart/add/anonymous-379/Watson/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-379/Watson/1,1
+GET,/api/cart/add/anonymous-369/EMM/1,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-262/RMC/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-337/Watson/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-337/Watson/1,1
+GET,/api/catalogue/categories,[Errno 104] Connection reset by peer,43
+PUT,/api/ratings/api/rate/Watson/2,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/ratings/api/rate/Watson/2,2
+GET,/api/cart/add/anonymous-6122/STAN-1/1,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-405/Watson/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-405/Watson/1,1
+GET,/api/cart/add/anonymous-416/STAN-1/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-416/STAN-1/1,1
+GET,/api/cart/add/anonymous-220/RED/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-220/RED/1,1
+PUT,/api/ratings/api/rate/Watson/1,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-230/EPE/1,Remote end closed connection without response,1
+GET,/api/catalogue/product/SHCE,500 Server Error: Internal Server Error for url: http://20.117.92.248/api/catalogue/product/SHCE,1
+GET,/api/cart/add/anonymous-303/HPTD/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-5110/EMM/1,[Errno 110] Connection timed out,1
+GET,/api/cart/cart/anonymous-169,[Errno 110] Connection timed out,1
+GET,/api/cart/cart/anonymous-236,[Errno 104] Connection reset by peer,1
+GET,/api/catalogue/products,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/catalogue/products,24
+PUT,/api/ratings/api/rate/EPE/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-159/STAN-1/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-254/RED/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-463,[Errno 104] Connection reset by peer,1
+GET,/api/cart/update/anonymous-3184/STAN-1/2,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/EMM/5,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/ratings/api/rate/EMM/5,1
+GET,/api/cart/add/anonymous-304/RED/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/cart/anonymous-249,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-6362/SHCE/1,Remote end closed connection without response,1
+GET,/api/shipping/cities/us,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/shipping/cities/us,1
+GET,/api/cart/add/anonymous-190/EPE/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/cart/anonymous-207,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-207,1
+GET,/api/cart/add/anonymous-403/STAN-1/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-271/HPTD/1,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-202/RMC/1,500 Server Error: Internal Server Error for url: http://20.117.92.248/api/cart/add/anonymous-202/RMC/1,1
+GET,/api/cart/update/anonymous-6263/HPTD/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-267/SHCE/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-267/SHCE/1,1
+GET,/api/cart/cart/anonymous-294,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-294,1
+GET,/api/cart/cart/anonymous-149,[Errno 104] Connection reset by peer,1
+GET,/api/cart/cart/anonymous-230,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-395/STAN-1/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-463/EPE/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/cart/anonymous-283,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-221/Watson/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-279/EMM/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/cart/anonymous-211,[Errno 104] Connection reset by peer,1
+GET,/api/user/uniqueid,[Errno 110] Connection timed out,1045
+GET,/api/shipping/cities/dk,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/shipping/cities/dk,5
+GET,/api/shipping/codes,[Errno 104] Connection reset by peer,62
+GET,/api/catalogue/product/SHCE,[Errno 104] Connection reset by peer,9
+PUT,/api/ratings/api/rate/SHCE/3,Remote end closed connection without response,1
+GET,/api/ratings/api/fetch/RMC,[Errno 110] Connection timed out,7
+GET,/api/cart/add/anonymous-238/SHCE/1,Remote end closed connection without response,1
+GET,/api/ratings/api/fetch/UHJ,[Errno 110] Connection timed out,9
+GET,/api/cart/update/anonymous-6842/STAN-1/2,Remote end closed connection without response,1
+GET,/api/shipping/cities/tr,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/shipping/cities/tr,2
+GET,/api/cart/cart/anonymous-6021,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-3960/RED/1,[Errno 104] Connection reset by peer,1
+GET,/api/catalogue/product/EMM,[Errno 104] Connection reset by peer,4
+GET,/api/cart/add/anonymous-6322/SHCE/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-227,[Errno 104] Connection reset by peer,1
+GET,/api/ratings/api/fetch/UHJ,[Errno 104] Connection reset by peer,12
+PUT,/api/ratings/api/rate/RED/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-6343/Watson/1,[Errno 110] Connection timed out,1
+POST,/api/user/login,Remote end closed connection without response,247
+GET,/api/cart/cart/anonymous-396,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-396,1
+GET,/api/cart/update/anonymous-6843/STAN-1/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-3898/RMC/1,[Errno 110] Connection timed out,1
+GET,/api/shipping/cities/de,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/shipping/cities/de,3
+GET,/api/cart/update/anonymous-6878/UHJ/2,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/RMC/2,[Errno 104] Connection reset by peer,1
+GET,/api/cart/cart/anonymous-466,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-243/SHCE/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-243/SHCE/1,1
+GET,/api/cart/add/anonymous-244/STAN-1/1,Remote end closed connection without response,1
+GET,/api/user/uniqueid,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/user/uniqueid,190
+POST,/api/user/login,500 Server Error: Internal Server Error for url: http://20.117.92.248/api/user/login,62
+GET,/api/cart/cart/anonymous-395,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-6714/RED/1,[Errno 110] Connection timed out,1
+GET,/api/shipping/cities/at,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/shipping/cities/at,4
+GET,/api/catalogue/categories,Remote end closed connection without response,28
+GET,/api/cart/add/anonymous-319/EMM/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-319/EMM/1,1
+GET,/api/cart/add/anonymous-368/SHCE/1,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-6793/EPE/1,[Errno 104] Connection reset by peer,1
+GET,/api/ratings/api/fetch/HPTD,Remote end closed connection without response,6
+GET,/api/cart/add/anonymous-376/STAN-1/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-376/STAN-1/1,1
+GET,/api/cart/cart/anonymous-290,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-6125/RED/1,[Errno 110] Connection timed out,1
+GET,/api/user/uniqueid,[Errno 104] Connection reset by peer,806
+GET,/api/cart/add/anonymous-289/STAN-1/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-289/STAN-1/1,1
+GET,/api/cart/cart/anonymous-133,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-381/UHJ/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-381/UHJ/1,1
+PUT,/api/ratings/api/rate/UHJ/3,[Errno 110] Connection timed out,1
+GET,/api/cart/cart/anonymous-313,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-313,1
+GET,/api/cart/add/anonymous-396/EMM/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-396/EMM/1,1
+GET,/api/cart/cart/anonymous-252,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-252,1
+GET,/api/cart/add/anonymous-257/HPTD/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-257/HPTD/1,1
+GET,/api/cart/add/anonymous-165/RMC/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/update/anonymous-6851/HPTD/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-210/EMM/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-388/HPTD/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-3929/HPTD/1,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-169/STAN-1/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/update/anonymous-4992/EPE/2,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-397/SHCE/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-397/SHCE/1,1
+GET,/api/cart/add/anonymous-395/RMC/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/update/anonymous-6839/UHJ/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-3294/Watson/1,[Errno 110] Connection timed out,1
+PUT,/api/ratings/api/rate/UHJ/3,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/ratings/api/rate/UHJ/3,1
+GET,/api/cart/cart/anonymous-302,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-302,1
+GET,/api/catalogue/products,500 Server Error: Internal Server Error for url: http://20.117.92.248/api/catalogue/products,2
+PUT,/api/ratings/api/rate/RMC/2,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/ratings/api/rate/RMC/2,1
+GET,/api/ratings/api/fetch/SHCE,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/ratings/api/fetch/SHCE,27
+GET,/api/catalogue/product/Watson,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/catalogue/product/Watson,15
+GET,/api/cart/cart/anonymous-417,404 Client Error: Not Found for url: http://20.117.92.248/api/cart/cart/anonymous-417,1
+GET,/api/cart/add/anonymous-6022/Watson/1,[Errno 110] Connection timed out,1
+GET,/api/cart/update/anonymous-5984/SHCE/2,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-336/EPE/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-323/STAN-1/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-317/RMC/1,[Errno 110] Connection timed out,1
+GET,/,Remote end closed connection without response,224
+GET,/api/cart/add/anonymous-296/EPE/1,[Errno 104] Connection reset by peer,1
+PUT,/api/ratings/api/rate/Watson/1,Remote end closed connection without response,2
+GET,/api/cart/cart/anonymous-303,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-425/RMC/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-425/RMC/1,1
+GET,/api/cart/add/anonymous-228/EPE/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-458/RMC/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-458/RMC/1,1
+GET,/api/cart/add/anonymous-6318/STAN-1/1,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-291/EMM/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-227/SHCE/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-165,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-165,1
+GET,/api/cart/add/anonymous-429/EMM/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-429/EMM/1,1
+GET,/api/cart/add/anonymous-439/EMM/1,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-339/RED/1,[Errno 110] Connection timed out,1
+GET,/api/ratings/api/fetch/EPE,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/ratings/api/fetch/EPE,17
+GET,/api/cart/add/anonymous-418/HPTD/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-418/HPTD/1,1
+GET,/api/cart/cart/anonymous-281,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-281,1
+GET,/api/cart/add/anonymous-3304/RMC/1,[Errno 110] Connection timed out,1
+GET,/api/catalogue/product/RMC,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/catalogue/product/RMC,7
+GET,/api/cart/add/anonymous-315/HPTD/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-320,[Errno 104] Connection reset by peer,1
+GET,/api/cart/cart/anonymous-264,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-3900/EMM/1,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-340/EPE/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-340/EPE/1,1
+PUT,/api/ratings/api/rate/EMM/4,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/ratings/api/rate/EMM/4,1
+GET,/api/cart/add/anonymous-373/EMM/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-373/EMM/1,1
+PUT,/api/ratings/api/rate/STAN-1/4,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-321/RMC/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-324/SHCE/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-324/SHCE/1,1
+GET,/api/cart/add/anonymous-305/RMC/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-6434/UHJ/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-3774,[Errno 110] Connection timed out,1
+GET,/api/cart/cart/anonymous-414,[Errno 104] Connection reset by peer,1
+GET,/api/cart/update/anonymous-5745/STAN-1/2,[Errno 110] Connection timed out,1
+PUT,/api/ratings/api/rate/STAN-1/2,[Errno 104] Connection reset by peer,2
+GET,/api/catalogue/product/EPE,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/catalogue/product/EPE,2
+GET,/api/cart/add/anonymous-143/EMM/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-5743/HPTD/1,[Errno 110] Connection timed out,1
+GET,/api/cart/cart/anonymous-6802,[Errno 104] Connection reset by peer,1
+GET,/api/cart/update/anonymous-7023/Watson/2,[Errno 104] Connection reset by peer,1
+PUT,/api/ratings/api/rate/RED/4,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-6868/EPE/1,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-465/EMM/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-465/EMM/1,1
+GET,/api/cart/add/anonymous-360/UHJ/1,[Errno 110] Connection timed out,1
+GET,/api/cart/cart/anonymous-219,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-437/RMC/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-437/RMC/1,1
+POST,/api/user/login,[Errno 110] Connection timed out,2001
+GET,/api/cart/add/anonymous-294/EPE/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-255,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-255,1
+PUT,/api/ratings/api/rate/SHCE/4,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/ratings/api/rate/SHCE/4,2
+GET,/api/cart/add/anonymous-332/RED/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-378/UHJ/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/cart/anonymous-403,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-230/RED/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-230/RED/1,1
+GET,/api/cart/update/anonymous-6531/EPE/2,[Errno 104] Connection reset by peer,1
+GET,/api/shipping/codes,Remote end closed connection without response,29
+PUT,/api/ratings/api/rate/UHJ/4,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/ratings/api/rate/UHJ/4,1
+GET,/api/cart/cart/anonymous-142,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/EMM/3,[Errno 110] Connection timed out,1
+PUT,/api/ratings/api/rate/EPE/2,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/ratings/api/rate/EPE/2,1
+GET,/api/cart/add/anonymous-3315/STAN-1/1,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-6127/RED/1,[Errno 110] Connection timed out,1
+GET,/api/ratings/api/fetch/EPE,500 Server Error: Internal Server Error for url: http://20.117.92.248/api/ratings/api/fetch/EPE,1
+GET,/api/cart/add/anonymous-391/EMM/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-391/EMM/1,1
+GET,/api/catalogue/product/SHCE,[Errno 110] Connection timed out,4
+GET,/api/cart/cart/anonymous-250,[Errno 104] Connection reset by peer,1
+GET,/api/cart/cart/anonymous-163,Remote end closed connection without response,1
+GET,/api/ratings/api/fetch/RMC,Remote end closed connection without response,4
+GET,/api/cart/add/anonymous-419/HPTD/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-419/HPTD/1,1
+PUT,/api/ratings/api/rate/SHCE/5,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/ratings/api/rate/SHCE/5,2
+GET,/api/cart/update/anonymous-6312/UHJ/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-351/RED/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-202/HPTD/1,[Errno 104] Connection reset by peer,1
+GET,/api/shipping/cities/br,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/shipping/cities/br,1
+GET,/api/cart/add/anonymous-316/Watson/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-316/Watson/1,1
+GET,/api/cart/add/anonymous-6334/RED/1,[Errno 110] Connection timed out,1
+GET,/api/cart/update/anonymous-6546/Watson/2,[Errno 104] Connection reset by peer,1
+GET,/api/cart/cart/anonymous-314,[Errno 110] Connection timed out,1
+GET,/api/ratings/api/fetch/EPE,Remote end closed connection without response,12
+GET,/api/cart/add/anonymous-233/RMC/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-233/RMC/1,1
+PUT,/api/ratings/api/rate/UHJ/2,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-306/HPTD/1,[Errno 110] Connection timed out,1
+GET,/api/cart/update/anonymous-6730/UHJ/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-123/RED/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-318/HPTD/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-318/HPTD/1,1
+GET,/api/cart/add/anonymous-424/RMC/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-424/RMC/1,1
+GET,/api/cart/add/anonymous-405/RED/1,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-6356/STAN-1/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-4073/UHJ/1,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-264/STAN-1/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-299/UHJ/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-225/RED/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-225/RED/1,1
+GET,/api/cart/cart/anonymous-215,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-215,1
+GET,/api/cart/add/anonymous-431/EMM/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-431/EMM/1,1
+GET,/api/cart/add/anonymous-212/RED/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-212/RED/1,1
+GET,/api/cart/add/anonymous-444/SHCE/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-444/SHCE/1,1
+GET,/api/cart/cart/anonymous-322,[Errno 104] Connection reset by peer,1
+GET,/api/cart/cart/anonymous-242,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-242,1
+GET,/api/cart/cart/anonymous-262,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-211/STAN-1/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-285/EPE/1,Remote end closed connection without response,1
+GET,/,[Errno 110] Connection timed out,2069
+GET,/api/cart/update/anonymous-3209/EMM/2,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-6631/EPE/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/cart/anonymous-332,[Errno 104] Connection reset by peer,1
+GET,/api/cart/cart/anonymous-379,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-379,1
+GET,/api/shipping/cities/es,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/shipping/cities/es,3
+PUT,/api/ratings/api/rate/STAN-1/2,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-3886/SHCE/1,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-320/UHJ/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/cart/anonymous-397,404 Client Error: Not Found for url: http://20.117.92.248/api/cart/cart/anonymous-397,1
+PUT,/api/ratings/api/rate/UHJ/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-234,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-234,1
+GET,/api/cart/add/anonymous-241/HPTD/1,500 Server Error: Internal Server Error for url: http://20.117.92.248/api/cart/add/anonymous-241/HPTD/1,1
+GET,/api/cart/add/anonymous-457/UHJ/1,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-6864/STAN-1/1,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-462/EPE/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-462/EPE/1,1
+GET,/api/cart/add/anonymous-3263/Watson/1,[Errno 110] Connection timed out,1
+GET,/api/shipping/cities/au,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/shipping/cities/au,2
+GET,/api/cart/add/anonymous-284/EPE/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-284/EPE/1,1
+GET,/api/cart/add/anonymous-293/RMC/1,Remote end closed connection without response,1
+GET,/api/shipping/codes,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/shipping/codes,123
+GET,/api/cart/update/anonymous-3201/EMM/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-361/RMC/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-361/RMC/1,1
+GET,/api/cart/add/anonymous-329/RMC/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-329/RMC/1,1
+GET,/api/catalogue/products,Remote end closed connection without response,29
+GET,/api/cart/add/anonymous-354/HPTD/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-354/HPTD/1,1
+GET,/api/cart/cart/anonymous-384,Remote end closed connection without response,1
+GET,/api/catalogue/categories,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/catalogue/categories,16
+GET,/api/cart/update/anonymous-4628/HPTD/2,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-275/STAN-1/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-275/STAN-1/1,1
+GET,/api/cart/cart/anonymous-131,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-131,1
+GET,/api/cart/cart/anonymous-244,[Errno 104] Connection reset by peer,1
+PUT,/api/ratings/api/rate/SHCE/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/ratings/api/rate/SHCE/1,2
+GET,/api/cart/add/anonymous-409/RMC/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-217/UHJ/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-217/UHJ/1,1
+GET,/api/cart/add/anonymous-921/STAN-1/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-419/STAN-1/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-6726/EPE/1,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-209/STAN-1/1,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-460/SHCE/1,[Errno 110] Connection timed out,1
+GET,/api/catalogue/product/SHCE,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/catalogue/product/SHCE,5
+GET,/api/cart/cart/anonymous-378,[Errno 110] Connection timed out,1
+GET,/api/cart/update/anonymous-5962/UHJ/2,[Errno 104] Connection reset by peer,1
+POST,/api/user/login,[Errno 104] Connection reset by peer,859
+GET,/api/cart/cart/anonymous-5990,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-311/EPE/1,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-259/Watson/1,Remote end closed connection without response,1
+GET,/api/catalogue/product/UHJ,[Errno 104] Connection reset by peer,8
+GET,/api/cart/cart/anonymous-377,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-167/RMC/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-108,[Errno 104] Connection reset by peer,1
+GET,/api/cart/update/anonymous-168/EMM/2,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-216/RMC/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-367/SHCE/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-367/SHCE/1,1
+GET,/api/cart/add/anonymous-455/HPTD/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-455/HPTD/1,1
+GET,/api/cart/add/anonymous-234/RED/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-234/RED/1,1
+GET,/api/cart/update/anonymous-6498/EMM/2,[Errno 104] Connection reset by peer,1
+PUT,/api/ratings/api/rate/HPTD/2,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/ratings/api/rate/HPTD/2,5
+GET,/api/cart/add/anonymous-5104/UHJ/1,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-412/STAN-1/1,[Errno 104] Connection reset by peer,1
+GET,/api/catalogue/product/RED,[Errno 110] Connection timed out,4
+PUT,/api/ratings/api/rate/EMM/5,500 Server Error: Internal Server Error for url: http://20.117.92.248/api/ratings/api/rate/EMM/5,1
+GET,/api/catalogue/product/HPTD,Remote end closed connection without response,3
+GET,/api/catalogue/product/EMM,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/catalogue/product/EMM,6
+GET,/api/cart/cart/anonymous-6785,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-288/HPTD/1,[Errno 104] Connection reset by peer,1
+GET,/api/catalogue/product/EMM,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-259,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-384/EPE/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-384/EPE/1,1
+GET,/api/cart/add/anonymous-466/UHJ/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-313/STAN-1/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-313/STAN-1/1,1
+GET,/api/cart/add/anonymous-382/STAN-1/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/cart/anonymous-233,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-233,1
+GET,/api/cart/add/anonymous-362/HPTD/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-362/HPTD/1,1
+PUT,/api/ratings/api/rate/STAN-1/5,Remote end closed connection without response,1
+POST,/api/user/login,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/user/login,230
+GET,/api/cart/add/anonymous-3232/Watson/1,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-237/EPE/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-237/EPE/1,1
+GET,/api/cart/cart/anonymous-353,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-260/EMM/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-413/EMM/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-413/EMM/1,1
+GET,/api/cart/add/anonymous-3928/RED/1,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-378/RMC/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/update/anonymous-6815/EPE/2,Remote end closed connection without response,1
+GET,/api/ratings/api/fetch/SHCE,[Errno 104] Connection reset by peer,11
+GET,/api/cart/add/anonymous-3279/RED/1,[Errno 110] Connection timed out,1
+GET,/api/catalogue/categories,[Errno 110] Connection timed out,11
+GET,/api/cart/cart/anonymous-388,404 Client Error: Not Found for url: http://20.117.92.248/api/cart/cart/anonymous-388,1
+GET,/api/cart/cart/anonymous-419,404 Client Error: Not Found for url: http://20.117.92.248/api/cart/cart/anonymous-419,1
+GET,/api/cart/add/anonymous-216/Watson/1,500 Server Error: Internal Server Error for url: http://20.117.92.248/api/cart/add/anonymous-216/Watson/1,1
+GET,/api/cart/cart/anonymous-220,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-220,1
+GET,/api/cart/add/anonymous-255/RED/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-255/RED/1,1
+GET,/api/ratings/api/fetch/RED,[Errno 104] Connection reset by peer,21
+PUT,/api/ratings/api/rate/EPE/3,[Errno 110] Connection timed out,1
+GET,/api/cart/cart/anonymous-6862,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-235/Watson/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-430/UHJ/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/update/anonymous-6309/EPE/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-3257/STAN-1/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/cart/anonymous-702,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-349/Watson/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-283/HPTD/1,[Errno 104] Connection reset by peer,1
+GET,/api/catalogue/product/RMC,[Errno 110] Connection timed out,5
+GET,/api/cart/add/anonymous-204/RMC/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-466/EMM/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-466/EMM/1,1
+GET,/api/shipping/cities/in,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/shipping/cities/in,1
+GET,/api/catalogue/product/UHJ,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/catalogue/product/UHJ,9
+GET,/api/cart/add/anonymous-423/HPTD/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-423/HPTD/1,1
+GET,/api/ratings/api/fetch/UHJ,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/ratings/api/fetch/UHJ,19
+PUT,/api/ratings/api/rate/SHCE/3,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/ratings/api/rate/SHCE/3,1
+GET,/api/cart/update/anonymous-4995/Watson/2,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-295/EPE/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-333/UHJ/1,[Errno 104] Connection reset by peer,1
+PUT,/api/ratings/api/rate/Watson/3,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/ratings/api/rate/Watson/3,5
+GET,/api/cart/update/anonymous-6516/HPTD/2,[Errno 104] Connection reset by peer,1
+GET,/api/ratings/api/fetch/STAN-1,500 Server Error: Internal Server Error for url: http://20.117.92.248/api/ratings/api/fetch/STAN-1,1
+GET,/api/cart/cart/anonymous-298,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-298,1
+GET,/api/cart/add/anonymous-3344/HPTD/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-403/EPE/1,[Errno 110] Connection timed out,1
+GET,/api/cart/cart/anonymous-362,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-362,1
+GET,/api/ratings/api/fetch/STAN-1,[Errno 104] Connection reset by peer,12
+GET,/api/cart/add/anonymous-241/RMC/1,[Errno 110] Connection timed out,1
+PUT,/api/ratings/api/rate/STAN-1/5,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/ratings/api/rate/STAN-1/5,2
+PUT,/api/ratings/api/rate/RMC/5,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/ratings/api/rate/RMC/5,1
+GET,/api/cart/update/anonymous-5938/RED/2,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-314/UHJ/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-234/HPTD/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-468/RMC/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-468/RMC/1,1
+GET,/api/cart/update/anonymous-6520/EPE/2,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-384/RMC/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-6792/HPTD/2,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-121/UHJ/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-173,[Errno 104] Connection reset by peer,1
+GET,/api/cart/cart/anonymous-3344,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-272,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-6713/UHJ/1,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-388/RMC/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-388/RMC/1,1
+PUT,/api/ratings/api/rate/HPTD/3,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/ratings/api/rate/HPTD/3,2
+GET,/api/cart/cart/anonymous-376,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-376,1
+GET,/api/ratings/api/fetch/STAN-1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/ratings/api/fetch/STAN-1,24
+GET,/api/cart/update/anonymous-4988/EMM/2,[Errno 104] Connection reset by peer,1
+GET,/api/ratings/api/fetch/HPTD,[Errno 110] Connection timed out,8
+GET,/api/cart/add/anonymous-272/Watson/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-272/Watson/1,1
+GET,/api/cart/add/anonymous-153/SHCE/1,Remote end closed connection without response,1
+GET,/api/shipping/cities/se,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/shipping/cities/se,6
+GET,/api/cart/add/anonymous-408/STAN-1/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-293/UHJ/1,[Errno 110] Connection timed out,1
+GET,/api/catalogue/product/UHJ,500 Server Error: Internal Server Error for url: http://20.117.92.248/api/catalogue/product/UHJ,2
+GET,/api/cart/add/anonymous-370/SHCE/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-370/SHCE/1,1
+GET,/api/cart/add/anonymous-338/RED/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-338/RED/1,1
+GET,/api/cart/add/anonymous-414/SHCE/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-188/EMM/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-188/EMM/1,1
+GET,/api/cart/update/anonymous-4066/STAN-1/2,[Errno 104] Connection reset by peer,1
+PUT,/api/ratings/api/rate/Watson/1,[Errno 104] Connection reset by peer,1
+PUT,/api/ratings/api/rate/HPTD/3,[Errno 104] Connection reset by peer,1
+PUT,/api/ratings/api/rate/RED/4,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/ratings/api/rate/RED/4,1
+GET,/api/cart/cart/anonymous-291,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-291,1
+GET,/api/cart/add/anonymous-3893/UHJ/1,[Errno 110] Connection timed out,1
+GET,/api/cart/cart/anonymous-373,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-373,1
+GET,/api/catalogue/product/EPE,Remote end closed connection without response,3
+GET,/api/ratings/api/fetch/SHCE,[Errno 110] Connection timed out,7
+GET,/api/cart/update/anonymous-6335/RED/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-6139/SHCE/1,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-117/UHJ/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-136/Watson/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/update/anonymous-6008/Watson/2,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-309/RED/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-309/RED/1,1
+GET,/api/cart/cart/anonymous-199,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-199,1
+GET,/api/cart/cart/anonymous-6812,[Errno 110] Connection timed out,1
+GET,/api/cart/cart/anonymous-5996,[Errno 110] Connection timed out,1
+GET,/api/shipping/cities/ru,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/shipping/cities/ru,3
+GET,/api/cart/cart/anonymous-266,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-266,1
+GET,/api/cart/cart/anonymous-184,[Errno 110] Connection timed out,1
+GET,/api/user/uniqueid,Remote end closed connection without response,190
+GET,/api/shipping/cities/pt,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/shipping/cities/pt,2
+GET,/api/cart/cart/anonymous-405,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-4068/RMC/1,[Errno 110] Connection timed out,1
+GET,/api/cart/cart/anonymous-228,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-228,1
+GET,/api/cart/update/anonymous-3042/EPE/2,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-3524/Watson/1,[Errno 110] Connection timed out,1
+GET,/api/cart/update/anonymous-4564/Watson/2,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-461/STAN-1/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-285,[Errno 110] Connection timed out,1
+GET,/api/cart/cart/anonymous-231,[Errno 104] Connection reset by peer,1
+GET,/,500 Server Error: Internal Server Error for url: http://20.117.92.248/,17
+GET,/api/cart/add/anonymous-288/RMC/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-282/Watson/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-325,[Errno 104] Connection reset by peer,1
+GET,/api/cart/update/anonymous-6819/UHJ/2,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-464,404 Client Error: Not Found for url: http://20.117.92.248/api/cart/cart/anonymous-464,1
+GET,/api/cart/add/anonymous-6120/Watson/1,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-464/RED/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-208/STAN-1/1,500 Server Error: Internal Server Error for url: http://20.117.92.248/api/cart/add/anonymous-208/STAN-1/1,1
+GET,/api/cart/add/anonymous-174/UHJ/1,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-207/RED/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-207/RED/1,1
+GET,/api/cart/update/anonymous-6229/RED/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-199/RMC/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-345/RMC/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-345/RMC/1,1
+PUT,/api/ratings/api/rate/EMM/1,[Errno 110] Connection timed out,1
+GET,/api/ratings/api/fetch/Watson,[Errno 110] Connection timed out,9
+GET,/api/cart/add/anonymous-5043/RED/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/cart/anonymous-188,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-188,1
+GET,/api/shipping/codes,502 Server Error: Bad Gateway for url: http://20.117.92.248/api/shipping/codes,6209
+PUT,/api/ratings/api/rate/SHCE/4,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-392/RMC/1,[Errno 104] Connection reset by peer,1
+PUT,/api/ratings/api/rate/Watson/4,[Errno 104] Connection reset by peer,1
+GET,/api/catalogue/product/STAN-1,Remote end closed connection without response,3
+GET,/api/cart/add/anonymous-460/EMM/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-215/Watson/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-215/Watson/1,1
+GET,/api/cart/add/anonymous-450/Watson/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-301,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-301,1
+GET,/api/cart/add/anonymous-256/EMM/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-173/RMC/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/update/anonymous-4139/UHJ/2,[Errno 104] Connection reset by peer,1
+GET,/api/cart/cart/anonymous-254,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-180/SHCE/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-180/SHCE/1,1
+GET,/api/cart/add/anonymous-262/HPTD/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/cart/anonymous-318,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-318,1
+GET,/api/user/uniqueid,500 Server Error: Internal Server Error for url: http://20.117.92.248/api/user/uniqueid,8
+GET,/api/cart/cart/anonymous-402,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-342/SHCE/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-342/SHCE/1,1
+PUT,/api/ratings/api/rate/Watson/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/ratings/api/rate/Watson/1,2
+GET,/api/ratings/api/fetch/Watson,Remote end closed connection without response,2
+GET,/api/cart/add/anonymous-353/RMC/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-390,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-372/SHCE/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-6922/RED/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-368/STAN-1/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-368/STAN-1/1,1
+GET,/api/cart/update/anonymous-154/Watson/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-3296/SHCE/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/cart/anonymous-5431,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-337,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-459/RED/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-459/RED/1,1
+GET,/api/cart/add/anonymous-377/EPE/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-3775/SHCE/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/cart/anonymous-372,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-238,[Errno 110] Connection timed out,1
+GET,/api/cart/update/anonymous-94/HPTD/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-277/Watson/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-277/Watson/1,1
+GET,/api/cart/add/anonymous-449/EMM/1,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/SHCE/3,[Errno 104] Connection reset by peer,1
+GET,/api/cart/cart/anonymous-387,[Errno 110] Connection timed out,1
+GET,/api/cart/update/anonymous-5961/RMC/2,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-346/SHCE/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-346/SHCE/1,1
+GET,/api/catalogue/product/SHCE,Remote end closed connection without response,4
+GET,/api/cart/add/anonymous-233/Watson/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-198/EPE/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-5986,[Errno 110] Connection timed out,1
+GET,/api/shipping/cities/fi,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/shipping/cities/fi,2
+GET,/api/cart/add/anonymous-207/STAN-1/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-5986/Watson/1,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-446/UHJ/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-446/UHJ/1,1
+GET,/api/cart/cart/anonymous-284,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-284,1
+GET,/api/cart/add/anonymous-351/EPE/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-6389/RMC/1,[Errno 110] Connection timed out,1
+PUT,/api/ratings/api/rate/RED/3,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-292/EMM/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-292/EMM/1,1
+GET,/api/catalogue/product/UHJ,Remote end closed connection without response,5
+GET,/api/cart/add/anonymous-6812/HPTD/1,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/EPE/2,500 Server Error: Internal Server Error for url: http://20.117.92.248/api/ratings/api/rate/EPE/2,1
+PUT,/api/ratings/api/rate/HPTD/2,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-131/STAN-1/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-131/STAN-1/1,1
+GET,/api/cart/update/anonymous-6826/EPE/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-402/RED/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/cart/anonymous-136,500 Server Error: Internal Server Error for url: http://20.117.92.248/api/cart/cart/anonymous-136,1
+GET,/api/cart/cart/anonymous-270,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-252/EMM/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-252/EMM/1,1
+GET,/api/cart/cart/anonymous-180,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-180,1
+GET,/api/cart/add/anonymous-297/RMC/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-432/Watson/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-432/Watson/1,1
+GET,/api/cart/cart/anonymous-217,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-217,1
+GET,/api/ratings/api/fetch/EPE,[Errno 110] Connection timed out,2
+GET,/api/cart/cart/anonymous-140,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-3249/HPTD/1,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-6118/RED/1,[Errno 110] Connection timed out,1
+GET,/api/cart/cart/anonymous-326,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-326,1
+GET,/api/ratings/api/fetch/EMM,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/ratings/api/fetch/EMM,25
+GET,/api/cart/update/anonymous-3191/STAN-1/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-3245/RMC/1,[Errno 110] Connection timed out,1
+GET,/api/cart/update/anonymous-5896/EPE/2,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-237/SHCE/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/cart/anonymous-279,[Errno 104] Connection reset by peer,1
+GET,/api/cart/cart/anonymous-282,[Errno 104] Connection reset by peer,1
+GET,/api/cart/update/anonymous-6810/HPTD/2,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-6334,[Errno 110] Connection timed out,1
+GET,/api/cart/cart/anonymous-257,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-257,1
+GET,/api/catalogue/products,[Errno 104] Connection reset by peer,89
+GET,/api/ratings/api/fetch/EMM,[Errno 110] Connection timed out,6
+GET,/api/cart/add/anonymous-272/EPE/1,[Errno 110] Connection timed out,1
+GET,/api/catalogue/categories,500 Server Error: Internal Server Error for url: http://20.117.92.248/api/catalogue/categories,1
+GET,/api/cart/update/anonymous-120/STAN-1/2,Remote end closed connection without response,1
+GET,/api/shipping/cities/gb,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/shipping/cities/gb,3
+GET,/api/cart/update/anonymous-6798/EPE/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-6433/RED/1,Remote end closed connection without response,1
+GET,/api/catalogue/product/RED,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/catalogue/product/RED,3
+GET,/api/cart/cart/anonymous-203,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-4073/EMM/1,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-206/RMC/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-206/RMC/1,1
+GET,/api/catalogue/product/STAN-1,[Errno 110] Connection timed out,5
+GET,/api/cart/update/anonymous-6507/EMM/2,[Errno 104] Connection reset by peer,1
+GET,/api/ratings/api/fetch/RMC,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/ratings/api/fetch/RMC,32
+GET,/api/cart/add/anonymous-5748/STAN-1/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-352/UHJ/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-352/UHJ/1,1
+GET,/api/cart/add/anonymous-387/RED/1,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-356/RED/1,[Errno 104] Connection reset by peer,1
+PUT,/api/ratings/api/rate/Watson/5,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/ratings/api/rate/Watson/5,1
+GET,/api/cart/add/anonymous-434/STAN-1/1,[Errno 104] Connection reset by peer,1
+GET,/api/ratings/api/fetch/RED,500 Server Error: Internal Server Error for url: http://20.117.92.248/api/ratings/api/fetch/RED,1
+GET,/api/cart/cart/anonymous-356,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-6137/UHJ/1,[Errno 110] Connection timed out,1
+GET,/api/ratings/api/fetch/RED,[Errno 110] Connection timed out,3
+GET,/api/cart/add/anonymous-120/Watson/1,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/STAN-1/2,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/ratings/api/rate/STAN-1/2,2
+GET,/api/cart/add/anonymous-125/HPTD/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-462/EMM/1,[Errno 110] Connection timed out,1
+GET,/api/shipping/cities/no,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/shipping/cities/no,6
+GET,/api/cart/cart/anonymous-295,[Errno 104] Connection reset by peer,1
+GET,/api/ratings/api/fetch/Watson,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/ratings/api/fetch/Watson,22
+GET,/api/cart/add/anonymous-166/EPE/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-249/UHJ/1,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-5062/RMC/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-6432/EMM/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-273/EMM/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-184/STAN-1/1,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/UHJ/4,[Errno 104] Connection reset by peer,1
+GET,/api/cart/update/anonymous-3168/RED/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-263/EMM/1,[Errno 110] Connection timed out,1
+GET,/api/cart/update/anonymous-4058/EMM/2,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-402/EPE/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-451/STAN-1/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-451/STAN-1/1,1
+GET,/api/cart/cart/anonymous-202,[Errno 110] Connection timed out,1
+GET,/api/cart/cart/anonymous-351,[Errno 104] Connection reset by peer,1
+GET,/api/cart/cart/anonymous-280,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-280,1
+GET,/api/cart/add/anonymous-287/STAN-1/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-265/RMC/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/update/anonymous-6964/STAN-1/2,[Errno 104] Connection reset by peer,1
+PUT,/api/ratings/api/rate/HPTD/3,[Errno 110] Connection timed out,1
+PUT,/api/ratings/api/rate/STAN-1/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/ratings/api/rate/STAN-1/1,1
+GET,/api/cart/update/anonymous-5971/RMC/2,[Errno 104] Connection reset by peer,1
+GET,/api/cart/update/anonymous-123/HPTD/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-185/Watson/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-6375/HPTD/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-270/RMC/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-270/RMC/1,1
+GET,/api/cart/add/anonymous-450/EPE/1,[Errno 104] Connection reset by peer,1
+PUT,/api/ratings/api/rate/UHJ/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/ratings/api/rate/UHJ/1,1
+GET,/api/cart/add/anonymous-298/Watson/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-298/Watson/1,1
+GET,/api/catalogue/product/RMC,[Errno 104] Connection reset by peer,12
+GET,/api/ratings/api/fetch/EPE,[Errno 104] Connection reset by peer,8
+GET,/api/cart/add/anonymous-328/RMC/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-411/EPE/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-411/EPE/1,1
+GET,/api/cart/cart/anonymous-267,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-267,1
+GET,/api/cart/add/anonymous-454/EPE/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-454/EPE/1,1
+GET,/api/cart/add/anonymous-5273/RMC/1,[Errno 110] Connection timed out,1
+GET,/api/cart/update/anonymous-6829/RED/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-347/UHJ/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-347/UHJ/1,1
+PUT,/api/ratings/api/rate/EPE/4,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-421/HPTD/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-421/HPTD/1,1
+GET,/api/catalogue/product/UHJ,[Errno 110] Connection timed out,7
+GET,/api/cart/cart/anonymous-174,[Errno 110] Connection timed out,1
+GET,/api/ratings/api/fetch/STAN-1,Remote end closed connection without response,11
+PUT,/api/ratings/api/rate/RED/3,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/ratings/api/rate/RED/3,3
+GET,/api/catalogue/product/RED,[Errno 104] Connection reset by peer,13
+GET,/api/cart/add/anonymous-259/STAN-1/1,Remote end closed connection without response,1
+GET,/api/catalogue/product/Watson,Remote end closed connection without response,2
+GET,/api/cart/cart/anonymous-293,404 Client Error: Not Found for url: http://20.117.92.248/api/cart/cart/anonymous-293,1
+GET,/api/cart/cart/anonymous-449,[Errno 104] Connection reset by peer,1
+GET,/api/cart/cart/anonymous-319,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-319,1
+GET,/api/cart/add/anonymous-219/RED/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/cart/anonymous-210,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-409/EPE/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-287,[Errno 104] Connection reset by peer,1
+PUT,/api/ratings/api/rate/STAN-1/5,[Errno 104] Connection reset by peer,1
+GET,/api/cart/cart/anonymous-273,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-314/RMC/1,[Errno 110] Connection timed out,1
+GET,/api/cart/cart/anonymous-324,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-324,1
+GET,/api/ratings/api/fetch/STAN-1,[Errno 110] Connection timed out,5
+GET,/api/catalogue/product/EMM,[Errno 110] Connection timed out,3
+GET,/api/cart/add/anonymous-387/SHCE/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-465/RMC/1,[Errno 110] Connection timed out,1
+GET,/api/cart/cart/anonymous-237,404 Client Error: Not Found for url: http://20.117.92.248/api/cart/cart/anonymous-237,1
+GET,/api/cart/add/anonymous-445/Watson/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-3277/HPTD/1,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-366/RMC/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-366/RMC/1,1
+GET,/api/cart/add/anonymous-397/RMC/1,[Errno 104] Connection reset by peer,1
+PUT,/api/ratings/api/rate/UHJ/5,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-261/EPE/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-261/EPE/1,1
+GET,/api/cart/update/anonymous-4570/UHJ/2,[Errno 104] Connection reset by peer,1
+GET,/api/catalogue/product/Watson,500 Server Error: Internal Server Error for url: http://20.117.92.248/api/catalogue/product/Watson,1
+GET,/api/cart/add/anonymous-281/Watson/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-281/Watson/1,1
+GET,/api/cart/cart/anonymous-307,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-307,1
+GET,/,504 Server Error: Gateway Time-out for url: http://20.117.92.248/,26
+GET,/api/cart/cart/anonymous-153,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-228/Watson/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-228/Watson/1,1
+GET,/api/cart/cart/anonymous-6818,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-6415/HPTD/1,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/HPTD/5,[Errno 104] Connection reset by peer,1
+GET,/api/shipping/cities/jp,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/shipping/cities/jp,2
+GET,/api/cart/cart/anonymous-348,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-348,1
+GET,/api/cart/cart/anonymous-4073,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-6130/STAN-1/1,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-457/HPTD/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-457/HPTD/1,1
+GET,/api/catalogue/product/STAN-1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/catalogue/product/STAN-1,8
+GET,/api/cart/add/anonymous-231/RMC/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-357/UHJ/1,Remote end closed connection without response,1
+GET,/api/shipping/cities/hu,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/shipping/cities/hu,5
+GET,/api/cart/cart/anonymous-316,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-6022,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-426/SHCE/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-426/SHCE/1,1
+GET,/api/cart/add/anonymous-463/RMC/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-356/HPTD/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-6138/SHCE/1,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-269/EPE/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-269/EPE/1,1
+GET,/api/cart/add/anonymous-407/SHCE/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-407/SHCE/1,1
+GET,/api/cart/add/anonymous-6818/EPE/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-285/SHCE/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-285/SHCE/1,1
+GET,/api/cart/add/anonymous-330/RED/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-390/STAN-1/1,[Errno 104] Connection reset by peer,1
+GET,/api/shipping/cities/bg,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/shipping/cities/bg,1
+GET,/api/cart/update/anonymous-6840/STAN-1/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-3246/SHCE/1,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-291/UHJ/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-5994/EMM/1,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-236/UHJ/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-5994,[Errno 110] Connection timed out,1
+GET,/api/catalogue/product/STAN-1,[Errno 104] Connection reset by peer,10
+GET,/api/cart/add/anonymous-133/EMM/1,Remote end closed connection without response,1
+GET,/api/catalogue/product/Watson,[Errno 104] Connection reset by peer,7
+GET,/api/cart/add/anonymous-6016/STAN-1/1,[Errno 110] Connection timed out,1
+PUT,/api/ratings/api/rate/EMM/2,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/ratings/api/rate/EMM/2,3
+GET,/api/cart/add/anonymous-317/RED/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-317/RED/1,1
+GET,/api/cart/add/anonymous-326/EMM/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-326/EMM/1,1
+GET,/api/catalogue/product/RED,Remote end closed connection without response,4
+GET,/api/catalogue/product/RMC,Remote end closed connection without response,5
+GET,/api/cart/cart/anonymous-229,[Errno 104] Connection reset by peer,1
+PUT,/api/ratings/api/rate/HPTD/5,[Errno 110] Connection timed out,1
+GET,/,[Errno 104] Connection reset by peer,815
+GET,/api/cart/update/anonymous-114/SHCE/2,[Errno 110] Connection timed out,1
+GET,/api/cart/update/anonymous-3196/EPE/2,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-274,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-274,1
+GET,/api/cart/cart/anonymous-225,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-225,1
+GET,/api/cart/add/anonymous-335/Watson/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-335/Watson/1,1
+GET,/api/shipping/cities/fr,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/shipping/cities/fr,2
+GET,/api/cart/cart/anonymous-115,[Errno 104] Connection reset by peer,1
+GET,/api/shipping/cities/ch,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/shipping/cities/ch,2
+GET,/api/cart/add/anonymous-6086/EPE/1,[Errno 110] Connection timed out,1
+PUT,/api/ratings/api/rate/EPE/5,[Errno 104] Connection reset by peer,2
+GET,/api/cart/add/anonymous-5745/RMC/1,[Errno 110] Connection timed out,1
+PUT,/api/ratings/api/rate/RED/2,[Errno 104] Connection reset by peer,1
+PUT,/api/ratings/api/rate/HPTD/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/cart/anonymous-3775,[Errno 110] Connection timed out,1
+GET,/api/cart/update/anonymous-6539/SHCE/2,[Errno 104] Connection reset by peer,1
+GET,/api/cart/update/anonymous-185/UHJ/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-250/STAN-1/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-250/STAN-1/1,1
+GET,/api/cart/cart/anonymous-253,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-218/SHCE/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-218/SHCE/1,1
+GET,/api/ratings/api/fetch/SHCE,Remote end closed connection without response,5
+GET,/api/cart/add/anonymous-417/EPE/1,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/UHJ/5,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/ratings/api/rate/UHJ/5,2
+GET,/api/cart/update/anonymous-6770/STAN-1/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-412/STAN-1/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-417/UHJ/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-417/UHJ/1,1
+GET,/api/cart/add/anonymous-4077/EMM/1,[Errno 110] Connection timed out,1
+GET,/api/catalogue/product/EPE,[Errno 110] Connection timed out,2
+GET,/api/cart/add/anonymous-453/UHJ/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-453/UHJ/1,1
+GET,/api/ratings/api/fetch/UHJ,Remote end closed connection without response,3
+GET,/api/ratings/api/fetch/Watson,[Errno 104] Connection reset by peer,11
+GET,/api/cart/add/anonymous-374/RMC/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-374/RMC/1,1
+GET,/api/cart/add/anonymous-268/STAN-1/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-294/RED/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-294/RED/1,1
+GET,/api/cart/add/anonymous-3576/UHJ/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-115/Watson/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-251/SHCE/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-427/RED/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-427/RED/1,1
+GET,/api/cart/cart/anonymous-216,[Errno 104] Connection reset by peer,1
+GET,/api/cart/cart/anonymous-278,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-278,1
+GET,/api/cart/update/anonymous-6811/Watson/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-300/RED/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-300/RED/1,1
+GET,/api/cart/update/anonymous-6327/STAN-1/2,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-6793,[Errno 110] Connection timed out,1
+GET,/api/shipping/cities/ca,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/shipping/cities/ca,2
+GET,/api/cart/add/anonymous-144/SHCE/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-280/UHJ/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-280/UHJ/1,1
+GET,/api/cart/add/anonymous-162/SHCE/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-178/HPTD/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-452/EPE/1,[Errno 104] Connection reset by peer,1
+GET,/api/ratings/api/fetch/EMM,[Errno 104] Connection reset by peer,12
+GET,/api/cart/update/anonymous-4167/Watson/2,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-322/RED/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-224/RMC/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-286/EMM/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-286/EMM/1,1
+GET,/api/cart/cart/anonymous-218,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-218,1
+GET,/api/cart/add/anonymous-332/HPTD/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-5996/RMC/1,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-458/Watson/1,[Errno 110] Connection timed out,1
+GET,/api/ratings/api/fetch/RED,Remote end closed connection without response,7
+GET,/api/cart/cart/anonymous-206,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-206,1
+GET,/api/cart/add/anonymous-6314/RMC/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-412,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-449/RED/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-363/EPE/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-363/EPE/1,1
+GET,/api/ratings/api/fetch/EMM,Remote end closed connection without response,5
+GET,/api/cart/add/anonymous-3247/RED/1,[Errno 110] Connection timed out,1
+GET,/api/cart/cart/anonymous-450,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-364/HPTD/1,[Errno 110] Connection timed out,1
+GET,/api/cart/update/anonymous-258/EMM/2,[Errno 110] Connection timed out,1
+GET,/api/cart/cart/anonymous-292,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-292,1
+GET,/api/cart/cart/anonymous-409,[Errno 104] Connection reset by peer,1
+GET,/api/cart/cart/anonymous-243,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-243,1
+GET,/api/cart/add/anonymous-274/RED/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-274/RED/1,1
+PUT,/api/ratings/api/rate/RED/1,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-290/EMM/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-290/EMM/1,1
+GET,/api/cart/add/anonymous-307/RMC/1,[Errno 104] Connection reset by peer,1
+GET,/api/catalogue/products,[Errno 110] Connection timed out,41
+GET,/api/cart/cart/anonymous-347,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-347,1
+GET,/api/cart/add/anonymous-6133/STAN-1/1,[Errno 110] Connection timed out,1
+GET,/api/cart/cart/anonymous-288,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-301/HPTD/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-301/HPTD/1,1
+GET,/api/cart/cart/anonymous-6980,[Errno 104] Connection reset by peer,1
+GET,/api/shipping/cities/it,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/shipping/cities/it,1
+GET,/api/cart/add/anonymous-253/UHJ/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-365/SHCE/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-365/SHCE/1,1
+GET,/api/cart/cart/anonymous-212,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-212,1
+GET,/api/cart/add/anonymous-448/HPTD/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-375/STAN-1/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-375/STAN-1/1,1
+GET,/api/cart/add/anonymous-278/HPTD/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/cart/anonymous-143,[Errno 110] Connection timed out,1
+GET,/api/ratings/api/fetch/RMC,[Errno 104] Connection reset by peer,18
+GET,/api/cart/cart/anonymous-6362,[Errno 110] Connection timed out,1
+PUT,/api/ratings/api/rate/STAN-1/5,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-3248/RMC/1,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-232/UHJ/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-5990/Watson/1,[Errno 110] Connection timed out,1
+PUT,/api/ratings/api/rate/HPTD/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/ratings/api/rate/HPTD/1,4
+GET,/api/cart/add/anonymous-226/EPE/1,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-436/HPTD/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-436/HPTD/1,1
+GET,/api/cart/cart/anonymous-226,[Errno 110] Connection timed out,1
+GET,/api/ratings/api/fetch/HPTD,[Errno 104] Connection reset by peer,13
+GET,/api/cart/cart/anonymous-418,404 Client Error: Not Found for url: http://20.117.92.248/api/cart/cart/anonymous-418,1
+GET,/api/cart/add/anonymous-3287/EMM/1,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-349/HPTD/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/cart/anonymous-178,[Errno 104] Connection reset by peer,1
+GET,/api/ratings/api/fetch/SHCE,500 Server Error: Internal Server Error for url: http://20.117.92.248/api/ratings/api/fetch/SHCE,1
+GET,/api/cart/update/anonymous-3842/HPTD/2,[Errno 104] Connection reset by peer,1
+GET,/api/cart/cart/anonymous-315,[Errno 104] Connection reset by peer,1
+PUT,/api/ratings/api/rate/EPE/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/ratings/api/rate/EPE/1,1
+GET,/api/cart/add/anonymous-6021/HPTD/1,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-304/HPTD/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-222/RMC/1,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/Watson/2,[Errno 110] Connection timed out,1
+GET,/api/cart/cart/anonymous-328,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-5045/RMC/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/cart/anonymous-329,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-329,1
+GET,/api/catalogue/product/HPTD,[Errno 110] Connection timed out,5
+GET,/api/cart/cart/anonymous-306,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-124/UHJ/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-3251/HPTD/1,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-325/UHJ/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-275,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-275,1
+PUT,/api/ratings/api/rate/RMC/3,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/ratings/api/rate/RMC/3,2
+GET,/api/cart/update/anonymous-6835/EPE/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-3860/UHJ/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-266/EMM/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-266/EMM/1,1
+GET,/api/cart/cart/anonymous-195,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-5981,[Errno 110] Connection timed out,1
+GET,/api/cart/cart/anonymous-5974,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-464/SHCE/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/cart/anonymous-265,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-265,1
+PUT,/api/ratings/api/rate/RMC/4,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/ratings/api/rate/RMC/4,1
+GET,/api/cart/update/anonymous-6281/STAN-1/2,Remote end closed connection without response,1
+GET,/api/shipping/codes,[Errno 110] Connection timed out,23
+PUT,/api/ratings/api/rate/Watson/4,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/ratings/api/rate/Watson/4,2
+GET,/api/cart/add/anonymous-435/Watson/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-435/Watson/1,1
+GET,/api/catalogue/product/Watson,[Errno 110] Connection timed out,6
+GET,/api/cart/add/anonymous-461/SHCE/1,[Errno 104] Connection reset by peer,1
+PUT,/api/ratings/api/rate/STAN-1/3,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/STAN-1/1,[Errno 104] Connection reset by peer,2
+GET,/api/cart/add/anonymous-399/RMC/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-399/RMC/1,1
+GET,/api/cart/add/anonymous-208/STAN-1/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/update/anonymous-4103/RMC/2,[Errno 104] Connection reset by peer,1
+GET,/api/cart/cart/anonymous-460,[Errno 110] Connection timed out,1
+GET,/api/ratings/api/fetch/RED,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/ratings/api/fetch/RED,20
+GET,/api/cart/cart/anonymous-457,[Errno 110] Connection timed out,1
+GET,/api/cart/cart/anonymous-125,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-349,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-349,1
+GET,/api/shipping/cities/ro,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/shipping/cities/ro,3
+GET,/api/catalogue/product/EPE,[Errno 104] Connection reset by peer,10
+GET,/api/cart/add/anonymous-6711/RED/1,[Errno 110] Connection timed out,1
+GET,/api/cart/cart/anonymous-309,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-309,1
+GET,/api/cart/add/anonymous-348/EPE/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-348/EPE/1,1
+GET,/api/cart/cart/anonymous-241,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-229/RED/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/cart/anonymous-305,[Errno 104] Connection reset by peer,1
+GET,/api/catalogue/product/HPTD,[Errno 104] Connection reset by peer,12
+GET,/api/cart/cart/anonymous-5273,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-6115/HPTD/1,[Errno 110] Connection timed out,1
+GET,/api/cart/cart/anonymous-304,[Errno 110] Connection timed out,1
+GET,/api/cart/cart/anonymous-461,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-242/RMC/1,500 Server Error: Internal Server Error for url: http://20.117.92.248/api/cart/add/anonymous-242/RMC/1,1
+GET,/api/cart/cart/anonymous-166,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-418/RED/1,[Errno 104] Connection reset by peer,1
+PUT,/api/ratings/api/rate/Watson/2,[Errno 104] Connection reset by peer,1
+PUT,/api/ratings/api/rate/UHJ/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/update/anonymous-6809/RED/2,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-5909/EMM/2,[Errno 104] Connection reset by peer,1
+GET,/api/cart/cart/anonymous-269,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/cart/anonymous-269,1
+GET,/api/cart/add/anonymous-5981/RED/1,[Errno 110] Connection timed out,1
+GET,/api/catalogue/product/HPTD,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/catalogue/product/HPTD,8
+GET,/api/cart/update/anonymous-6550/UHJ/2,[Errno 104] Connection reset by peer,1
+GET,/api/cart/add/anonymous-3259/SHCE/1,[Errno 110] Connection timed out,1
+GET,/api/cart/add/anonymous-302/SHCE/1,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/cart/add/anonymous-302/SHCE/1,1
+PUT,/api/ratings/api/rate/UHJ/2,504 Server Error: Gateway Time-out for url: http://20.117.92.248/api/ratings/api/rate/UHJ/2,2
+GET,/api/cart/add/anonymous-5089/UHJ/1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/cart/anonymous-144,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-5959/STAN-1/2,[Errno 104] Connection reset by peer,1

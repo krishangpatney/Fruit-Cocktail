@@ -8,28 +8,39 @@ machine_arrays=$(<./machine_name.txt);
     # Getting metrics 
 for machine in ${machine_arrays}
 do 
-    echo $machine 
-    source secrets.sh ${1} #loads susbscripton  id for scripts 
+    for i in {1..5}
+    do 
+        echo "Running setup for ${machine}"
+        source secrets.sh ${1} #loads susbscripton  id for scripts 
 
-    source set_machine.sh $machine 
+        source set_machine.sh $machine 
+        # Creating a machine 
+        source run.sh
 
-    source run.sh
+        sleep 5m 
+        # Runnning load 
+        # Run a load generator requires python and loctus 
+        ip_address=$(grep -o '[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}' ./output/application_ip.txt)
+        cd ./temp_load
+        mkdir -p "$machine"
+        cd "./${machine}"
+        mkdir -p "$i"
+        cd "./${i}"
+        locust --host "http://${ip_address[0]}" --csv "${machine}_load" --headless -u 1000 -r 10 -t 30m
+        cd ".."
+        cd ".."
+        cd ".."
 
-    sleep 5m 
+        sleep 5m
 
-    Run a load generator requires python and loctus 
-    ip_address=$(grep -o '[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}' ./output/application_ip.txt)
-    cd ./temp_load
-    locust --host "http://${ip_address[0]}" --csv "${machine}_load" --headless -u 1000 -r 10 -t 5m
-    cd ..
-    sleep 6m
-
-    source get_metrics.sh krishangs_resource pineapplication-1-site $machine
-    
-    
-    source kill.sh
+        source get_metrics.sh krishangs_resource pineapplication-1-site $machine $i
+        
+        source kill.sh
+    done
+    sleep 2
 done
 
-
+# Completed runs - Standard_A1_v2
+# Runs not supported - Standard_A2, Basic_A3
 
 
