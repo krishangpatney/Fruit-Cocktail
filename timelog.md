@@ -207,4 +207,24 @@
 ## Week 14 
 
 ### 13 Dec 2021 
-* *1 Hours* Create Status Report 
+* *2 Hours* Create Status Report 
+
+### 16 Dec 2021 
+* *1 Hours* Set objectives for project
+* *2 Hours* Create a document for dissertation (Notes)
+
+## Week 15
+
+### 20 Dec 2021 
+* *2 Hours* Plan dissertation 
+* *1 Hours* Writing - Dissertation 
+
+### 24 Dec 2021 
+* *3 Hours* Finalizing Pineapple script for running tests. 
+
+## Week 16
+
+### 28 Dec 2021
+* *10 Hours* Running scripts and monitoring hourly. 
+
+
