@@ -44,6 +44,20 @@ resource "azurerm_virtual_machine" "site" {
       host     = azurerm_public_ip.load_gen_pip.fqdn
     }
   }
+  
+  # Transfer configuration file for NGINX
+  provisioner "file" {
+    source      = "files/reverse"
+    destination = "/home/${var.admin_username}/reverse"
+
+    connection {
+      type     = "ssh"
+      user     = var.admin_username
+      password = var.admin_password
+      host     = azurerm_public_ip.robot_shop_single-pip.fqdn
+    }
+  }
+
 
   # This shell script starts our Apache server and prepares the demo environment.
   provisioner "remote-exec" {
