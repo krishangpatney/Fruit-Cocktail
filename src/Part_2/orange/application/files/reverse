@@ -1,9 +1,9 @@
 server {
     # Listens on port 80
-    listen 8080;
+    listen 6060;
 
     # For all URLs on port 80,
-    location {
+    location / {
         # Send them to port 8080
         proxy_pass http://localhost:8080;
         # Add some headers

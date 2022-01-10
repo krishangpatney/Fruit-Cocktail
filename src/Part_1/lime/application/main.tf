@@ -97,10 +97,10 @@ resource "azurerm_virtual_machine_scale_set" "main" {
   resource_group_name             = "krishangs_resource"
   location                        = "UK South"
 
-  upgrade_policy_mode             = "Automatic"
+  upgrade_policy_mode = "Manual"
 
   sku {
-    name     = "Standard_DS1_v2"
+    name     = "Standard_D1_v2"
     tier     = "Standard"
     capacity = 2
   } 
@@ -112,7 +112,7 @@ resource "azurerm_virtual_machine_scale_set" "main" {
   storage_profile_image_reference {
     publisher = "Canonical"
     offer     = "UbuntuServer"
-    sku       = "16.04-LTS"
+    sku       = "18.04-LTS"   
     version   = "latest"
   }
   storage_profile_os_disk {
@@ -126,7 +126,7 @@ resource "azurerm_virtual_machine_scale_set" "main" {
     lun          = 0
     caching        = "ReadWrite"
     create_option  = "Empty"
-    disk_size_gb   = 10
+    disk_size_gb   = 30
   }
 
  network_profile {
@@ -138,7 +138,6 @@ resource "azurerm_virtual_machine_scale_set" "main" {
       primary                                = true
       subnet_id                              = azurerm_subnet.rsvmss.id
       load_balancer_backend_address_pool_ids = [azurerm_lb_backend_address_pool.bpepool.id]
-      # load_balancer_inbound_nat_rules_ids    = [azurerm_lb_nat_pool.example.id]
     }
   }
   os_profile {
@@ -171,5 +170,59 @@ resource "azurerm_virtual_machine_scale_set" "main" {
     }
   }
 
+resource "azurerm_monitor_autoscale_setting" "scaling" {
+  name                = "scaling"
+  resource_group_name = "krishangs_resource"
+  location            = "UK South"
+  target_resource_id  = "${azurerm_virtual_machine_scale_set.main.id}"
 
-# https://gist.githubusercontent.com/krishangpatney/c05315a21d4258b3034c9097b68c5de3/raw/133b14afa93533dcecb301eb64e9495474f4c16f/setup.sh
+  profile {
+    name = "AutoScale"
+
+    capacity {
+      default = 2
+      minimum = 1
+      maximum = 4
+    }
+
+    rule {
+      metric_trigger {
+        metric_name        = "Percentage CPU"
+        metric_resource_id = azurerm_virtual_machine_scale_set.main.id
+        time_grain         = "PT1M"
+        statistic          = "Average"
+        time_window        = "PT5M"
+        time_aggregation   = "Average"
+        operator           = "GreaterThan"
+        threshold          = 75
+      }
+
+      scale_action {
+        direction = "Increase"
+        type      = "ChangeCount"
+        value     = "1"
+        cooldown  = "PT1M"
+      }
+    }
+
+    rule {
+      metric_trigger {
+        metric_name        = "Percentage CPU"
+        metric_resource_id = azurerm_virtual_machine_scale_set.main.id
+        time_grain         = "PT1M"
+        statistic          = "Average"
+        time_window        = "PT5M"
+        time_aggregation   = "Average"
+        operator           = "LessThan"
+        threshold          = 25
+      }
+
+      scale_action {
+        direction = "Decrease"
+        type      = "ChangeCount"
+        value     = "1"
+        cooldown  = "PT1M"
+      }
+    }
+  }
+}

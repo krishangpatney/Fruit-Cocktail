@@ -1,7 +1,7 @@
 
 # Build Ubuntu Linux VM
 resource "azurerm_virtual_machine" "site" {
-  name                = "${var.hostname}-${var.count_number}-site"
+  name                = "${var.hostname}-site"
   location            = var.location
   resource_group_name = var.resource_group
   vm_size             = var.vm_size
@@ -17,7 +17,7 @@ resource "azurerm_virtual_machine" "site" {
   }
 
   storage_os_disk {
-    name              = "${var.hostname}-${var.count_number}-osdisk"
+    name              = "${var.hostname}-osdisk"
     managed_disk_type = "Standard_LRS"
     caching           = "ReadWrite"
     create_option     = "FromImage"

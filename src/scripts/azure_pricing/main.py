@@ -32,7 +32,7 @@ def soup_it(life_time: int = 50,  number_of_options: int = 20, iterations: int =
         live_time_cost = linux_cost * float(live_time)
         total_cost_iterations = live_time_cost * (iterations)
         vals = [vm_name, v_CPUS, value[2], linux_cost ,live_time, live_time_cost, iterations,total_cost_iterations]
-        if linux_cost < 5.0:
+        if linux_cost < 5.0 and v_CPUS <= 16:
             result.append(vals)
 
     df = pandas.DataFrame.from_records(result, columns=["VM Name", "vCPUs", "Memory (GiB)", "Linux Cost", "Apporx Live Time (Hrs)" , "Live Time Cost" ,"Iterations", "Total Cost"])
@@ -40,8 +40,8 @@ def soup_it(life_time: int = 50,  number_of_options: int = 20, iterations: int =
     interval = len(df) // number_of_options
     pandas.set_option("max_rows", None)
     df = df.sort_values(by=['vCPUs', "Memory (GiB)"])
-    print(df[::])
-    print(np.sum(df[::]["Total Cost"]))
+    print(df[::interval - 2]['VM Name'])
+    print(np.sum(df[::interval]["Total Cost"]))
 
 
 # Get system arguments 

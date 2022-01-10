@@ -15,10 +15,10 @@ cd "./${machine_name}"
 mkdir -p "$run_number"
 
 # Percentage CPU
-az vm monitor metrics tail --name $application_name -g $resource_group --metric "Percentage CPU" > "./${run_number}/percentageCPU_${run_number}.json"
+az vm monitor metrics tail --name $application_name -g $resource_group --metric "Percentage CPU" > "./${run_number}/percentageCPU.json"
 
 # # Available Memory Bytes
-az vm monitor metrics tail --name $application_name -g $resource_group --metric "Available Memory Bytes" > "./${run_number}/availableMemoryBytes_${run_number}.json"
+az vm monitor metrics tail --name $application_name -g $resource_group --metric "Available Memory Bytes" > "./${run_number}/availableMemoryBytes.json"
 
 cd ..
 cd ..
