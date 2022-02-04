@@ -1,0 +1,106 @@
+Count,Message,Traceback,Nodes
+156,"[Errno Expecting value] <html>
+<head><title>504 Gateway Time-out</title></head>
+<body bgcolor=""white"">
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.14.0 (Ubuntu)</center>
+</body>
+</html>
+: 0","  File ""/usr/local/lib/python3.6/dist-packages/locust/user/task.py"", line 296, in run
+    self.execute_next_task()
+  File ""/usr/local/lib/python3.6/dist-packages/locust/user/task.py"", line 321, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File ""/usr/local/lib/python3.6/dist-packages/locust/user/task.py"", line 434, in execute_task
+    task(self.user)
+  File ""/home/testuser/locustfile.py"", line 78, in load
+    city = choice(self.client.get('/api/shipping/cities/{}'.format(code['code']), headers={'x-forwarded-for': fake_ip}).json())
+  File ""/usr/local/lib/python3.6/dist-packages/requests/models.py"", line 917, in json
+    raise RequestsJSONDecodeError(e.msg, e.doc, e.pos)
+",local
+765,"[Errno Expecting value] <html>
+<head><title>504 Gateway Time-out</title></head>
+<body bgcolor=""white"">
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.14.0 (Ubuntu)</center>
+</body>
+</html>
+: 0","  File ""/usr/local/lib/python3.6/dist-packages/locust/user/task.py"", line 296, in run
+    self.execute_next_task()
+  File ""/usr/local/lib/python3.6/dist-packages/locust/user/task.py"", line 321, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File ""/usr/local/lib/python3.6/dist-packages/locust/user/task.py"", line 434, in execute_task
+    task(self.user)
+  File ""/home/testuser/locustfile.py"", line 77, in load
+    code = choice(self.client.get('/api/shipping/codes', headers={'x-forwarded-for': fake_ip}).json())
+  File ""/usr/local/lib/python3.6/dist-packages/requests/models.py"", line 917, in json
+    raise RequestsJSONDecodeError(e.msg, e.doc, e.pos)
+",local
+27,"[Errno Expecting value] <html>
+<head><title>504 Gateway Time-out</title></head>
+<body bgcolor=""white"">
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.14.0 (Ubuntu)</center>
+</body>
+</html>
+: 0","  File ""/usr/local/lib/python3.6/dist-packages/locust/user/task.py"", line 296, in run
+    self.execute_next_task()
+  File ""/usr/local/lib/python3.6/dist-packages/locust/user/task.py"", line 321, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File ""/usr/local/lib/python3.6/dist-packages/locust/user/task.py"", line 434, in execute_task
+    task(self.user)
+  File ""/home/testuser/locustfile.py"", line 80, in load
+    shipping = self.client.get('/api/shipping/calc/{}'.format(city['uuid']), headers={'x-forwarded-for': fake_ip}).json()
+  File ""/usr/local/lib/python3.6/dist-packages/requests/models.py"", line 917, in json
+    raise RequestsJSONDecodeError(e.msg, e.doc, e.pos)
+",local
+2,[Errno Expecting value] : 0,"  File ""/usr/local/lib/python3.6/dist-packages/locust/user/task.py"", line 296, in run
+    self.execute_next_task()
+  File ""/usr/local/lib/python3.6/dist-packages/locust/user/task.py"", line 321, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File ""/usr/local/lib/python3.6/dist-packages/locust/user/task.py"", line 434, in execute_task
+    task(self.user)
+  File ""/home/testuser/locustfile.py"", line 50, in load
+    user = self.client.get('/api/user/uniqueid', headers={'x-forwarded-for': fake_ip}).json()
+  File ""/usr/local/lib/python3.6/dist-packages/requests/models.py"", line 917, in json
+    raise RequestsJSONDecodeError(e.msg, e.doc, e.pos)
+",local
+2,"[Errno Expecting value] <html>
+<head><title>504 Gateway Time-out</title></head>
+<body bgcolor=""white"">
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.14.0 (Ubuntu)</center>
+</body>
+</html>
+: 0","  File ""/usr/local/lib/python3.6/dist-packages/locust/user/task.py"", line 296, in run
+    self.execute_next_task()
+  File ""/usr/local/lib/python3.6/dist-packages/locust/user/task.py"", line 321, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File ""/usr/local/lib/python3.6/dist-packages/locust/user/task.py"", line 434, in execute_task
+    task(self.user)
+  File ""/home/testuser/locustfile.py"", line 84, in load
+    cart = self.client.post('/api/shipping/confirm/{}'.format(uniqueid), json=shipping, headers={'x-forwarded-for': fake_ip}).json()
+  File ""/usr/local/lib/python3.6/dist-packages/requests/models.py"", line 917, in json
+    raise RequestsJSONDecodeError(e.msg, e.doc, e.pos)
+",local
+32,[Errno Expecting value] : 0,"  File ""/usr/local/lib/python3.6/dist-packages/locust/user/task.py"", line 296, in run
+    self.execute_next_task()
+  File ""/usr/local/lib/python3.6/dist-packages/locust/user/task.py"", line 321, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File ""/usr/local/lib/python3.6/dist-packages/locust/user/task.py"", line 434, in execute_task
+    task(self.user)
+  File ""/home/testuser/locustfile.py"", line 56, in load
+    products = self.client.get('/api/catalogue/products', headers={'x-forwarded-for': fake_ip}).json()
+  File ""/usr/local/lib/python3.6/dist-packages/requests/models.py"", line 917, in json
+    raise RequestsJSONDecodeError(e.msg, e.doc, e.pos)
+",local
+15,[Errno Expecting value] : 0,"  File ""/usr/local/lib/python3.6/dist-packages/locust/user/task.py"", line 296, in run
+    self.execute_next_task()
+  File ""/usr/local/lib/python3.6/dist-packages/locust/user/task.py"", line 321, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File ""/usr/local/lib/python3.6/dist-packages/locust/user/task.py"", line 434, in execute_task
+    task(self.user)
+  File ""/home/testuser/locustfile.py"", line 72, in load
+    cart = self.client.get('/api/cart/cart/{}'.format(uniqueid), headers={'x-forwarded-for': fake_ip}).json()
+  File ""/usr/local/lib/python3.6/dist-packages/requests/models.py"", line 917, in json
+    raise RequestsJSONDecodeError(e.msg, e.doc, e.pos)
+",local
