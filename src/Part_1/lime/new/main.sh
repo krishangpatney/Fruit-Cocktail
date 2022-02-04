@@ -32,8 +32,8 @@ while read -r machine || [ -n "$machine" ]; do
     echo $target_name
     python3 metrics.py $MACHINE_NAME $target_name "Percentage CPU" > "./$MACHINE_NAME/$line/percentageCPU.txt"
     python3 metrics.py $MACHINE_NAME $target_name "Available Memory Bytes" > "./$MACHINE_NAME/$line/availableMemoryBytes.json"
-    python3 metrics.py $MACHINE_NAME $target_name > "./$MACHINE_NAME/$line/networkIn.json"
-    python3 metrics.py $MACHINE_NAME $target_name > "./$MACHINE_NAME/$line/networkOut.json"
+    python3 metrics.py $MACHINE_NAME $target_name "Network In" > "./$MACHINE_NAME/$line/networkIn.txt"
+    python3 metrics.py $MACHINE_NAME $target_name "Network Out" > "./$MACHINE_NAME/$line/networkOut.txt"
   done < "units.txt"
   cd ..
 
