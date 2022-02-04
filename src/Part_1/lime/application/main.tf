@@ -176,7 +176,11 @@ resource "azurerm_monitor_autoscale_setting" "scaling" {
   location            = "UK South"
   target_resource_id  = "${azurerm_virtual_machine_scale_set.main.id}"
 
+<<<<<<< HEAD
   profile { 
+=======
+  profile {
+>>>>>>> 8dc0bf78774f5109ba6895cc6ba32e4cb79c8051
     name = "AutoScale"
 
     capacity {

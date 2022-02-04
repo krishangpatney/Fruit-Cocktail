@@ -1,6 +1,10 @@
 server {
     # Listens on port 80
+<<<<<<< HEAD:src/Part_2/orange/new/staging/files/reverse
     listen 60;
+=======
+    listen 6060;
+>>>>>>> 8dc0bf78774f5109ba6895cc6ba32e4cb79c8051:src/Part_2/orange/application/files/reverse
 
     # For all URLs on port 80,
     location / {
