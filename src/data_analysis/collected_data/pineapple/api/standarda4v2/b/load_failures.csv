@@ -1,0 +1,147 @@
+Method,Name,Error,Occurrences
+GET,/api/shipping/cities/jp,504 Server Error: Gateway Time-out for url: http://20.117.70.214/api/shipping/cities/jp,6
+GET,/api/catalogue/product/Watson,Remote end closed connection without response,5
+GET,/api/shipping/cities/au,504 Server Error: Gateway Time-out for url: http://20.117.70.214/api/shipping/cities/au,3
+GET,/api/shipping/calc/3397485,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-919,Remote end closed connection without response,1
+GET,/api/shipping/cities/ro,504 Server Error: Gateway Time-out for url: http://20.117.70.214/api/shipping/cities/ro,2
+GET,/api/shipping/calc/5656411,504 Server Error: Gateway Time-out for url: http://20.117.70.214/api/shipping/calc/5656411,1
+GET,/api/cart/update/anonymous-859/RED/2,Remote end closed connection without response,1
+GET,/api/shipping/calc/4176987,Remote end closed connection without response,1
+GET,/api/shipping/cities/in,504 Server Error: Gateway Time-out for url: http://20.117.70.214/api/shipping/cities/in,5
+GET,/api/shipping/cities/dk,504 Server Error: Gateway Time-out for url: http://20.117.70.214/api/shipping/cities/dk,1
+PUT,/api/ratings/api/rate/STAN-1/4,Remote end closed connection without response,2
+GET,/,Remote end closed connection without response,2
+PUT,/api/ratings/api/rate/SHCE/3,Remote end closed connection without response,1
+GET,/api/catalogue/product/RED,Remote end closed connection without response,5
+GET,/api/shipping/cities/se,504 Server Error: Gateway Time-out for url: http://20.117.70.214/api/shipping/cities/se,7
+GET,/api/shipping/calc/4180122,504 Server Error: Gateway Time-out for url: http://20.117.70.214/api/shipping/calc/4180122,1
+PUT,/api/ratings/api/rate/Watson/1,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/Watson/2,Remote end closed connection without response,1
+GET,/api/shipping/calc/4166471,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-830/SHCE/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-1400/RMC/2,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/RED/5,Remote end closed connection without response,1
+GET,/api/shipping/cities/us,Remote end closed connection without response,1
+GET,/api/shipping/cities/cz,Remote end closed connection without response,2
+GET,/api/user/uniqueid,Remote end closed connection without response,9
+GET,/api/shipping/calc/3849359,Remote end closed connection without response,1
+GET,/api/shipping/cities/fi,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-1034,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-1028,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-1108/Watson/1,Remote end closed connection without response,1
+GET,/api/ratings/api/fetch/Watson,Remote end closed connection without response,3
+GET,/api/cart/cart/anonymous-502,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-29,504 Server Error: Gateway Time-out for url: http://20.117.70.214/api/shipping/confirm/anonymous-29,1
+GET,/api/cart/add/anonymous-999/STAN-1/1,Remote end closed connection without response,1
+GET,/api/shipping/cities/bg,Remote end closed connection without response,1
+GET,/api/shipping/calc/3844579,Remote end closed connection without response,1
+GET,/api/shipping/cities/gb,504 Server Error: Gateway Time-out for url: http://20.117.70.214/api/shipping/cities/gb,6
+GET,/api/shipping/cities/es,504 Server Error: Gateway Time-out for url: http://20.117.70.214/api/shipping/cities/es,5
+GET,/api/shipping/calc/4559630,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-1031,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-781,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-911/HPTD/1,Remote end closed connection without response,1
+GET,/api/ratings/api/fetch/UHJ,Remote end closed connection without response,3
+GET,/api/shipping/calc/5083190,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-1035,Remote end closed connection without response,1
+GET,/api/ratings/api/fetch/HPTD,Remote end closed connection without response,1
+GET,/api/shipping/calc/5373568,504 Server Error: Gateway Time-out for url: http://20.117.70.214/api/shipping/calc/5373568,1
+GET,/api/shipping/calc/4163508,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/RED/1,Remote end closed connection without response,1
+GET,/api/catalogue/product/EPE,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-1168,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-10,504 Server Error: Gateway Time-out for url: http://20.117.70.214/api/shipping/confirm/anonymous-10,1
+GET,/api/shipping/calc/3201934,504 Server Error: Gateway Time-out for url: http://20.117.70.214/api/shipping/calc/3201934,1
+GET,/api/shipping/cities/tr,504 Server Error: Gateway Time-out for url: http://20.117.70.214/api/shipping/cities/tr,4
+GET,/api/shipping/cities/no,504 Server Error: Gateway Time-out for url: http://20.117.70.214/api/shipping/cities/no,5
+GET,/api/shipping/calc/5390533,504 Server Error: Gateway Time-out for url: http://20.117.70.214/api/shipping/calc/5390533,1
+GET,/api/shipping/calc/5344926,504 Server Error: Gateway Time-out for url: http://20.117.70.214/api/shipping/calc/5344926,1
+GET,/api/shipping/calc/3192210,504 Server Error: Gateway Time-out for url: http://20.117.70.214/api/shipping/calc/3192210,1
+POST,/api/payment/pay/anonymous-795,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-1283/EMM/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/3364285,504 Server Error: Gateway Time-out for url: http://20.117.70.214/api/shipping/calc/3364285,1
+GET,/api/shipping/codes,504 Server Error: Gateway Time-out for url: http://20.117.70.214/api/shipping/codes,548
+GET,/api/shipping/cities/de,504 Server Error: Gateway Time-out for url: http://20.117.70.214/api/shipping/cities/de,4
+GET,/api/shipping/calc/3954116,504 Server Error: Gateway Time-out for url: http://20.117.70.214/api/shipping/calc/3954116,1
+GET,/api/cart/cart/anonymous-924,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-1127,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-1325/RED/2,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-1027,Remote end closed connection without response,1
+GET,/api/catalogue/categories,Remote end closed connection without response,20
+GET,/api/catalogue/product/RMC,Remote end closed connection without response,4
+GET,/api/cart/cart/anonymous-922,Remote end closed connection without response,1
+GET,/api/shipping/cities/ch,504 Server Error: Gateway Time-out for url: http://20.117.70.214/api/shipping/cities/ch,5
+GET,/api/shipping/calc/4166175,504 Server Error: Gateway Time-out for url: http://20.117.70.214/api/shipping/calc/4166175,1
+PUT,/api/ratings/api/rate/EMM/3,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-1241/UHJ/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-1169/EMM/1,Remote end closed connection without response,1
+GET,/api/ratings/api/fetch/RED,Remote end closed connection without response,3
+POST,/api/shipping/confirm/anonymous-727,Remote end closed connection without response,1
+GET,/api/catalogue/product/UHJ,Remote end closed connection without response,4
+POST,/api/payment/pay/anonymous-916,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-1032,Remote end closed connection without response,1
+GET,/api/shipping/calc/3202389,504 Server Error: Gateway Time-out for url: http://20.117.70.214/api/shipping/calc/3202389,1
+GET,/api/shipping/cities/at,504 Server Error: Gateway Time-out for url: http://20.117.70.214/api/shipping/cities/at,9
+GET,/api/cart/add/anonymous-1107/SHCE/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-921,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-1030,Remote end closed connection without response,1
+GET,/api/shipping/cities/hu,504 Server Error: Gateway Time-out for url: http://20.117.70.214/api/shipping/cities/hu,5
+GET,/api/catalogue/product/HPTD,Remote end closed connection without response,2
+GET,/api/cart/cart/anonymous-816,Remote end closed connection without response,1
+POST,/api/user/login,Remote end closed connection without response,3
+GET,/api/shipping/cities/de,"('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))",1
+GET,/api/cart/cart/anonymous-822,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-1086/SHCE/1,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-27,504 Server Error: Gateway Time-out for url: http://20.117.70.214/api/shipping/confirm/anonymous-27,1
+GET,/api/cart/add/anonymous-1357/RED/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/4030738,Remote end closed connection without response,1
+GET,/api/shipping/cities/dk,Remote end closed connection without response,2
+GET,/api/ratings/api/fetch/RMC,Remote end closed connection without response,1
+GET,/api/shipping/cities/bg,504 Server Error: Gateway Time-out for url: http://20.117.70.214/api/shipping/cities/bg,5
+GET,/api/ratings/api/fetch/EPE,Remote end closed connection without response,2
+GET,/api/cart/add/anonymous-1285/RMC/1,Remote end closed connection without response,1
+GET,/api/ratings/api/fetch/EMM,Remote end closed connection without response,4
+GET,/api/shipping/cities/it,504 Server Error: Gateway Time-out for url: http://20.117.70.214/api/shipping/cities/it,2
+GET,/api/shipping/cities/nl,504 Server Error: Gateway Time-out for url: http://20.117.70.214/api/shipping/cities/nl,4
+POST,/api/shipping/confirm/anonymous-30,504 Server Error: Gateway Time-out for url: http://20.117.70.214/api/shipping/confirm/anonymous-30,1
+GET,/api/catalogue/product/STAN-1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-1272/STAN-1/1,Remote end closed connection without response,1
+GET,/api/catalogue/product/STAN-1,[Errno 104] Connection reset by peer,1
+GET,/api/cart/update/anonymous-1275/RMC/2,Remote end closed connection without response,1
+GET,/api/shipping/cities/br,504 Server Error: Gateway Time-out for url: http://20.117.70.214/api/shipping/cities/br,2
+POST,/api/shipping/confirm/anonymous-12,504 Server Error: Gateway Time-out for url: http://20.117.70.214/api/shipping/confirm/anonymous-12,1
+GET,/api/shipping/cities/nl,Remote end closed connection without response,1
+GET,/api/shipping/cities/ca,504 Server Error: Gateway Time-out for url: http://20.117.70.214/api/shipping/cities/ca,9
+GET,/api/shipping/calc/3438406,504 Server Error: Gateway Time-out for url: http://20.117.70.214/api/shipping/calc/3438406,1
+GET,/api/cart/cart/anonymous-878,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-1040,Remote end closed connection without response,1
+GET,/api/shipping/calc/5826445,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-713,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-1239/Watson/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-962/UHJ/2,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/UHJ/5,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-890/Watson/1,Remote end closed connection without response,1
+GET,/api/shipping/cities/pt,504 Server Error: Gateway Time-out for url: http://20.117.70.214/api/shipping/cities/pt,7
+GET,/api/shipping/calc/3398361,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-948,Remote end closed connection without response,1
+GET,/api/catalogue/product/EMM,Remote end closed connection without response,8
+POST,/api/payment/pay/anonymous-1048,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-1096,Remote end closed connection without response,1
+GET,/api/shipping/cities/fr,504 Server Error: Gateway Time-out for url: http://20.117.70.214/api/shipping/cities/fr,10
+GET,/api/shipping/cities/ru,504 Server Error: Gateway Time-out for url: http://20.117.70.214/api/shipping/cities/ru,6
+GET,/api/ratings/api/fetch/STAN-1,Remote end closed connection without response,2
+GET,/api/ratings/api/fetch/SHCE,Remote end closed connection without response,2
+GET,/api/shipping/calc/4554314,504 Server Error: Gateway Time-out for url: http://20.117.70.214/api/shipping/calc/4554314,1
+GET,/api/cart/add/anonymous-1206/UHJ/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/5671944,Remote end closed connection without response,1
+GET,/api/shipping/cities/cz,504 Server Error: Gateway Time-out for url: http://20.117.70.214/api/shipping/cities/cz,5
+GET,/api/shipping/cities/es,Remote end closed connection without response,1
+GET,/api/shipping/cities/fi,504 Server Error: Gateway Time-out for url: http://20.117.70.214/api/shipping/cities/fi,2
+POST,/api/shipping/confirm/anonymous-31,504 Server Error: Gateway Time-out for url: http://20.117.70.214/api/shipping/confirm/anonymous-31,1
+GET,/api/cart/cart/anonymous-1033,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/EMM/5,Remote end closed connection without response,1
+GET,/api/shipping/cities/us,504 Server Error: Gateway Time-out for url: http://20.117.70.214/api/shipping/cities/us,8
+GET,/api/shipping/codes,Remote end closed connection without response,11
+POST,/api/payment/pay/anonymous-1074,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-1234/RMC/1,Remote end closed connection without response,1

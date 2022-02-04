@@ -7,20 +7,14 @@ terraform {
   }
 }
 
-# Configure the Azure Provider
-provider "azurerm" {
-	subscription_id 	= var.subscription_id
-	features {}
-}
-
-# Use a created resource group
+# Use a pre-created resource group
 data "azurerm_resource_group" "krishangs_resource" {
-	name = "${var.resource_prefix}"
+	name = "krishangs_resource"
 }
 
 # Create a virtual network within the resource group
 resource "azurerm_virtual_network" "rsvmss" {
-	name = "${var.resource_prefix}-vnet"
+	name = "${var.project_name}-${var.unit_name}-vnet"
 	resource_group_name = data.azurerm_resource_group.krishangs_resource.name
 	location = var.node_location
 	address_space = var.node_address_space
@@ -28,22 +22,22 @@ resource "azurerm_virtual_network" "rsvmss" {
 
 # Create a subnets within the virtual network
 resource "azurerm_subnet" "rsvmss" {
-	name = "${var.resource_prefix}-subnet"
+	name = "${var.project_name}-${var.unit_name}-subnet"
 	resource_group_name = data.azurerm_resource_group.krishangs_resource.name
 	virtual_network_name = azurerm_virtual_network.rsvmss.name
 	address_prefix = var.node_address_prefix
 }
 
 resource "azurerm_public_ip" "rsvmss" {
-  name                = "${var.resource_prefix}-pip"
+  name                = "${var.project_name}-${var.unit_name}-pip"
   location            = var.node_location
   resource_group_name = data.azurerm_resource_group.krishangs_resource.name
   allocation_method   = "Dynamic"
-  domain_name_label   = "krishangs-domain1"
+  domain_name_label   = "krishangs-domain-${var.unit_name}"
 }
 
 resource "azurerm_lb" "rsvmss" {
-  name                = "${var.resource_prefix}-lb"
+  name                = "${var.project_name}-${var.unit_name}-lb"
   location            = var.node_location
   resource_group_name = data.azurerm_resource_group.krishangs_resource.name
 
@@ -93,14 +87,14 @@ data "template_cloudinit_config" "config" {
 }
 
 resource "azurerm_virtual_machine_scale_set" "main" {
-  name                            = "robotshop-vmss"
+  name                            = "${var.project_name}-${var.unit_name}-vmss"
   resource_group_name             = "krishangs_resource"
   location                        = "UK South"
 
   upgrade_policy_mode = "Manual"
 
   sku {
-    name     = "Standard_D1_v2"
+    name     = "${var.vm_size}"
     tier     = "Standard"
     capacity = 2
   } 
@@ -142,8 +136,8 @@ resource "azurerm_virtual_machine_scale_set" "main" {
   }
   os_profile {
     computer_name_prefix = "vmlab"
-    admin_username       = var.admin_username
-    admin_password       = var.admin_password
+    admin_username       = "testuser" 
+    admin_password       = "pass@1234"
     custom_data          = "${data.template_cloudinit_config.config.rendered}"
   }
 
@@ -176,18 +170,18 @@ resource "azurerm_monitor_autoscale_setting" "scaling" {
   location            = "UK South"
   target_resource_id  = "${azurerm_virtual_machine_scale_set.main.id}"
 
-  profile { 
+  profile {
     name = "AutoScale"
 
     capacity {
       default = 2
       minimum = 1
-      maximum = 4
+      maximum = 4 
     }
 
     rule {
       metric_trigger {
-        metric_name        = "Percentage CPU"
+        metric_name        = "CpuPercentage"
         metric_resource_id = azurerm_virtual_machine_scale_set.main.id
         time_grain         = "PT1M"
         statistic          = "Average"
