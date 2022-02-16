@@ -1,0 +1,508 @@
+{
+  "cost": 59,
+  "interval": "0:01:00",
+  "namespace": "Microsoft.Compute/virtualMachines",
+  "resourceregion": "uksouth",
+  "timespan": "2022-02-16T16:07:05Z/2022-02-16T17:07:05Z",
+  "value": [
+    {
+      "displayDescription": "The percentage of allocated compute units that are currently in use by the Virtual Machine(s)",
+      "errorCode": "Success",
+      "id": "/subscriptions/6a1c9c00-ef6b-4bbf-a3f1-ca2c019f31e9/resourceGroups/krishangs_resource/providers/Microsoft.Compute/virtualMachines/hotel-a-site/providers/Microsoft.Insights/metrics/Percentage CPU",
+      "name": {
+        "localizedValue": "Percentage CPU",
+        "value": "Percentage CPU"
+      },
+      "resourceGroup": "krishangs_resource",
+      "timeseries": [
+        {
+          "data": [
+            {
+              "average": null,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:07:00+00:00",
+              "total": null
+            },
+            {
+              "average": null,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:08:00+00:00",
+              "total": null
+            },
+            {
+              "average": null,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:09:00+00:00",
+              "total": null
+            },
+            {
+              "average": null,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:10:00+00:00",
+              "total": null
+            },
+            {
+              "average": null,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:11:00+00:00",
+              "total": null
+            },
+            {
+              "average": null,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:12:00+00:00",
+              "total": null
+            },
+            {
+              "average": null,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:13:00+00:00",
+              "total": null
+            },
+            {
+              "average": null,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:14:00+00:00",
+              "total": null
+            },
+            {
+              "average": null,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:15:00+00:00",
+              "total": null
+            },
+            {
+              "average": null,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:16:00+00:00",
+              "total": null
+            },
+            {
+              "average": null,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:17:00+00:00",
+              "total": null
+            },
+            {
+              "average": null,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:18:00+00:00",
+              "total": null
+            },
+            {
+              "average": null,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:19:00+00:00",
+              "total": null
+            },
+            {
+              "average": null,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:20:00+00:00",
+              "total": null
+            },
+            {
+              "average": null,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:21:00+00:00",
+              "total": null
+            },
+            {
+              "average": null,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:22:00+00:00",
+              "total": null
+            },
+            {
+              "average": null,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:23:00+00:00",
+              "total": null
+            },
+            {
+              "average": 52.8375,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:24:00+00:00",
+              "total": null
+            },
+            {
+              "average": 56.875,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:25:00+00:00",
+              "total": null
+            },
+            {
+              "average": 47.43,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:26:00+00:00",
+              "total": null
+            },
+            {
+              "average": 5.5775,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:27:00+00:00",
+              "total": null
+            },
+            {
+              "average": 5.61,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:28:00+00:00",
+              "total": null
+            },
+            {
+              "average": 5.43,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:29:00+00:00",
+              "total": null
+            },
+            {
+              "average": 5.8025,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:30:00+00:00",
+              "total": null
+            },
+            {
+              "average": 5.7275,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:31:00+00:00",
+              "total": null
+            },
+            {
+              "average": 65.845,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:32:00+00:00",
+              "total": null
+            },
+            {
+              "average": 95.31,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:33:00+00:00",
+              "total": null
+            },
+            {
+              "average": 95.3325,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:34:00+00:00",
+              "total": null
+            },
+            {
+              "average": 95.3325,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:35:00+00:00",
+              "total": null
+            },
+            {
+              "average": 95.31,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:36:00+00:00",
+              "total": null
+            },
+            {
+              "average": 95.3075,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:37:00+00:00",
+              "total": null
+            },
+            {
+              "average": 95.3125,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:38:00+00:00",
+              "total": null
+            },
+            {
+              "average": 95.3125,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:39:00+00:00",
+              "total": null
+            },
+            {
+              "average": 95.2725,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:40:00+00:00",
+              "total": null
+            },
+            {
+              "average": 95.305,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:41:00+00:00",
+              "total": null
+            },
+            {
+              "average": 95.37,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:42:00+00:00",
+              "total": null
+            },
+            {
+              "average": 95.3075,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:43:00+00:00",
+              "total": null
+            },
+            {
+              "average": 95.2675,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:44:00+00:00",
+              "total": null
+            },
+            {
+              "average": 95.2175,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:45:00+00:00",
+              "total": null
+            },
+            {
+              "average": 95.35,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:46:00+00:00",
+              "total": null
+            },
+            {
+              "average": 95.3075,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:47:00+00:00",
+              "total": null
+            },
+            {
+              "average": 95.395,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:48:00+00:00",
+              "total": null
+            },
+            {
+              "average": 95.3125,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:49:00+00:00",
+              "total": null
+            },
+            {
+              "average": 95.265,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:50:00+00:00",
+              "total": null
+            },
+            {
+              "average": 95.2275,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:51:00+00:00",
+              "total": null
+            },
+            {
+              "average": 95.2775,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:52:00+00:00",
+              "total": null
+            },
+            {
+              "average": 95.2375,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:53:00+00:00",
+              "total": null
+            },
+            {
+              "average": 95.225,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:54:00+00:00",
+              "total": null
+            },
+            {
+              "average": 95.315,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:55:00+00:00",
+              "total": null
+            },
+            {
+              "average": 95.2875,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:56:00+00:00",
+              "total": null
+            },
+            {
+              "average": 95.2775,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:57:00+00:00",
+              "total": null
+            },
+            {
+              "average": 95.1475,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:58:00+00:00",
+              "total": null
+            },
+            {
+              "average": 95.3575,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T16:59:00+00:00",
+              "total": null
+            },
+            {
+              "average": 95.2475,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T17:00:00+00:00",
+              "total": null
+            },
+            {
+              "average": 95.3,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T17:01:00+00:00",
+              "total": null
+            },
+            {
+              "average": 40.8525,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T17:02:00+00:00",
+              "total": null
+            },
+            {
+              "average": 5.9475,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T17:03:00+00:00",
+              "total": null
+            },
+            {
+              "average": 9.3075,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T17:04:00+00:00",
+              "total": null
+            },
+            {
+              "average": 5.94,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T17:05:00+00:00",
+              "total": null
+            },
+            {
+              "average": null,
+              "count": null,
+              "maximum": null,
+              "minimum": null,
+              "timeStamp": "2022-02-16T17:06:00+00:00",
+              "total": null
+            }
+          ],
+          "metadatavalues": []
+        }
+      ],
+      "type": "Microsoft.Insights/metrics",
+      "unit": "Percent"
+    }
+  ]
+}
