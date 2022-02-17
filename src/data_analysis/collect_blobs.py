@@ -27,26 +27,30 @@ try:
         blobs = container.list_blobs()
         print(c.name)
         split_names = (c.name).split("-")
-        parent_diretory = f"./collected_data/{split_names[0]}"
-        if not os.path.isdir(parent_diretory):
-            container_path  = os.path.join(parent_diretory, split_names[1])
-            blob_path = os.path.join(container_path, split_names[2])
-
+        if split_names[0] not in ["pineapple"]:
+            parent_diretory = f"./collected_data/{split_names[0]}"
             if not os.path.isdir(parent_diretory):
                 os.mkdir(parent_diretory, 0o777)
 
+
+            api_path        = os.path.join(parent_diretory, "api")
+            container_path  = os.path.join(api_path, split_names[1])
+            blob_path = os.path.join(container_path, split_names[2])
+
+            if not os.path.isdir(api_path):
+                os.mkdir(api_path, 0o777)
             if not os.path.isdir(container_path):
                 os.mkdir(container_path, 0o777)
-
             if not os.path.isdir(blob_path):
                 os.mkdir(blob_path, 0o777)
+            
             
             for blob in blobs:
                 print(blob_path)
                 bytes = container.get_blob_client(blob).download_blob().readall()
                 with open(f"{blob_path}/{blob.name}", 'wb') as f: 
                     f.write(bytes)
-   
+
 except Exception as ex:
     print('Exception:')
     print(ex)
