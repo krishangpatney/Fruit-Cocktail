@@ -22,12 +22,12 @@ module "application_a" {
 
   subscription_id = var.subscription
   resource_group  = "krishangs_resource"
-  project_name    = "social"
+  project_name    = "orange"
 
   location             = "UK South"
-  hostname             = "socialapplication"
+  hostname             = "orange"
   source_network       = "*"
-  virtual_network_name = "socialapplicaiton-vnet"
+  virtual_network_name = "orange-vnet"
   address_space        = "10.0.0.0/16"
   subnet_prefix        = "10.0.0.0/24"
 

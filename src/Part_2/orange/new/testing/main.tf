@@ -36,7 +36,6 @@ module "main" {
   resource_group  = "krishangs_resource"
   project_name    = "socialtest"
 
-
   location             = "UK South"
   hostname             = "socialtest"
   source_network       = "*"

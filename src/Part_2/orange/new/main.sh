@@ -28,7 +28,7 @@ while read -r machine || [ -n "$machine" ]; do
 
   while read -r line || [ -n "$line" ]; do
     mkdir -p "$machine/$line"
-    target_name="pineapplication-$line-site"
+    target_name="orange-$line-site"
     echo $target_name
     az vm monitor metrics tail --name $target_name -g "krishangs_resource" --metric "Percentage CPU" > "./$machine/$line/percentageCPU.json"
     az vm monitor metrics tail --name $target_name -g "krishangs_resource" --metric "Available Memory Bytes" > "./$machine/$line/availableMemoryBytes.json"

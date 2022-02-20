@@ -34,6 +34,6 @@ git clone https://github.com/delimitrou/DeathStarBench.git
 cd DeathStarBench/socialNetwork/
 docker-compose up -d 
 # hosts a small social media platform
-python3 scripts/init_social_graph.py --graph=socfb-Reed98
+python3 ./scripts/init_social_graph.py --graph=socfb-Reed98
 
 
