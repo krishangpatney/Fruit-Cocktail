@@ -27,7 +27,7 @@ try:
         blobs = container.list_blobs()
         print(c.name)
         split_names = (c.name).split("-")
-        if split_names[0] not in ["pineapple"]:
+        if split_names[0] not in ["pineapple", "watermelon"]:
             parent_diretory = f"./collected_data/{split_names[0]}"
             if not os.path.isdir(parent_diretory):
                 os.mkdir(parent_diretory, 0o777)
