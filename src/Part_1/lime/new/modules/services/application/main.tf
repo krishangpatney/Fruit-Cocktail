@@ -157,66 +157,9 @@ resource "azurerm_virtual_machine_scale_set" "main" {
     settings = <<SETTINGS
       {
         "fileUris": [
-        "https://gist.githubusercontent.com/krishangpatney/c05315a21d4258b3034c9097b68c5de3/raw/a1d03b6fe4d40e8b51d0506d2e32b0d60e2d0325/setup.sh"
+        "https://gist.githubusercontent.com/krishangpatney/c05315a21d4258b3034c9097b68c5de3/raw/63f03a1ef804cb08e439aff22243c2ad748c8221/setup.sh"
         ]
       }
     SETTINGS
     }
   }
-
-resource "azurerm_monitor_autoscale_setting" "scaling" {
-  name                = "scaling"
-  resource_group_name = "krishangs_resource"
-  location            = "UK South"
-  target_resource_id  = "${azurerm_virtual_machine_scale_set.main.id}"
-
-  profile {
-    name = "AutoScale"
-
-    capacity {
-      default = 2
-      minimum = 1
-      maximum = 4 
-    }
-
-    rule {
-      metric_trigger {
-        metric_name        = "CpuPercentage"
-        metric_resource_id = azurerm_virtual_machine_scale_set.main.id
-        time_grain         = "PT1M"
-        statistic          = "Average"
-        time_window        = "PT5M"
-        time_aggregation   = "Average"
-        operator           = "GreaterThan"
-        threshold          = 75
-      }
-
-      scale_action {
-        direction = "Increase"
-        type      = "ChangeCount"
-        value     = "1"
-        cooldown  = "PT1M"
-      }
-    }
-
-    rule {
-      metric_trigger {
-        metric_name        = "Percentage CPU"
-        metric_resource_id = azurerm_virtual_machine_scale_set.main.id
-        time_grain         = "PT1M"
-        statistic          = "Average"
-        time_window        = "PT5M"
-        time_aggregation   = "Average"
-        operator           = "LessThan"
-        threshold          = 25
-      }
-
-      scale_action {
-        direction = "Decrease"
-        type      = "ChangeCount"
-        value     = "1"
-        cooldown  = "PT1M"
-      }
-    }
-  }
-}

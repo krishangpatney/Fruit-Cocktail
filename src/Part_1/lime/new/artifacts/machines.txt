@@ -1,5 +1,1 @@
 Standard_A2_v2
-Standard_A4_v2
-Standard_A8_v2
-Standard_B12ms
-Standard_B16ms

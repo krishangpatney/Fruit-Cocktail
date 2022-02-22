@@ -12,7 +12,6 @@ provider "azurerm" {
   features {}
 }
 
-
 module "application_a"{
     source = "../modules/services/application"    
     
@@ -28,28 +27,6 @@ module "application_a"{
     Environment     = "Test"
  
 }
-
-# module "application_a" {
-#   source = "../modules/services/application"
-
-#   for_each = toset( local.ips )
-#   unit_name = each.value
-#   vm_size   = var.vm_size  
-
-#   subscription_id = var.subscription
-#   resource_group  = "krishangs_resource"
-#   project_name    = "pineapple"
-
-#   location             = "UK South"
-#   hostname             = "pineapplication"
-#   source_network       = "*"
-#   virtual_network_name = "pineapplicaiton-vnet"
-#   address_space        = "10.0.0.0/16"
-#   subnet_prefix        = "10.0.0.0/24"
-
-#   admin_username = "testuser"
-#   admin_password = "pass@1234"
-# }
 
 output "ip"{
   value = "${module.application_a}"

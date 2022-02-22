@@ -11,7 +11,7 @@ try:
     # init variables
     # connect_str = os.getenv('AZURE_STORAGE_CONNECTION_STRING')
     connect_str = "DefaultEndpointsProtocol=https;AccountName=krishangsmetrics;AccountKey=VdN1SY40ie95cfQAY8wTr70fOz8oEZaM8pj50KPgbW/P1gWODMF3u7F/z4+B93bwc4fhU/SedaJktWzi7SYRAQ==;EndpointSuffix=core.windows.net"
-    cocktail_mix = "pineapple"
+    cocktail_mix = "lime"
     unit = str(sys.argv[1])
     machine_name = str(sys.argv[2]).replace("_", "")
     # Quick start code goes here
@@ -28,13 +28,7 @@ try:
         blob_client = blob_service_client.get_blob_client(container=container_name, blob=f"{n}")
         with open(f"./{n}", "rb") as data:
             blob_client.upload_blob(data)
-
-    # for n in find_files("./", ".json"):
-    #     # Create a blob client using the local file name as the name for the blob
-    #     blob_client = blob_service_client.get_blob_client(container=container_name, blob=f"{n}")
-    #     with open(f"./{n}", "rb") as data:
-    #         blob_client.upload_blob(data)
-            
+           
     print("confirmed")
 except Exception as ex:
     print('Exception:')

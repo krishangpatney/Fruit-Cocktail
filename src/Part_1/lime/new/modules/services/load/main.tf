@@ -152,7 +152,7 @@ resource "azurerm_virtual_machine" "site" {
   provisioner "remote-exec" {
     inline = [
       "chmod +x /home/${var.admin_username}/setup.sh",
-      "sudo /home/${var.admin_username}/setup.sh  ${var.unit_name} ${var.target_machine_size} ${var.target_ip}",
+      "sudo /home/${var.admin_username}/setup.sh  ${var.unit_name} ${var.target_machine} ${var.target_ip}",
     ]
 
     connection {

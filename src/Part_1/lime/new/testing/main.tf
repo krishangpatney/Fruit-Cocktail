@@ -2,8 +2,8 @@
 variable "subscription" { default = "6a1c9c00-ef6b-4bbf-a3f1-ca2c019f31e9" }
 
 locals {
- ips   = split("\n", file("../artifacts/server_ip.txt"))
- units = split("\n", file("../artifacts/units.txt"))
+  ips   = split("\n", file("../artifacts/server_ip.txt"))
+  units = split("\n", file("../artifacts/units.txt"))
 
 
   a_map = tomap({
@@ -17,26 +17,30 @@ provider "azurerm" {
   features {}
 }
 
-module "test_a" {
-  source = "../modules/services/load"
-  
+variable "target_machine" {
+  type = string
+}
 
-  for_each =  local.a_map
+module "main" {
+  source = "../modules/services/load"
+
+
+  for_each = local.a_map
 
   unit_name = tostring(each.key)
   vm_size   = "Standard_A2_v2"
 
   target_ip = tostring(each.value)
-
+  target_machine = var.target_machine
   subscription_id = var.subscription
   resource_group  = "krishangs_resource"
-  project_name    = "pinetest"
+  project_name    = "limetest"
 
-  
+
   location             = "UK South"
-  hostname             = "pinetest"
+  hostname             = "limetest"
   source_network       = "*"
-  virtual_network_name = "pinetest"
+  virtual_network_name = "limetest"
   address_space        = "10.0.0.0/16"
   subnet_prefix        = "10.0.0.0/24"
 
@@ -44,6 +48,6 @@ module "test_a" {
   admin_password = "pass@1234"
 }
 
-output "unit_name"{
-   value = "${local.a_map}"
+output "unit_name" {
+  value = local.a_map
 }

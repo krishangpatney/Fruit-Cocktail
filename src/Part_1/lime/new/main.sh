@@ -4,7 +4,7 @@
 while read -r machine || [ -n "$machine" ]; do
   echo $machine
 
-  #run stagings with added variables 
+  run stagings with added variables 
   echo "Staging"
   cd staging    
   terraform init 
@@ -17,23 +17,23 @@ while read -r machine || [ -n "$machine" ]; do
   #run testing with added variables 
   cd testing
   terraform init 
-  terraform apply --auto-approve -var target_machine_size="$machine"
+  terraform apply --auto-approve -var target_machine="$machine"
 
   sleep 2m
-  terraform destroy --auto-approve -var target_machine_size="$machine"
+  terraform destroy --auto-approve -var target_machine="$machine"
   cd .. 
 
   echo "Metric Collection"
   cd "./artifacts/"
 
   while read -r line || [ -n "$line" ]; do
-    mkdir -p "$MACHINE_NAME/$line"
+    mkdir -p "$machine/$line"
     target_name="lime-$line-vmss"
     echo $target_name
-    python3 metrics.py $MACHINE_NAME $target_name "Percentage CPU" > "./$MACHINE_NAME/$line/percentageCPU.txt"
-    python3 metrics.py $MACHINE_NAME $target_name "Available Memory Bytes" > "./$MACHINE_NAME/$line/availableMemoryBytes.json"
-    python3 metrics.py $MACHINE_NAME $target_name "Network In" > "./$MACHINE_NAME/$line/networkIn.txt"
-    python3 metrics.py $MACHINE_NAME $target_name "Network Out" > "./$MACHINE_NAME/$line/networkOut.txt"
+    python3 metrics.py $machine $target_name "Percentage CPU" > "./$machine/$line/percentageCPU.txt"
+    python3 metrics.py $machine $target_name "Available Memory Bytes" > "./$machine/$line/availableMemoryBytes.txt"
+    python3 metrics.py $machine $target_name "Network In" > "./$machine/$line/networkIn.txt"
+    python3 metrics.py $machine $target_name "Network Out" > "./$machine/$line/networkOut.txt"
   done < "units.txt"
   cd ..
 

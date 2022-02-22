@@ -57,7 +57,7 @@ def get_resource(vm_name, metric_name):
 machine_name = sys.argv[1]
 unit_name    = sys.argv[2]
 metric_name  = sys.argv[3]
-metrics = get_resource(vm_name = f"lime-{unit_name}-vmss", metric_name = f"{metric_name}")
+metrics = get_resource(vm_name = f"{unit_name}", metric_name = f"{metric_name}")
 # for ease of use will print it all back 
 for m in metrics: 
     print(m)

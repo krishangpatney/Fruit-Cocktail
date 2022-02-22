@@ -9,7 +9,7 @@ variable "subscription_id" {
    type        = string
 }
 
-variable "target_machine_size" {
+variable "target_machine" {
    type        = string
 }
 
