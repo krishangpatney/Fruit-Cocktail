@@ -147,7 +147,6 @@ resource "azurerm_virtual_machine_scale_set" "main" {
     type                       = "CustomScript"
     type_handler_version       = "2.0"
     auto_upgrade_minor_version = true
-
     protected_settings = <<PROTECTED_SETTINGS
       {
       "commandToExecute": "sudo chmod +x setup.sh && sudo ./setup.sh"
@@ -163,3 +162,62 @@ resource "azurerm_virtual_machine_scale_set" "main" {
     SETTINGS
     }
   }
+
+
+# /subscriptions/6a1c9c00-ef6b-4bbf-a3f1-ca2c019f31e9/resourceGroups/krishangs_resource/providers/microsoft.insights/autoscalesettings/scaled
+# resource "azurerm_monitor_autoscale_setting" "scaling" {
+#   name                = "scaled"
+#   resource_group_name = "krishangs_resource"
+#   location            = "UK South"
+#   target_resource_id  = "${azurerm_virtual_machine_scale_set.main.id}"
+
+#   profile { 
+#     name = "AutoScale"
+
+#     capacity {
+#       default = 2
+#       minimum = 1
+#       maximum = 4
+#     }
+
+#     rule {
+#       metric_trigger {
+#         metric_name        = "Percentage CPU"
+#         metric_resource_id = azurerm_virtual_machine_scale_set.main.id
+#         time_grain         = "PT1M"
+#         statistic          = "Average"
+#         time_window        = "PT5M"
+#         time_aggregation   = "Average"
+#         operator           = "GreaterThan"
+#         threshold          = 75
+#       }
+
+#       scale_action {
+#         direction = "Increase"
+#         type      = "ChangeCount"
+#         value     = "1"
+#         cooldown  = "PT1M"
+#       }
+#     }
+
+#     rule {
+#       metric_trigger {
+#         metric_name        = "Percentage CPU"
+#         metric_resource_id = azurerm_virtual_machine_scale_set.main.id
+#         time_grain         = "PT1M"
+#         statistic          = "Average"
+#         time_window        = "PT5M"
+#         time_aggregation   = "Average"
+#         operator           = "LessThan"
+#         threshold          = 25
+#       }
+
+#       scale_action {
+#         direction = "Decrease"
+#         type      = "ChangeCount"
+#         value     = "1"
+#         cooldown  = "PT1M"
+#       }
+#     }
+#   }
+# }
