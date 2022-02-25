@@ -141,83 +141,25 @@ resource "azurerm_virtual_machine_scale_set" "main" {
     custom_data          = "${data.template_cloudinit_config.config.rendered}"
   }
 
-  extension {
-    name                       = "CustomScript"
-    publisher                  = "Microsoft.Azure.Extensions"
-    type                       = "CustomScript"
-    type_handler_version       = "2.0"
-    auto_upgrade_minor_version = true
-    protected_settings = <<PROTECTED_SETTINGS
-      {
-      "commandToExecute": "sudo chmod +x setup.sh && sudo ./setup.sh"
-      }
-    PROTECTED_SETTINGS
+  # extension {
+  #   name                       = "CustomScript"
+  #   publisher                  = "Microsoft.Azure.Extensions"
+  #   type                       = "CustomScript"
+  #   type_handler_version       = "2.0"
+  #   auto_upgrade_minor_version = true
 
-    settings = <<SETTINGS
-      {
-        "fileUris": [
-        "https://gist.githubusercontent.com/krishangpatney/c05315a21d4258b3034c9097b68c5de3/raw/63f03a1ef804cb08e439aff22243c2ad748c8221/setup.sh"
-        ]
-      }
-    SETTINGS
-    }
+  #   protected_settings = <<PROTECTED_SETTINGS
+  #     {
+  #     "commandToExecute": "sudo chmod +x setup.sh && sudo ./setup.sh"
+  #     }
+  #   PROTECTED_SETTINGS
+
+  #   settings = <<SETTINGS
+  #     {
+  #       "fileUris": [
+  #       "https://gist.githubusercontent.com/krishangpatney/c05315a21d4258b3034c9097b68c5de3/raw/1e8706f77e72a1fe43496774a0b6c4cbe8bdcc5b/setup.sh"
+  #       ]
+  #     }
+  #   SETTINGS
+  #   }
   }
-
-
-# /subscriptions/6a1c9c00-ef6b-4bbf-a3f1-ca2c019f31e9/resourceGroups/krishangs_resource/providers/microsoft.insights/autoscalesettings/scaled
-# resource "azurerm_monitor_autoscale_setting" "scaling" {
-#   name                = "scaled"
-#   resource_group_name = "krishangs_resource"
-#   location            = "UK South"
-#   target_resource_id  = "${azurerm_virtual_machine_scale_set.main.id}"
-
-#   profile { 
-#     name = "AutoScale"
-
-#     capacity {
-#       default = 2
-#       minimum = 1
-#       maximum = 4
-#     }
-
-#     rule {
-#       metric_trigger {
-#         metric_name        = "Percentage CPU"
-#         metric_resource_id = azurerm_virtual_machine_scale_set.main.id
-#         time_grain         = "PT1M"
-#         statistic          = "Average"
-#         time_window        = "PT5M"
-#         time_aggregation   = "Average"
-#         operator           = "GreaterThan"
-#         threshold          = 75
-#       }
-
-#       scale_action {
-#         direction = "Increase"
-#         type      = "ChangeCount"
-#         value     = "1"
-#         cooldown  = "PT1M"
-#       }
-#     }
-
-#     rule {
-#       metric_trigger {
-#         metric_name        = "Percentage CPU"
-#         metric_resource_id = azurerm_virtual_machine_scale_set.main.id
-#         time_grain         = "PT1M"
-#         statistic          = "Average"
-#         time_window        = "PT5M"
-#         time_aggregation   = "Average"
-#         operator           = "LessThan"
-#         threshold          = 25
-#       }
-
-#       scale_action {
-#         direction = "Decrease"
-#         type      = "ChangeCount"
-#         value     = "1"
-#         cooldown  = "PT1M"
-#       }
-#     }
-#   }
-# }

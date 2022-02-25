@@ -16,8 +16,8 @@ python3 -m pip install azure-storage-blob
 # Get metrics of api 
 
 # run locust 
-locust --host "http://${target}" --csv "load" --headless -u 1000 -r 10 -t 30m </dev/null &>/dev/null &
-sleep 31m
+locust --host "http://${target}" --csv "load" --headless -u 1000 -r 10 -t 1h </dev/null &>/dev/null &
+sleep 65m
 
 # run blobs.py to post to blob
 python3 blobs.py $unit_name $machine_name

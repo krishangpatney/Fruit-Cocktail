@@ -15,12 +15,12 @@ provider "azurerm" {
 module "application_a"{
     source = "../modules/services/application"    
     
-    for_each = toset( local.ips )
+    for_each  = toset( local.ips )
     unit_name = each.value
     vm_size   = var.vm_size  
 
     subscription_id = "${var.subscription}"
-    project_name    = "lime"
+    project_name    = "limee"
 
     node_location   = "UK South"
     resource_prefix = "krishangs_resource"
