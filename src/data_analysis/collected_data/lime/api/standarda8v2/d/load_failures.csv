@@ -1,0 +1,769 @@
+Method,Name,Error,Occurrences
+PUT,/api/ratings/api/rate/SHCE/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-694/EPE/1,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-918,404 Client Error:  for url: http://20.108.160.114/api/shipping/confirm/anonymous-918,1
+GET,/api/catalogue/product/Watson,Remote end closed connection without response,7
+POST,/api/shipping/confirm/anonymous-1068,404 Client Error:  for url: http://20.108.160.114/api/shipping/confirm/anonymous-1068,1
+GET,/api/cart/cart/anonymous-1226,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-1226,1
+GET,/api/cart/add/anonymous-1031/RED/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-1134,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-1134,1
+GET,/api/cart/cart/anonymous-699,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-699,1
+GET,/api/cart/add/anonymous-780/HPTD/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-780/HPTD/1,1
+GET,/api/cart/add/anonymous-208/STAN-1/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-564,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.160.114/api/payment/pay/anonymous-564,1
+GET,/api/cart/update/anonymous-1029/RMC/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-1029/RMC/2,1
+GET,/api/cart/update/anonymous-997/Watson/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-997/Watson/2,1
+PUT,/api/ratings/api/rate/UHJ/2,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/ratings/api/rate/UHJ/2,1
+GET,/api/catalogue/product/Watson,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/catalogue/product/Watson,8
+GET,/api/cart/add/anonymous-1096/UHJ/1,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/Watson/3,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/ratings/api/rate/Watson/3,1
+GET,/api/cart/cart/anonymous-1051,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-1051,1
+GET,/api/cart/add/anonymous-976/EPE/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-640/EPE/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-640/EPE/1,1
+GET,/api/cart/add/anonymous-713/EMM/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-713/EMM/1,1
+POST,/api/payment/pay/anonymous-43,429 Client Error: TOO MANY REQUESTS for url: http://20.108.160.114/api/payment/pay/anonymous-43,1
+GET,/api/cart/cart/anonymous-690,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-690,1
+GET,/api/cart/add/anonymous-1117/UHJ/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-752,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-643,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-643,1
+POST,/api/payment/pay/anonymous-17,429 Client Error: TOO MANY REQUESTS for url: http://20.108.160.114/api/payment/pay/anonymous-17,1
+GET,/api/cart/add/anonymous-1071/EMM/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-742,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-710/EPE/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-710/EPE/1,1
+PUT,/api/ratings/api/rate/EMM/5,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/ratings/api/rate/EMM/5,1
+GET,/api/shipping/calc/3398351,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/3398351,1
+POST,/api/payment/pay/anonymous-6,429 Client Error: TOO MANY REQUESTS for url: http://20.108.160.114/api/payment/pay/anonymous-6,1
+GET,/api/cart/update/anonymous-924/EMM/2,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-679,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-679,1
+GET,/api/cart/cart/anonymous-1156,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-1156,1
+GET,/api/cart/cart/anonymous-782,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-782,1
+GET,/api/cart/add/anonymous-863/STAN-1/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-863/STAN-1/1,1
+POST,/api/payment/pay/anonymous-1057,404 Client Error: NOT FOUND for url: http://20.108.160.114/api/payment/pay/anonymous-1057,1
+GET,/api/cart/cart/anonymous-13,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-13,1
+POST,/api/payment/pay/anonymous-556,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.160.114/api/payment/pay/anonymous-556,1
+GET,/api/cart/add/anonymous-143/UHJ/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-642,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-642,1
+GET,/api/shipping/calc/6086892,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/6086892,1
+GET,/api/cart/cart/anonymous-1097,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-1097,1
+POST,/api/payment/pay/anonymous-978,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-759/RED/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-759/RED/1,1
+GET,/api/cart/add/anonymous-1076/SHCE/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-1048/RMC/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-1048/RMC/2,1
+POST,/api/payment/pay/anonymous-952,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.160.114/api/payment/pay/anonymous-952,1
+GET,/api/cart/add/anonymous-1277/Watson/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-717/STAN-1/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-717/STAN-1/1,1
+GET,/api/cart/cart/anonymous-624,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-655,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.160.114/api/payment/pay/anonymous-655,1
+GET,/api/cart/update/anonymous-605/Watson/2,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/update/anonymous-605/Watson/2,1
+GET,/api/cart/update/anonymous-1033/RED/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-1033/RED/2,1
+GET,/api/catalogue/product/SHCE,Remote end closed connection without response,9
+PUT,/api/ratings/api/rate/HPTD/5,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-994,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-711,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/EMM/4,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-769,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-769,1
+GET,/api/shipping/calc/4395927,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/4395927,1
+GET,/api/shipping/calc/3200618,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/3200618,1
+GET,/api/cart/cart/anonymous-1265,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-1265,1
+GET,/api/cart/add/anonymous-732/STAN-1/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-732/STAN-1/1,1
+GET,/api/cart/add/anonymous-695/RMC/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-695/RMC/1,1
+GET,/api/cart/add/anonymous-1273/SHCE/1,Remote end closed connection without response,1
+GET,/api/ratings/api/fetch/EPE,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/ratings/api/fetch/EPE,14
+GET,/api/cart/add/anonymous-1030/SHCE/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-63/UHJ/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-63/UHJ/2,1
+GET,/api/cart/cart/anonymous-653,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-653,1
+GET,/api/cart/cart/anonymous-863,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-863,1
+POST,/api/shipping/confirm/anonymous-1171,404 Client Error:  for url: http://20.108.160.114/api/shipping/confirm/anonymous-1171,1
+GET,/api/cart/add/anonymous-574/EPE/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-574/EPE/1,1
+GET,/api/cart/cart/anonymous-727,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-727,1
+GET,/api/cart/cart/anonymous-929,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-549/UHJ/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-549/UHJ/1,1
+GET,/api/cart/add/anonymous-841/SHCE/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-841/SHCE/1,1
+GET,/api/cart/cart/anonymous-823,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-823,1
+GET,/api/cart/add/anonymous-615/UHJ/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-615/UHJ/1,1
+GET,/api/cart/update/anonymous-65/RED/2,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-1147,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-1147,1
+PUT,/api/ratings/api/rate/STAN-1/4,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-610/EMM/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-610/EMM/1,1
+GET,/api/shipping/calc/4044144,Remote end closed connection without response,1
+GET,/,Remote end closed connection without response,75
+GET,/api/cart/cart/anonymous-1091,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-658,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/SHCE/3,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-769/HPTD/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-11,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-11,1
+GET,/api/cart/add/anonymous-724/RED/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-724/RED/1,1
+GET,/api/cart/add/anonymous-735/EMM/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-735/EMM/1,1
+PUT,/api/ratings/api/rate/EMM/2,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/ratings/api/rate/EMM/2,2
+GET,/api/cart/add/anonymous-728/HPTD/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-728/HPTD/1,1
+GET,/api/cart/add/anonymous-798/STAN-1/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-843/EPE/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-843/EPE/1,1
+GET,/api/cart/cart/anonymous-1008,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-623,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-732,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-732,1
+GET,/api/catalogue/product/RED,Remote end closed connection without response,5
+GET,/api/catalogue/products,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/catalogue/products,45
+GET,/api/cart/cart/anonymous-619,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-619,1
+GET,/api/cart/add/anonymous-841/Watson/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-841/Watson/1,1
+GET,/api/cart/add/anonymous-635/UHJ/1,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-557,404 Client Error:  for url: http://20.108.160.114/api/shipping/confirm/anonymous-557,1
+POST,/api/payment/pay/anonymous-741,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-1044/EMM/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-1044/EMM/2,1
+GET,/api/cart/update/anonymous-705/EMM/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-705/EMM/2,1
+GET,/api/cart/add/anonymous-1280/EMM/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-697/EPE/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-697/EPE/1,1
+POST,/api/payment/pay/anonymous-988,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-743/SHCE/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-743/SHCE/1,1
+POST,/api/payment/pay/anonymous-23,429 Client Error: TOO MANY REQUESTS for url: http://20.108.160.114/api/payment/pay/anonymous-23,1
+GET,/api/cart/add/anonymous-762/EPE/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-628,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-628,1
+POST,/api/payment/pay/anonymous-25,429 Client Error: TOO MANY REQUESTS for url: http://20.108.160.114/api/payment/pay/anonymous-25,1
+PUT,/api/ratings/api/rate/RMC/2,Remote end closed connection without response,4
+GET,/api/cart/cart/anonymous-634,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-634,1
+GET,/api/cart/add/anonymous-1058/UHJ/1,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-1150,404 Client Error:  for url: http://20.108.160.114/api/shipping/confirm/anonymous-1150,1
+GET,/api/cart/cart/anonymous-646,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-646,1
+GET,/api/cart/add/anonymous-875/SHCE/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-875/SHCE/1,1
+POST,/api/shipping/confirm/anonymous-703,404 Client Error:  for url: http://20.108.160.114/api/shipping/confirm/anonymous-703,1
+POST,/api/payment/pay/anonymous-20,429 Client Error: TOO MANY REQUESTS for url: http://20.108.160.114/api/payment/pay/anonymous-20,1
+GET,/api/cart/add/anonymous-737/HPTD/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-737/HPTD/1,1
+GET,/api/cart/update/anonymous-67/UHJ/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-67/UHJ/2,1
+GET,/api/cart/add/anonymous-770/EMM/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-611/UHJ/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-611/UHJ/2,1
+GET,/api/cart/cart/anonymous-1080,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-669/SHCE/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-669/SHCE/1,1
+GET,/api/cart/add/anonymous-652/Watson/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-652/Watson/1,1
+GET,/api/cart/add/anonymous-1211/EMM/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-665/STAN-1/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-665/STAN-1/1,1
+GET,/api/cart/add/anonymous-555/SHCE/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-555/SHCE/1,1
+PUT,/api/ratings/api/rate/HPTD/4,500 Server Error: Internal Server Error for url: http://20.108.160.114/api/ratings/api/rate/HPTD/4,1
+GET,/api/cart/cart/anonymous-701,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-701,1
+GET,/api/shipping/calc/3922534,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/3922534,1
+GET,/api/shipping/calc/3914826,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/3914826,1
+GET,/api/cart/cart/anonymous-1087,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-1087,1
+GET,/api/cart/add/anonymous-659/RMC/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-659/RMC/1,1
+GET,/api/cart/add/anonymous-1059/STAN-1/1,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/EMM/2,Remote end closed connection without response,3
+POST,/api/payment/pay/anonymous-1048,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.160.114/api/payment/pay/anonymous-1048,1
+GET,/api/cart/cart/anonymous-842,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-842,1
+GET,/api/cart/add/anonymous-1258/STAN-1/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-851/STAN-1/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-851/STAN-1/1,1
+GET,/api/cart/add/anonymous-797/EMM/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-797/EMM/1,1
+GET,/api/shipping/codes,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/codes,1645
+GET,/api/cart/update/anonymous-747/SHCE/2,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-669,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-669,1
+GET,/api/catalogue/product/EPE,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/catalogue/product/EPE,11
+GET,/api/cart/update/anonymous-524/EMM/2,Remote end closed connection without response,1
+GET,/api/shipping/cities/bg,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/cities/bg,2
+GET,/api/cart/add/anonymous-674/UHJ/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-674/UHJ/1,1
+GET,/api/shipping/calc/3439862,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/3439862,1
+GET,/api/cart/cart/anonymous-721,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-721,1
+GET,/api/cart/add/anonymous-103/RED/1,Remote end closed connection without response,1
+GET,/api/shipping/cities/us,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-1085/SHCE/1,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-556,404 Client Error:  for url: http://20.108.160.114/api/shipping/confirm/anonymous-556,1
+GET,/api/cart/cart/anonymous-610,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-591/EMM/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-591/EMM/1,1
+GET,/api/shipping/cities/pt,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/cities/pt,5
+GET,/api/user/uniqueid,Remote end closed connection without response,50
+GET,/api/cart/cart/anonymous-994,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-994,1
+PUT,/api/ratings/api/rate/UHJ/4,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-1141,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-1141,1
+GET,/api/cart/add/anonymous-867/SHCE/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-867/SHCE/1,1
+GET,/api/cart/update/anonymous-697/STAN-1/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-697/STAN-1/2,1
+GET,/api/shipping/calc/3309335,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/3309335,1
+GET,/api/shipping/cities/br,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/cities/br,3
+GET,/api/cart/cart/anonymous-896,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-896,1
+POST,/api/payment/pay/anonymous-562,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.160.114/api/payment/pay/anonymous-562,1
+GET,/api/cart/update/anonymous-590/RMC/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-590/RMC/2,1
+GET,/api/cart/add/anonymous-675/UHJ/1,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/STAN-1/5,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/ratings/api/rate/STAN-1/5,1
+GET,/api/cart/update/anonymous-562/UHJ/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-562/UHJ/2,1
+PUT,/api/ratings/api/rate/Watson/4,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-902/Watson/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-902/Watson/2,1
+GET,/api/cart/update/anonymous-517/RED/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-772/EMM/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-772/EMM/1,1
+GET,/api/cart/add/anonymous-649/UHJ/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-649/UHJ/1,1
+GET,/api/cart/cart/anonymous-1012,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-1012,1
+GET,/api/shipping/calc/3972322,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/3972322,1
+GET,/api/ratings/api/fetch/Watson,Remote end closed connection without response,7
+GET,/api/shipping/cities/de,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/cities/de,2
+GET,/api/shipping/calc/3771178,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/3771178,1
+GET,/api/cart/cart/anonymous-654,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-654,1
+GET,/api/cart/update/anonymous-622/EMM/2,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-1086/HPTD/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-1086/HPTD/2,1
+GET,/api/cart/add/anonymous-791/EMM/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-791/EMM/1,1
+GET,/api/cart/add/anonymous-795/STAN-1/1,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-558,404 Client Error:  for url: http://20.108.160.114/api/shipping/confirm/anonymous-558,1
+GET,/api/ratings/api/fetch/STAN-1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/ratings/api/fetch/STAN-1,13
+GET,/api/shipping/calc/4036873,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/4036873,1
+GET,/api/cart/add/anonymous-842/SHCE/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-842/SHCE/1,1
+GET,/api/cart/add/anonymous-674/SHCE/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-674/SHCE/1,1
+GET,/api/cart/cart/anonymous-656,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-656,1
+GET,/api/shipping/calc/5864129,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/5864129,1
+GET,/api/cart/add/anonymous-768/RED/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-768/RED/1,1
+GET,/api/cart/add/anonymous-851/UHJ/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-851/UHJ/1,1
+GET,/api/cart/cart/anonymous-773,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-773,1
+GET,/api/cart/add/anonymous-875/EPE/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-875/EPE/1,1
+POST,/api/payment/pay/anonymous-36,429 Client Error: TOO MANY REQUESTS for url: http://20.108.160.114/api/payment/pay/anonymous-36,1
+PUT,/api/ratings/api/rate/STAN-1/2,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-1009,404 Client Error:  for url: http://20.108.160.114/api/shipping/confirm/anonymous-1009,1
+GET,/api/cart/cart/anonymous-1070,Remote end closed connection without response,1
+GET,/api/shipping/cities/no,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/cities/no,4
+GET,/api/cart/cart/anonymous-996,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-996,1
+GET,/api/cart/cart/anonymous-837,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-837,1
+GET,/api/cart/update/anonymous-489/RED/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-489/RED/2,1
+GET,/api/cart/update/anonymous-612/EMM/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-612/EMM/2,1
+GET,/api/shipping/cities/es,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/cities/es,7
+GET,/api/cart/add/anonymous-637/HPTD/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-637/HPTD/1,1
+GET,/api/cart/update/anonymous-522/SHCE/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-522/SHCE/2,1
+GET,/api/cart/add/anonymous-710/EMM/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-710/EMM/1,1
+GET,/api/cart/add/anonymous-698/STAN-1/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-698/STAN-1/1,2
+POST,/api/shipping/confirm/anonymous-1049,404 Client Error:  for url: http://20.108.160.114/api/shipping/confirm/anonymous-1049,1
+GET,/api/cart/update/anonymous-599/Watson/2,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/update/anonymous-599/Watson/2,1
+POST,/api/payment/pay/anonymous-1019,404 Client Error: NOT FOUND for url: http://20.108.160.114/api/payment/pay/anonymous-1019,1
+POST,/api/payment/pay/anonymous-31,429 Client Error: TOO MANY REQUESTS for url: http://20.108.160.114/api/payment/pay/anonymous-31,1
+GET,/api/cart/add/anonymous-837/Watson/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-837/Watson/1,1
+POST,/api/shipping/confirm/anonymous-1191,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/confirm/anonymous-1191,1
+GET,/api/shipping/calc/5365905,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/5365905,1
+GET,/api/cart/cart/anonymous-613,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-613,1
+GET,/api/cart/update/anonymous-969/HPTD/2,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-1073,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-1073,1
+GET,/api/cart/cart/anonymous-616,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-772/SHCE/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-772/SHCE/1,1
+GET,/api/cart/add/anonymous-671/HPTD/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-671/HPTD/1,1
+GET,/api/cart/add/anonymous-721/EPE/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-721/EPE/1,1
+GET,/api/cart/cart/anonymous-709,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-709,1
+GET,/api/cart/cart/anonymous-591,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-591,1
+GET,/api/cart/add/anonymous-1276/HPTD/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-698/HPTD/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-698/HPTD/1,1
+GET,/api/cart/add/anonymous-996/STAN-1/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/4051520,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/4051520,1
+GET,/api/cart/cart/anonymous-631,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-631,1
+GET,/api/cart/cart/anonymous-861,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-861,1
+GET,/api/cart/update/anonymous-1100/HPTD/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-1291/STAN-1/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-793/EMM/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-636/RED/1,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/RED/4,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-715/RED/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-736/UHJ/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-736/UHJ/1,1
+GET,/api/cart/cart/anonymous-661,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-661,2
+GET,/api/cart/cart/anonymous-711,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-711,1
+GET,/api/shipping/calc/5836585,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/5836585,1
+GET,/api/cart/cart/anonymous-570,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-754/EPE/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-754/EPE/1,1
+GET,/api/cart/update/anonymous-550/EPE/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-550/EPE/2,1
+GET,/api/cart/update/anonymous-737/STAN-1/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-737/STAN-1/2,1
+GET,/api/ratings/api/fetch/UHJ,Remote end closed connection without response,12
+POST,/api/shipping/confirm/anonymous-607,404 Client Error:  for url: http://20.108.160.114/api/shipping/confirm/anonymous-607,1
+GET,/api/cart/add/anonymous-599/SHCE/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-599/SHCE/1,1
+GET,/api/cart/cart/anonymous-224,Remote end closed connection without response,1
+GET,/api/ratings/api/fetch/HPTD,Remote end closed connection without response,10
+GET,/api/cart/cart/anonymous-762,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-762,1
+GET,/api/ratings/api/fetch/HPTD,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/ratings/api/fetch/HPTD,9
+GET,/api/cart/update/anonymous-1000/SHCE/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-1000/SHCE/2,1
+GET,/api/shipping/cities/jp,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/cities/jp,3
+GET,/api/cart/update/anonymous-576/HPTD/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-576/HPTD/2,1
+GET,/api/cart/add/anonymous-653/STAN-1/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-653/STAN-1/1,1
+GET,/api/cart/add/anonymous-701/EPE/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-701/EPE/1,1
+GET,/api/shipping/calc/3396741,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/3396741,1
+POST,/api/payment/pay/anonymous-1009,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.160.114/api/payment/pay/anonymous-1009,1
+GET,/api/cart/add/anonymous-689/STAN-1/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-689/STAN-1/1,1
+POST,/api/shipping/confirm/anonymous-954,404 Client Error:  for url: http://20.108.160.114/api/shipping/confirm/anonymous-954,1
+GET,/api/cart/add/anonymous-1159/EMM/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-634/STAN-1/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-634/STAN-1/1,1
+GET,/api/ratings/api/fetch/RMC,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/ratings/api/fetch/RMC,10
+GET,/api/shipping/calc/3339095,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/3339095,1
+GET,/api/catalogue/product/EPE,Remote end closed connection without response,12
+GET,/api/shipping/cities/at,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/cities/at,4
+GET,/api/cart/cart/anonymous-649,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-649,1
+GET,/api/cart/update/anonymous-836/SHCE/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-836/SHCE/2,1
+GET,/api/cart/cart/anonymous-595,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-595,1
+GET,/api/shipping/cities/fr,"('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))",1
+GET,/api/cart/add/anonymous-647/EMM/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-647/EMM/1,1
+GET,/api/cart/add/anonymous-1249/EPE/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-621/HPTD/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-621/HPTD/1,1
+GET,/api/cart/add/anonymous-709/HPTD/1,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/SHCE/2,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/RED/3,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/ratings/api/rate/RED/3,1
+GET,/api/cart/cart/anonymous-7,Remote end closed connection without response,1
+GET,/api/shipping/calc/3344563,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/3344563,1
+GET,/api/cart/update/anonymous-585/EMM/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-585/EMM/2,1
+GET,/api/cart/add/anonymous-754/RED/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-754/RED/1,1
+GET,/api/cart/update/anonymous-577/HPTD/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-676/RMC/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-676/RMC/1,1
+GET,/api/cart/cart/anonymous-640,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-640,1
+GET,/api/shipping/calc/3401057,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/3401057,1
+GET,/api/cart/add/anonymous-867/STAN-1/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-867/STAN-1/1,1
+GET,/api/cart/cart/anonymous-549,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-549,1
+GET,/api/cart/add/anonymous-725/UHJ/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-725/UHJ/1,1
+GET,/api/cart/update/anonymous-52/EMM/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-52/EMM/2,1
+GET,/api/cart/cart/anonymous-1107,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-1107,1
+GET,/api/shipping/cities/gb,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/cities/gb,4
+GET,/api/cart/cart/anonymous-626,Remote end closed connection without response,1
+GET,/api/shipping/cities/hu,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/cities/hu,2
+POST,/api/payment/pay/anonymous-21,429 Client Error: TOO MANY REQUESTS for url: http://20.108.160.114/api/payment/pay/anonymous-21,2
+GET,/api/shipping/calc/4588977,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/4588977,1
+GET,/api/cart/cart/anonymous-796,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-748/EMM/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-918/HPTD/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-751/UHJ/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-751/UHJ/1,1
+GET,/api/cart/add/anonymous-718/EPE/1,Remote end closed connection without response,1
+GET,/api/catalogue/product/SHCE,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/catalogue/product/SHCE,9
+GET,/api/cart/add/anonymous-685/EPE/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-685/EPE/1,1
+GET,/api/shipping/calc/4595231,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/4595231,1
+GET,/api/cart/cart/anonymous-737,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-737,1
+GET,/api/cart/update/anonymous-575/STAN-1/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-575/STAN-1/2,1
+POST,/api/shipping/confirm/anonymous-991,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/confirm/anonymous-991,1
+GET,/api/cart/add/anonymous-629/SHCE/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-629/SHCE/1,1
+GET,/api/cart/add/anonymous-641/HPTD/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-641/HPTD/1,1
+GET,/api/shipping/codes,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/shipping/codes,30
+GET,/api/shipping/calc/3824169,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/3824169,1
+GET,/api/cart/cart/anonymous-724,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-724,1
+POST,/api/shipping/confirm/anonymous-22,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/confirm/anonymous-22,1
+GET,/api/ratings/api/fetch/Watson,500 Server Error: Internal Server Error for url: http://20.108.160.114/api/ratings/api/fetch/Watson,1
+GET,/api/cart/cart/anonymous-181,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-14,429 Client Error: TOO MANY REQUESTS for url: http://20.108.160.114/api/payment/pay/anonymous-14,1
+GET,/api/catalogue/product/RMC,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/catalogue/product/RMC,5
+GET,/api/shipping/calc/3961358,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/3961358,1
+PUT,/api/ratings/api/rate/Watson/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/ratings/api/rate/Watson/1,1
+GET,/api/cart/update/anonymous-557/UHJ/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-557/UHJ/2,1
+PUT,/api/ratings/api/rate/EPE/4,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/ratings/api/rate/EPE/4,1
+GET,/api/shipping/calc/5862319,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/5862319,1
+GET,/api/cart/cart/anonymous-698,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-698,1
+GET,/api/cart/add/anonymous-219/RED/1,Remote end closed connection without response,1
+GET,/api/ratings/api/fetch/UHJ,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/ratings/api/fetch/UHJ,12
+GET,/api/cart/cart/anonymous-1158,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-1158,1
+GET,/api/cart/cart/anonymous-1240,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-614,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-614,1
+GET,/api/shipping/cities/ch,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/cities/ch,2
+GET,/api/cart/update/anonymous-952/RED/2,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-1099/EMM/2,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-488/EMM/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-488/EMM/2,1
+POST,/api/payment/pay/anonymous-1171,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.160.114/api/payment/pay/anonymous-1171,1
+GET,/api/cart/cart/anonymous-779,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-779,1
+POST,/api/shipping/confirm/anonymous-675,404 Client Error:  for url: http://20.108.160.114/api/shipping/confirm/anonymous-675,1
+GET,/api/cart/cart/anonymous-710,Remote end closed connection without response,1
+GET,/api/shipping/calc/5435468,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/5435468,1
+GET,/api/cart/cart/anonymous-875,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-875,1
+GET,/api/shipping/calc/4041366,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/4041366,1
+GET,/api/cart/cart/anonymous-1211,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-1211,1
+GET,/api/shipping/calc/4036675,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/4036675,1
+GET,/api/cart/update/anonymous-954/UHJ/2,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-677,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-677,1
+GET,/api/cart/add/anonymous-736/RED/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-736/RED/1,1
+GET,/api/cart/cart/anonymous-722,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-722,1
+GET,/api/cart/add/anonymous-782/RMC/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-782/RMC/1,1
+GET,/api/cart/add/anonymous-799/Watson/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-754,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-754,1
+GET,/api/cart/add/anonymous-757/Watson/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-757/Watson/1,1
+GET,/api/cart/add/anonymous-1028/HPTD/1,Remote end closed connection without response,1
+GET,/api/shipping/cities/tr,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/cities/tr,2
+GET,/api/cart/update/anonymous-64/EPE/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-672/STAN-1/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-672/STAN-1/1,1
+GET,/api/shipping/cities/se,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/cities/se,3
+GET,/api/cart/cart/anonymous-47,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-47,1
+GET,/api/shipping/cities/cz,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/cities/cz,3
+GET,/api/cart/cart/anonymous-719,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-690/RMC/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-690/RMC/1,1
+GET,/api/shipping/cities/ro,"('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))",1
+GET,/api/cart/cart/anonymous-1036,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-1036,1
+GET,/api/cart/add/anonymous-97/HPTD/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-626,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-626,1
+POST,/api/payment/pay/anonymous-557,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.160.114/api/payment/pay/anonymous-557,1
+POST,/api/payment/pay/anonymous-1072,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.160.114/api/payment/pay/anonymous-1072,1
+PUT,/api/ratings/api/rate/STAN-1/5,Remote end closed connection without response,2
+GET,/api/shipping/calc/3922796,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/3922796,1
+GET,/api/cart/add/anonymous-1275/Watson/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/4372556,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/4372556,1
+GET,/api/cart/cart/anonymous-621,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-629/RMC/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-629/RMC/1,1
+GET,/api/cart/cart/anonymous-725,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-725,1
+GET,/api/cart/add/anonymous-679/SHCE/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-679/SHCE/1,1
+GET,/api/cart/cart/anonymous-619,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-1052,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-737/EPE/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-737/EPE/1,1
+GET,/api/cart/cart/anonymous-556,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-556,1
+GET,/api/cart/add/anonymous-144/HPTD/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-592/HPTD/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-592/HPTD/2,1
+GET,/api/shipping/calc/4031183,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/4031183,1
+POST,/api/shipping/confirm/anonymous-1048,404 Client Error:  for url: http://20.108.160.114/api/shipping/confirm/anonymous-1048,1
+GET,/api/cart/update/anonymous-618/RED/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-618/RED/2,1
+PUT,/api/ratings/api/rate/STAN-1/3,Remote end closed connection without response,1
+GET,/api/shipping/calc/3436728,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/3436728,1
+POST,/api/payment/pay/anonymous-954,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.160.114/api/payment/pay/anonymous-954,1
+GET,/api/shipping/cities/au,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/cities/au,4
+GET,/api/cart/add/anonymous-61/RED/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-619/HPTD/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-619/HPTD/1,1
+POST,/api/shipping/confirm/anonymous-1000,404 Client Error:  for url: http://20.108.160.114/api/shipping/confirm/anonymous-1000,1
+GET,/api/shipping/calc/5667237,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/5667237,1
+POST,/api/shipping/confirm/anonymous-571,404 Client Error:  for url: http://20.108.160.114/api/shipping/confirm/anonymous-571,1
+GET,/,502 Server Error: Bad Gateway for url: http://20.108.160.114/,310
+GET,/api/catalogue/categories,Remote end closed connection without response,31
+GET,/api/cart/add/anonymous-1163/HPTD/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-721/RMC/1,Remote end closed connection without response,1
+GET,/api/catalogue/product/UHJ,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/catalogue/product/UHJ,7
+GET,/api/cart/add/anonymous-773/EPE/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/4039322,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/4039322,1
+POST,/api/payment/pay/anonymous-19,429 Client Error: TOO MANY REQUESTS for url: http://20.108.160.114/api/payment/pay/anonymous-19,1
+POST,/api/payment/pay/anonymous-703,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.160.114/api/payment/pay/anonymous-703,1
+GET,/api/cart/cart/anonymous-745,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-745,1
+GET,/api/cart/add/anonymous-865/STAN-1/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-865/STAN-1/1,1
+GET,/api/cart/cart/anonymous-723,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-633,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.160.114/api/payment/pay/anonymous-633,1
+GET,/api/catalogue/product/RMC,Remote end closed connection without response,4
+GET,/api/cart/add/anonymous-959/STAN-1/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/3311071,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/3311071,1
+GET,/api/cart/add/anonymous-800/Watson/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-800/Watson/1,2
+GET,/api/cart/add/anonymous-843/STAN-1/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-843/STAN-1/1,1
+GET,/api/shipping/calc/3186411,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/3186411,1
+GET,/api/cart/update/anonymous-859/RMC/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-614/RED/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-49,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-49,1
+GET,/api/cart/cart/anonymous-943,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-727,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-945,404 Client Error:  for url: http://20.108.160.114/api/shipping/confirm/anonymous-945,1
+GET,/api/shipping/calc/3308522,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/3308522,1
+GET,/api/cart/cart/anonymous-713,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-713,1
+GET,/api/cart/cart/anonymous-950,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-950,1
+GET,/api/cart/cart/anonymous-629,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-629,2
+GET,/api/cart/cart/anonymous-608,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-608,1
+GET,/api/cart/cart/anonymous-976,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-976,1
+GET,/api/cart/add/anonymous-677/SHCE/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-677/SHCE/1,1
+POST,/api/payment/pay/anonymous-675,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.160.114/api/payment/pay/anonymous-675,1
+GET,/api/cart/add/anonymous-1007/SHCE/1,Remote end closed connection without response,1
+GET,/api/ratings/api/fetch/STAN-1,500 Server Error: Internal Server Error for url: http://20.108.160.114/api/ratings/api/fetch/STAN-1,1
+GET,/api/ratings/api/fetch/RED,Remote end closed connection without response,7
+GET,/api/cart/cart/anonymous-46,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-46,1
+GET,/api/shipping/cities/ca,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/cities/ca,1
+GET,/api/shipping/calc/5845422,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/5845422,1
+GET,/api/catalogue/product/UHJ,Remote end closed connection without response,10
+GET,/api/catalogue/categories,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/catalogue/categories,18
+GET,/api/cart/cart/anonymous-666,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-666,1
+GET,/api/shipping/cities/in,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-562,404 Client Error:  for url: http://20.108.160.114/api/shipping/confirm/anonymous-562,1
+GET,/api/cart/add/anonymous-626/RED/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-626/RED/1,1
+GET,/api/cart/add/anonymous-764/Watson/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-764/Watson/1,1
+GET,/api/shipping/calc/3205418,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/3205418,1
+GET,/api/cart/update/anonymous-1001/Watson/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-1001/Watson/2,1
+GET,/api/cart/add/anonymous-724/UHJ/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-724/UHJ/1,1
+GET,/api/cart/add/anonymous-747/Watson/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-1021,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-1021,1
+GET,/api/cart/add/anonymous-727/UHJ/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-727/UHJ/1,1
+GET,/api/cart/add/anonymous-69/SHCE/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-1128/RMC/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-670/RMC/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-670/RMC/1,1
+GET,/api/cart/add/anonymous-827/RED/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-827/RED/1,1
+GET,/api/cart/update/anonymous-627/EMM/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-693/Watson/1,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/EMM/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-995/EPE/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-995/EPE/2,1
+GET,/api/cart/update/anonymous-675/UHJ/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-675/UHJ/2,1
+GET,/api/cart/add/anonymous-656/STAN-1/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-656/STAN-1/1,1
+GET,/api/cart/cart/anonymous-2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-2,1
+GET,/api/shipping/cities/ru,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/cities/ru,6
+GET,/api/cart/add/anonymous-713/EPE/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-713/EPE/1,1
+GET,/api/cart/update/anonymous-607/EMM/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-607/EMM/2,1
+PUT,/api/ratings/api/rate/UHJ/3,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/ratings/api/rate/UHJ/3,1
+GET,/api/cart/update/anonymous-1050/EPE/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-1050/EPE/2,1
+GET,/api/shipping/calc/5382457,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/5382457,1
+GET,/api/cart/update/anonymous-643/STAN-1/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-1142/UHJ/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-624/RMC/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-624/RMC/2,1
+GET,/api/cart/update/anonymous-926/Watson/2,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-951,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-951,1
+GET,/api/cart/update/anonymous-528/SHCE/2,Remote end closed connection without response,1
+GET,/api/shipping/calc/3924717,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/3924717,1
+GET,/api/cart/cart/anonymous-774,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-774,1
+GET,/api/catalogue/products,Remote end closed connection without response,28
+GET,/api/cart/add/anonymous-1238/RMC/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-841/EPE/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-841/EPE/1,1
+GET,/api/ratings/api/fetch/EMM,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/ratings/api/fetch/EMM,12
+GET,/api/cart/update/anonymous-975/EMM/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-975/EMM/2,2
+GET,/api/cart/cart/anonymous-673,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-673,1
+GET,/api/cart/update/anonymous-552/UHJ/2,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/update/anonymous-552/UHJ/2,1
+GET,/api/cart/cart/anonymous-37,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-632,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-632,1
+GET,/api/cart/add/anonymous-863/RMC/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-863/RMC/1,1
+GET,/api/cart/cart/anonymous-599,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-599,1
+GET,/api/cart/add/anonymous-952/SHCE/1,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/RMC/4,Remote end closed connection without response,1
+GET,/api/ratings/api/fetch/SHCE,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/ratings/api/fetch/SHCE,12
+PUT,/api/ratings/api/rate/RED/2,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/ratings/api/rate/RED/2,1
+GET,/api/cart/cart/anonymous-6,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-6,1
+GET,/api/catalogue/product/HPTD,Remote end closed connection without response,9
+GET,/api/shipping/calc/3803792,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/3803792,1
+POST,/api/payment/pay/anonymous-28,429 Client Error: TOO MANY REQUESTS for url: http://20.108.160.114/api/payment/pay/anonymous-28,1
+GET,/api/cart/add/anonymous-692/STAN-1/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-692/STAN-1/1,1
+GET,/api/cart/add/anonymous-1167/STAN-1/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-644,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-644,1
+GET,/api/cart/add/anonymous-1226/EPE/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-1033,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-1033,1
+POST,/api/shipping/confirm/anonymous-952,404 Client Error:  for url: http://20.108.160.114/api/shipping/confirm/anonymous-952,1
+POST,/api/shipping/confirm/anonymous-825,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/confirm/anonymous-825,1
+PUT,/api/ratings/api/rate/Watson/5,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-558,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.160.114/api/payment/pay/anonymous-558,1
+GET,/api/shipping/calc/4569652,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/4569652,1
+GET,/api/catalogue/product/STAN-1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/catalogue/product/STAN-1,11
+GET,/api/cart/add/anonymous-578/SHCE/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-578/SHCE/1,1
+POST,/api/shipping/confirm/anonymous-1124,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/confirm/anonymous-1124,1
+POST,/api/shipping/confirm/anonymous-1072,404 Client Error:  for url: http://20.108.160.114/api/shipping/confirm/anonymous-1072,1
+GET,/api/shipping/calc/5972170,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/5972170,1
+GET,/api/cart/update/anonymous-522/HPTD/2,Remote end closed connection without response,1
+GET,/api/ratings/api/fetch/RED,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/ratings/api/fetch/RED,7
+GET,/api/cart/add/anonymous-782/Watson/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-782/Watson/1,1
+GET,/api/shipping/calc/3821207,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/3821207,1
+GET,/api/cart/cart/anonymous-855,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-855,1
+POST,/api/user/login,Remote end closed connection without response,77
+GET,/api/cart/cart/anonymous-636,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-636,1
+GET,/api/cart/add/anonymous-661/EMM/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-661/EMM/1,1
+GET,/api/cart/cart/anonymous-820,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-820,1
+GET,/api/cart/add/anonymous-798/UHJ/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-798/UHJ/1,1
+GET,/api/cart/add/anonymous-654/EPE/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-654/EPE/1,1
+GET,/api/cart/add/anonymous-1278/STAN-1/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-1162/STAN-1/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-791,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-791,1
+GET,/api/cart/add/anonymous-641/RMC/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-735,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-735,1
+PUT,/api/ratings/api/rate/SHCE/2,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/ratings/api/rate/SHCE/2,1
+GET,/api/cart/add/anonymous-602/UHJ/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-602/UHJ/1,1
+GET,/api/cart/cart/anonymous-968,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-968,1
+POST,/api/shipping/confirm/anonymous-564,404 Client Error:  for url: http://20.108.160.114/api/shipping/confirm/anonymous-564,1
+GET,/api/cart/add/anonymous-842/EPE/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-842/EPE/1,1
+GET,/api/cart/add/anonymous-1221/EMM/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-722/STAN-1/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-586,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-586,1
+GET,/api/ratings/api/fetch/RMC,Remote end closed connection without response,7
+GET,/api/cart/cart/anonymous-714,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-582,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-582,1
+POST,/api/shipping/confirm/anonymous-633,404 Client Error:  for url: http://20.108.160.114/api/shipping/confirm/anonymous-633,1
+GET,/api/cart/update/anonymous-535/Watson/2,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/update/anonymous-535/Watson/2,1
+GET,/api/cart/cart/anonymous-689,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-689,1
+GET,/api/cart/update/anonymous-712/UHJ/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-712/UHJ/2,1
+PUT,/api/ratings/api/rate/RMC/4,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/ratings/api/rate/RMC/4,1
+GET,/api/ratings/api/fetch/EPE,Remote end closed connection without response,15
+PUT,/api/ratings/api/rate/UHJ/5,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/ratings/api/rate/UHJ/5,1
+GET,/api/shipping/cities/fi,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/cities/fi,4
+GET,/api/catalogue/product/RED,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/catalogue/product/RED,6
+GET,/api/cart/update/anonymous-1208/UHJ/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-1208/UHJ/2,1
+GET,/api/cart/add/anonymous-17/EMM/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-1000,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.160.114/api/payment/pay/anonymous-1000,1
+GET,/api/cart/cart/anonymous-15,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-15,1
+GET,/api/shipping/calc/5083376,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/5083376,1
+GET,/api/cart/add/anonymous-60/RED/1,Remote end closed connection without response,1
+GET,/api/ratings/api/fetch/EMM,Remote end closed connection without response,7
+POST,/api/payment/pay/anonymous-571,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.160.114/api/payment/pay/anonymous-571,1
+POST,/api/payment/pay/anonymous-918,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.160.114/api/payment/pay/anonymous-918,1
+POST,/api/payment/pay/anonymous-1049,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.160.114/api/payment/pay/anonymous-1049,1
+GET,/api/shipping/calc/3310962,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/3310962,1
+GET,/api/cart/add/anonymous-586/RMC/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-586/RMC/1,1
+GET,/api/shipping/calc/3850317,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-851,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-851,1
+GET,/api/cart/add/anonymous-624/SHCE/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-624/SHCE/1,1
+GET,/api/cart/cart/anonymous-61,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-61,1
+GET,/api/shipping/calc/5350966,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/5350966,1
+GET,/api/cart/add/anonymous-632/EPE/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-632/EPE/1,1
+POST,/api/payment/pay/anonymous-32,429 Client Error: TOO MANY REQUESTS for url: http://20.108.160.114/api/payment/pay/anonymous-32,1
+GET,/api/cart/cart/anonymous-1096,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-1096,1
+GET,/api/cart/update/anonymous-519/HPTD/2,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/update/anonymous-519/HPTD/2,1
+GET,/api/cart/add/anonymous-711/HPTD/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-711/HPTD/1,1
+GET,/api/ratings/api/fetch/HPTD,500 Server Error: Internal Server Error for url: http://20.108.160.114/api/ratings/api/fetch/HPTD,2
+GET,/api/shipping/cities/hu,"('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))",1
+GET,/api/cart/add/anonymous-1270/EMM/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-741/HPTD/2,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/RMC/5,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-609,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-609,1
+GET,/api/cart/cart/anonymous-652,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-652,1
+GET,/api/cart/cart/anonymous-601,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-601,1
+GET,/api/cart/cart/anonymous-841,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-841,2
+GET,/api/cart/add/anonymous-709/HPTD/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-709/HPTD/1,1
+GET,/api/cart/cart/anonymous-672,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-672,1
+PUT,/api/ratings/api/rate/RED/3,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/STAN-1/4,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/ratings/api/rate/STAN-1/4,1
+GET,/api/cart/cart/anonymous-578,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-578,1
+GET,/api/cart/cart/anonymous-553,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-553,1
+GET,/api/cart/add/anonymous-672/EMM/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-867,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-867,1
+GET,/api/cart/update/anonymous-596/RED/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-596/RED/2,1
+GET,/api/cart/cart/anonymous-640,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-640,1
+GET,/api/shipping/calc/4382679,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/4382679,1
+GET,/api/shipping/calc/4176793,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/4176793,1
+GET,/api/cart/update/anonymous-600/Watson/2,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/update/anonymous-600/Watson/2,1
+GET,/api/shipping/cities/in,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/cities/in,3
+GET,/api/catalogue/product/STAN-1,Remote end closed connection without response,9
+GET,/api/cart/update/anonymous-1171/HPTD/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-1171/HPTD/2,1
+GET,/api/cart/cart/anonymous-617,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/EPE/5,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-207/SHCE/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/4585550,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/4585550,1
+GET,/api/cart/cart/anonymous-757,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-757,1
+GET,/api/cart/add/anonymous-798/EMM/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-798/EMM/1,1
+GET,/api/cart/cart/anonymous-637,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-637,1
+GET,/api/shipping/cities/us,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/cities/us,8
+GET,/api/cart/add/anonymous-102/EPE/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-1267,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-1066/UHJ/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-716,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-716,1
+GET,/api/cart/add/anonymous-142/RMC/1,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/RMC/3,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/ratings/api/rate/RMC/3,2
+GET,/api/cart/add/anonymous-615/EPE/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-870,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-870,1
+GET,/api/cart/add/anonymous-620/Watson/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-613/SHCE/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-613/SHCE/1,1
+POST,/api/user/login,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/user/login,321
+GET,/api/cart/add/anonymous-682/Watson/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-682/Watson/1,1
+POST,/api/shipping/confirm/anonymous-784,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/confirm/anonymous-784,1
+GET,/api/cart/cart/anonymous-821,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-821,1
+GET,/api/cart/update/anonymous-997/EPE/2,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-1031/HPTD/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-1031/HPTD/2,1
+POST,/api/payment/pay/anonymous-594,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.160.114/api/payment/pay/anonymous-594,1
+GET,/api/cart/cart/anonymous-185,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-205,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-205,1
+GET,/api/shipping/calc/3849123,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/3849123,1
+GET,/api/cart/add/anonymous-642/RMC/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-642/RMC/1,1
+GET,/api/cart/cart/anonymous-530,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-530,1
+GET,/api/shipping/calc/4390857,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/4390857,1
+GET,/api/cart/cart/anonymous-1095,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-1095,1
+GET,/api/cart/cart/anonymous-768,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-768,1
+GET,/api/shipping/calc/4047602,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/4047602,1
+GET,/api/cart/update/anonymous-513/EMM/2,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-641,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-641,1
+GET,/api/cart/cart/anonymous-674,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-674,2
+GET,/api/cart/add/anonymous-1217/HPTD/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-1053,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-589/SHCE/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-589/SHCE/2,1
+GET,/api/cart/add/anonymous-749/EPE/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-616,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-616,1
+POST,/api/payment/pay/anonymous-945,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.160.114/api/payment/pay/anonymous-945,1
+GET,/api/cart/cart/anonymous-1056,Remote end closed connection without response,1
+GET,/api/shipping/cities/nl,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/cities/nl,1
+PUT,/api/ratings/api/rate/STAN-1/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/ratings/api/rate/STAN-1/1,1
+GET,/api/cart/cart/anonymous-798,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-798,2
+GET,/api/cart/update/anonymous-1009/RED/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-986/STAN-1/1,Remote end closed connection without response,1
+GET,/api/ratings/api/fetch/EPE,500 Server Error: Internal Server Error for url: http://20.108.160.114/api/ratings/api/fetch/EPE,2
+GET,/api/cart/add/anonymous-635/SHCE/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-559/RED/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-559/RED/2,1
+GET,/api/shipping/cities/fr,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/cities/fr,4
+GET,/api/cart/update/anonymous-29/Watson/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-29/Watson/2,1
+GET,/api/cart/cart/anonymous-625,Remote end closed connection without response,1
+GET,/api/shipping/calc/3398054,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/3398054,1
+GET,/api/cart/update/anonymous-50/RED/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-50/RED/2,1
+GET,/api/cart/update/anonymous-1210/UHJ/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-1210/UHJ/2,1
+GET,/api/cart/cart/anonymous-772,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-772,1
+PUT,/api/ratings/api/rate/EPE/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/ratings/api/rate/EPE/1,1
+GET,/api/cart/add/anonymous-791/SHCE/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-791/SHCE/1,1
+GET,/api/cart/update/anonymous-569/HPTD/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-1132/RED/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-687/EMM/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-687/EMM/2,1
+GET,/api/cart/update/anonymous-964/Watson/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-964/Watson/2,1
+GET,/api/cart/cart/anonymous-931,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-241/EMM/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/4050601,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/4050601,1
+GET,/api/cart/add/anonymous-1112/EPE/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-621,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-621,1
+GET,/api/cart/cart/anonymous-800,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-800,1
+GET,/api/cart/cart/anonymous-736,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-736,1
+GET,/api/cart/add/anonymous-841/EMM/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-841/EMM/1,1
+GET,/api/cart/add/anonymous-636/EPE/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-1016,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-1016,1
+GET,/api/catalogue/product/EMM,Remote end closed connection without response,4
+POST,/api/shipping/confirm/anonymous-655,404 Client Error:  for url: http://20.108.160.114/api/shipping/confirm/anonymous-655,1
+GET,/api/cart/cart/anonymous-657,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-657,2
+GET,/api/cart/add/anonymous-645/HPTD/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/5600511,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/5600511,1
+PUT,/api/ratings/api/rate/EPE/4,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-716/EMM/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/4009782,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/4009782,1
+GET,/api/cart/add/anonymous-1259/STAN-1/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-694/EPE/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-694/EPE/1,1
+GET,/api/shipping/calc/4178051,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/4178051,1
+GET,/api/cart/add/anonymous-702/UHJ/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-702/UHJ/1,1
+POST,/api/payment/pay/anonymous-607,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.160.114/api/payment/pay/anonymous-607,1
+GET,/api/cart/cart/anonymous-1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-809/STAN-1/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-740,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-615,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-615,1
+GET,/api/ratings/api/fetch/SHCE,500 Server Error: Internal Server Error for url: http://20.108.160.114/api/ratings/api/fetch/SHCE,2
+GET,/api/ratings/api/fetch/RED,500 Server Error: Internal Server Error for url: http://20.108.160.114/api/ratings/api/fetch/RED,1
+GET,/api/cart/cart/anonymous-675,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-675,1
+GET,/api/shipping/cities/tr,"('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))",1
+GET,/api/cart/cart/anonymous-698,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-698,1
+GET,/api/shipping/cities/us,"('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))",1
+GET,/api/cart/add/anonymous-703/UHJ/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-703/UHJ/1,1
+GET,/api/cart/add/anonymous-183/EPE/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-666/EMM/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-666/EMM/1,1
+POST,/api/payment/pay/anonymous-1150,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.160.114/api/payment/pay/anonymous-1150,1
+GET,/api/cart/add/anonymous-646/STAN-1/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-646/STAN-1/1,1
+GET,/api/cart/cart/anonymous-1037,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-1037,1
+GET,/api/cart/cart/anonymous-827,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-827,1
+GET,/api/catalogue/product/HPTD,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/catalogue/product/HPTD,6
+GET,/api/cart/cart/anonymous-843,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-843,1
+GET,/api/cart/cart/anonymous-659,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-659,1
+GET,/api/shipping/calc/4053495,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/4053495,1
+GET,/api/cart/add/anonymous-217/EPE/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/5390956,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/5390956,1
+GET,/api/cart/add/anonymous-205/UHJ/1,Remote end closed connection without response,1
+GET,/api/user/uniqueid,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/user/uniqueid,304
+GET,/api/cart/cart/anonymous-834,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-834,1
+GET,/api/cart/add/anonymous-806/EPE/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-1061/UHJ/2,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-759/EPE/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-759/EPE/2,1
+GET,/api/cart/update/anonymous-1072/RED/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-1072/RED/2,1
+GET,/api/ratings/api/fetch/STAN-1,Remote end closed connection without response,4
+GET,/api/ratings/api/fetch/SHCE,Remote end closed connection without response,8
+GET,/api/cart/add/anonymous-827/HPTD/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-827/HPTD/1,1
+GET,/api/cart/cart/anonymous-795,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-795,2
+POST,/api/payment/pay/anonymous-18,429 Client Error: TOO MANY REQUESTS for url: http://20.108.160.114/api/payment/pay/anonymous-18,1
+GET,/api/cart/add/anonymous-732/RMC/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-732/RMC/1,1
+GET,/api/cart/add/anonymous-99/RMC/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-593/HPTD/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-593/HPTD/2,1
+GET,/api/cart/add/anonymous-1146/HPTD/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-560/RED/2,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/update/anonymous-560/RED/2,1
+GET,/api/shipping/calc/4174689,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/4174689,1
+GET,/api/cart/add/anonymous-768/EPE/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-768/EPE/1,1
+GET,/api/shipping/calc/4381966,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/4381966,1
+GET,/api/cart/add/anonymous-865/HPTD/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-865/HPTD/1,1
+GET,/api/cart/add/anonymous-1107/EMM/1,Remote end closed connection without response,1
+GET,/api/ratings/api/fetch/Watson,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/ratings/api/fetch/Watson,12
+GET,/api/cart/add/anonymous-230/RMC/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-869/RED/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-869/RED/2,1
+GET,/api/cart/cart/anonymous-12,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-12,1
+GET,/api/cart/add/anonymous-664/EPE/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-664/EPE/1,1
+GET,/api/catalogue/product/EMM,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/catalogue/product/EMM,9
+GET,/api/cart/cart/anonymous-1137,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-1137,1
+POST,/api/shipping/confirm/anonymous-594,404 Client Error:  for url: http://20.108.160.114/api/shipping/confirm/anonymous-594,1
+GET,/api/cart/add/anonymous-1260/STAN-1/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-1060/UHJ/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-633/Watson/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-39/EMM/1,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-622,404 Client Error:  for url: http://20.108.160.114/api/shipping/confirm/anonymous-622,1
+GET,/api/shipping/calc/4566116,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-647,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-647,1
+GET,/api/cart/cart/anonymous-710,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-710,1
+GET,/api/cart/update/anonymous-721/SHCE/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-721/SHCE/2,1
+GET,/api/cart/add/anonymous-722/EMM/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-722/EMM/1,1
+PUT,/api/ratings/api/rate/EPE/5,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/ratings/api/rate/EPE/5,2
+POST,/api/payment/pay/anonymous-44,429 Client Error: TOO MANY REQUESTS for url: http://20.108.160.114/api/payment/pay/anonymous-44,1
+GET,/api/cart/cart/anonymous-865,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-865,1
+GET,/api/cart/add/anonymous-661/RMC/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-661/RMC/1,1
+GET,/api/shipping/cities/it,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/cities/it,3
+GET,/api/cart/add/anonymous-837/SHCE/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-837/SHCE/1,1
+GET,/api/cart/cart/anonymous-651,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-651,1
+GET,/api/cart/cart/anonymous-602,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/cart/anonymous-602,1
+POST,/api/payment/pay/anonymous-622,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.160.114/api/payment/pay/anonymous-622,1
+GET,/api/shipping/codes,Remote end closed connection without response,48
+GET,/api/cart/add/anonymous-930/UHJ/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-1250/Watson/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-1068,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.160.114/api/payment/pay/anonymous-1068,1
+GET,/api/shipping/calc/4038606,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/4038606,1
+GET,/api/cart/update/anonymous-693/EPE/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-693/EPE/2,1
+GET,/api/cart/cart/anonymous-716,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-823/Watson/1,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/add/anonymous-823/Watson/1,2
+GET,/api/cart/update/anonymous-561/Watson/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-561/Watson/2,1
+GET,/api/cart/add/anonymous-576/STAN-1/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-694,502 Server Error: Bad Gateway for url: http://20.108.160.114/api/cart/cart/anonymous-694,1
+GET,/api/cart/add/anonymous-958/SHCE/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/4050428,504 Server Error: Gateway Time-out for url: http://20.108.160.114/api/shipping/calc/4050428,1
+GET,/api/cart/update/anonymous-953/SHCE/2,404 Client Error: Not Found for url: http://20.108.160.114/api/cart/update/anonymous-953/SHCE/2,1

@@ -1,0 +1,1090 @@
+Method,Name,Error,Occurrences
+PUT,/api/ratings/api/rate/SHCE/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-403,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-403,1
+POST,/api/payment/pay/anonymous-103,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-103,1
+POST,/api/payment/pay/anonymous-107,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-107,1
+POST,/api/payment/pay/anonymous-171,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-171,2
+POST,/api/payment/pay/anonymous-287,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-287,1
+GET,/api/cart/update/anonymous-657/HPTD/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-657/HPTD/2,1
+GET,/api/catalogue/product/Watson,Remote end closed connection without response,13
+GET,/api/cart/add/anonymous-631/RMC/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-585/RMC/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-304,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-304,2
+POST,/api/payment/pay/anonymous-411,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-411,1
+GET,/api/cart/update/anonymous-381/STAN-1/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-381/STAN-1/2,1
+POST,/api/payment/pay/anonymous-94,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-94,1
+POST,/api/payment/pay/anonymous-599,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-599,1
+GET,/api/cart/cart/anonymous-1023,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-1023,1
+POST,/api/shipping/confirm/anonymous-504,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-504,1
+GET,/api/cart/cart/anonymous-587,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-1029/RED/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-212,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-212,1
+GET,/api/shipping/calc/5083883,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-213,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-213,2
+POST,/api/payment/pay/anonymous-906,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-906,1
+POST,/api/payment/pay/anonymous-337,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-337,1
+POST,/api/payment/pay/anonymous-189,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-189,1
+GET,/api/shipping/calc/5547096,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-61,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-61,2
+GET,/api/cart/update/anonymous-522/Watson/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-522/Watson/2,1
+GET,/api/cart/add/anonymous-333/SHCE/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-432,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-432,2
+GET,/api/cart/cart/anonymous-1037,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-951/RMC/2,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-382/HPTD/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-382/HPTD/2,1
+GET,/api/cart/update/anonymous-283/EPE/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-283/EPE/2,1
+POST,/api/shipping/confirm/anonymous-966,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-966,1
+POST,/api/shipping/confirm/anonymous-296,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-296,1
+GET,/api/cart/cart/anonymous-491,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-248,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-248,2
+GET,/api/shipping/cities/es,504 Server Error: Gateway Time-out for url: http://20.108.175.86/api/shipping/cities/es,1
+GET,/api/cart/cart/anonymous-467,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-467,1
+GET,/api/cart/add/anonymous-875/EMM/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-718,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-864,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-864,1
+POST,/api/shipping/confirm/anonymous-193,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-362,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-362,1
+POST,/api/payment/pay/anonymous-568,Remote end closed connection without response,1
+GET,/api/shipping/calc/4580552,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-303/EPE/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-788,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-788,1
+POST,/api/payment/pay/anonymous-297,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-297,1
+POST,/api/payment/pay/anonymous-114,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-114,1
+POST,/api/payment/pay/anonymous-253,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-253,1
+POST,/api/payment/pay/anonymous-83,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-83,2
+POST,/api/shipping/confirm/anonymous-427,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-427,1
+POST,/api/payment/pay/anonymous-244,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-244,2
+GET,/api/shipping/calc/3439798,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-384,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-384,1
+GET,/api/cart/update/anonymous-411/RMC/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-411/RMC/2,1
+POST,/api/payment/pay/anonymous-220,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-220,1
+POST,/api/payment/pay/anonymous-414,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-414,1
+POST,/api/payment/pay/anonymous-136,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-136,2
+POST,/api/shipping/confirm/anonymous-400,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-400,1
+GET,/api/cart/update/anonymous-625/EMM/2,Remote end closed connection without response,1
+GET,/api/shipping/calc/3353278,504 Server Error: Gateway Time-out for url: http://20.108.175.86/api/shipping/calc/3353278,1
+GET,/api/shipping/calc/3347314,Remote end closed connection without response,1
+GET,/api/catalogue/product/SHCE,Remote end closed connection without response,5
+PUT,/api/ratings/api/rate/HPTD/5,Remote end closed connection without response,2
+POST,/api/shipping/confirm/anonymous-627,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-627,1
+GET,/api/cart/add/anonymous-876/RMC/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-816/EPE/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-636,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-636,1
+GET,/api/shipping/calc/3925418,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-154,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-154,2
+GET,/api/shipping/calc/5391143,504 Server Error: Gateway Time-out for url: http://20.108.175.86/api/shipping/calc/5391143,1
+POST,/api/payment/pay/anonymous-463,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-463,1
+GET,/api/cart/update/anonymous-557/SHCE/2,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-1088/EPE/2,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-405,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-405,1
+POST,/api/payment/pay/anonymous-961,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-961,1
+POST,/api/payment/pay/anonymous-668,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-668,1
+GET,/api/cart/add/anonymous-772/HPTD/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-727/UHJ/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/5349178,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-97,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-97,1
+GET,/api/cart/add/anonymous-835/EPE/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-243,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-243,2
+GET,/api/cart/cart/anonymous-538,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-538,1
+POST,/api/shipping/confirm/anonymous-450,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-450,1
+GET,/api/cart/update/anonymous-668/EMM/2,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-454/RED/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-454/RED/2,1
+GET,/api/cart/update/anonymous-642/RMC/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-642/RMC/2,1
+POST,/api/payment/pay/anonymous-109,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-109,1
+GET,/api/cart/cart/anonymous-1038,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-131,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-131,2
+POST,/api/shipping/confirm/anonymous-499,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-755,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-112,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-112,1
+GET,/api/cart/add/anonymous-1042/RED/1,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-428,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-195,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-195,2
+GET,/api/cart/update/anonymous-828/UHJ/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-613,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-613,1
+POST,/api/shipping/confirm/anonymous-831,Remote end closed connection without response,1
+GET,/api/shipping/calc/4053568,504 Server Error: Gateway Time-out for url: http://20.108.175.86/api/shipping/calc/4053568,1
+GET,/api/shipping/calc/6027408,Remote end closed connection without response,1
+GET,/api/shipping/calc/4564860,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-782,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-945/EPE/1,Remote end closed connection without response,1
+GET,/,Remote end closed connection without response,62
+GET,/api/cart/cart/anonymous-1045,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-325,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-325,1
+POST,/api/payment/pay/anonymous-453,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-453,1
+POST,/api/payment/pay/anonymous-179,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-179,2
+POST,/api/shipping/confirm/anonymous-212,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-689,404 Client Error: NOT FOUND for url: http://20.108.175.86/api/payment/pay/anonymous-689,1
+PUT,/api/ratings/api/rate/RMC/3,Remote end closed connection without response,1
+GET,/api/shipping/calc/3848222,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-756,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-756,1
+GET,/api/cart/cart/anonymous-603,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-603,1
+POST,/api/payment/pay/anonymous-739,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-739,1
+GET,/api/cart/update/anonymous-614/EPE/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-614/EPE/2,1
+POST,/api/payment/pay/anonymous-202,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-202,2
+POST,/api/shipping/confirm/anonymous-573,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-230,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-230,2
+POST,/api/shipping/confirm/anonymous-442,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-442,1
+GET,/api/catalogue/product/RED,Remote end closed connection without response,20
+POST,/api/shipping/confirm/anonymous-984,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-157,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-157,2
+GET,/api/cart/update/anonymous-900/STAN-1/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-900/STAN-1/2,1
+GET,/api/cart/add/anonymous-438/RMC/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-961/EMM/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-340,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-340,1
+GET,/api/shipping/codes,504 Server Error: Gateway Time-out for url: http://20.108.175.86/api/shipping/codes,81
+GET,/api/cart/cart/anonymous-924,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-924,1
+POST,/api/payment/pay/anonymous-121,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-121,2
+GET,/api/cart/cart/anonymous-466,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-466,1
+GET,/api/shipping/cities/ru,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-909,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-909,1
+GET,/api/cart/update/anonymous-583/UHJ/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-583/UHJ/2,1
+GET,/api/cart/cart/anonymous-969,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-969,1
+POST,/api/payment/pay/anonymous-302,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-302,1
+POST,/api/shipping/confirm/anonymous-838,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-53,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-53,2
+POST,/api/payment/pay/anonymous-75,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-75,2
+POST,/api/payment/pay/anonymous-565,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-117,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-117,1
+POST,/api/payment/pay/anonymous-104,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-104,1
+GET,/api/cart/add/anonymous-942/RMC/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-263,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-263,1
+GET,/api/cart/update/anonymous-406/UHJ/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-295,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-295,1
+GET,/api/cart/update/anonymous-318/RED/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-318/RED/2,1
+GET,/api/cart/cart/anonymous-791,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-758/RED/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-569,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-569,1
+POST,/api/payment/pay/anonymous-491,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-491,1
+GET,/api/cart/cart/anonymous-462,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-728,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-728,2
+POST,/api/payment/pay/anonymous-327,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-327,1
+POST,/api/payment/pay/anonymous-400,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-400,1
+GET,/api/cart/update/anonymous-350/UHJ/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-1020/RED/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-100,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-100,2
+POST,/api/payment/pay/anonymous-753,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-753,1
+POST,/api/payment/pay/anonymous-332,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-332,2
+POST,/api/payment/pay/anonymous-254,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-254,2
+POST,/api/payment/pay/anonymous-527,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-527,1
+GET,/api/shipping/cities/ca,504 Server Error: Gateway Time-out for url: http://20.108.175.86/api/shipping/cities/ca,2
+POST,/api/payment/pay/anonymous-164,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-164,1
+GET,/api/shipping/calc/3779606,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-94,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-94,1
+POST,/api/shipping/confirm/anonymous-449,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-449,1
+POST,/api/shipping/confirm/anonymous-998,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-998,1
+POST,/api/payment/pay/anonymous-86,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-86,2
+POST,/api/payment/pay/anonymous-217,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-217,1
+POST,/api/payment/pay/anonymous-214,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-214,1
+GET,/api/cart/cart/anonymous-622,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-1015/UHJ/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-1015/UHJ/2,1
+GET,/api/cart/cart/anonymous-690,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-690,1
+GET,/api/cart/cart/anonymous-706,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/EMM/2,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-197/EMM/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-197/EMM/2,1
+GET,/api/cart/update/anonymous-399/STAN-1/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-399/STAN-1/2,1
+POST,/api/payment/pay/anonymous-35,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-35,2
+POST,/api/payment/pay/anonymous-318,Remote end closed connection without response,2
+GET,/api/cart/cart/anonymous-792,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-206,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-206,2
+GET,/api/shipping/cities/fr,504 Server Error: Gateway Time-out for url: http://20.108.175.86/api/shipping/cities/fr,1
+POST,/api/shipping/confirm/anonymous-414,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-414,1
+POST,/api/payment/pay/anonymous-849,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-849,1
+POST,/api/shipping/confirm/anonymous-944,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-944,1
+PUT,/api/ratings/api/rate/RED/5,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-125,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-125,2
+POST,/api/shipping/confirm/anonymous-543,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-543,1
+POST,/api/payment/pay/anonymous-476,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-476,1
+POST,/api/shipping/confirm/anonymous-652,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-652,1
+GET,/api/cart/add/anonymous-1088/RMC/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-111,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-111,1
+GET,/api/shipping/cities/cz,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-533,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-1085,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-1085,1
+POST,/api/payment/pay/anonymous-127,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-127,2
+GET,/api/user/uniqueid,Remote end closed connection without response,41
+POST,/api/payment/pay/anonymous-109,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-109,1
+POST,/api/shipping/confirm/anonymous-476,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-476,1
+POST,/api/payment/pay/anonymous-186,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-186,1
+GET,/api/cart/update/anonymous-955/HPTD/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-63,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-63,2
+POST,/api/payment/pay/anonymous-674,404 Client Error: NOT FOUND for url: http://20.108.175.86/api/payment/pay/anonymous-674,1
+POST,/api/payment/pay/anonymous-321,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-321,1
+POST,/api/shipping/confirm/anonymous-572,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-572,1
+POST,/api/payment/pay/anonymous-729,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-729,1
+POST,/api/payment/pay/anonymous-148,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-148,2
+PUT,/api/ratings/api/rate/UHJ/4,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-98,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-98,2
+GET,/api/cart/update/anonymous-373/UHJ/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-373/UHJ/2,1
+POST,/api/payment/pay/anonymous-716,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-716,1
+GET,/api/cart/cart/anonymous-1039,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-464,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-464,1
+GET,/api/shipping/calc/4573372,504 Server Error: Gateway Time-out for url: http://20.108.175.86/api/shipping/calc/4573372,1
+POST,/api/payment/pay/anonymous-64,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-64,2
+GET,/api/shipping/cities/fi,Remote end closed connection without response,2
+POST,/api/payment/pay/anonymous-182,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-182,1
+GET,/api/cart/cart/anonymous-312,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-312,1
+POST,/api/shipping/confirm/anonymous-897,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-897,1
+GET,/api/cart/cart/anonymous-646,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-491,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-491,1
+GET,/api/cart/update/anonymous-345/RED/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-345/RED/2,1
+POST,/api/payment/pay/anonymous-297,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-297,1
+POST,/api/payment/pay/anonymous-20,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-20,1
+POST,/api/shipping/confirm/anonymous-422,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-422,1
+POST,/api/payment/pay/anonymous-158,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-158,2
+GET,/api/cart/add/anonymous-574/EPE/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-351,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-351,2
+POST,/api/payment/pay/anonymous-7,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-7,1
+POST,/api/payment/pay/anonymous-347,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-347,1
+PUT,/api/ratings/api/rate/Watson/4,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-177,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-177,2
+GET,/api/cart/add/anonymous-288/STAN-1/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-527/HPTD/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-527/HPTD/2,1
+POST,/api/payment/pay/anonymous-48,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-48,2
+POST,/api/payment/pay/anonymous-280,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-280,2
+GET,/api/shipping/cities/cz,504 Server Error: Gateway Time-out for url: http://20.108.175.86/api/shipping/cities/cz,1
+GET,/api/cart/update/anonymous-754/HPTD/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-754/HPTD/2,1
+POST,/api/shipping/confirm/anonymous-908,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-908,2
+POST,/api/payment/pay/anonymous-172,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-172,2
+POST,/api/payment/pay/anonymous-251,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-251,2
+POST,/api/payment/pay/anonymous-8,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-8,1
+POST,/api/payment/pay/anonymous-495,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-495,1
+POST,/api/payment/pay/anonymous-119,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-119,2
+POST,/api/payment/pay/anonymous-90,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-90,2
+GET,/api/ratings/api/fetch/Watson,Remote end closed connection without response,9
+GET,/api/cart/update/anonymous-452/HPTD/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-452/HPTD/2,1
+GET,/api/cart/add/anonymous-1127/EPE/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-715/HPTD/1,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-639,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-639,1
+GET,/api/cart/update/anonymous-1124/STAN-1/2,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-451,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-451,1
+GET,/api/cart/cart/anonymous-547,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-371,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-371,1
+GET,/api/cart/add/anonymous-596/EPE/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-614,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-614,1
+POST,/api/shipping/confirm/anonymous-574,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-576/EPE/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-576/EPE/2,1
+POST,/api/payment/pay/anonymous-173,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-173,2
+POST,/api/payment/pay/anonymous-250,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-250,2
+GET,/api/cart/cart/anonymous-368,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-368,1
+POST,/api/payment/pay/anonymous-143,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-143,2
+POST,/api/payment/pay/anonymous-1048,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-1048,1
+POST,/api/shipping/confirm/anonymous-886,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-435/UHJ/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-246,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-246,2
+GET,/api/cart/update/anonymous-693/RMC/2,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-931,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-931,1
+GET,/api/cart/update/anonymous-331/EMM/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-331/EMM/2,1
+POST,/api/payment/pay/anonymous-450,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-450,1
+GET,/api/shipping/calc/3439606,504 Server Error: Gateway Time-out for url: http://20.108.175.86/api/shipping/calc/3439606,1
+GET,/api/cart/cart/anonymous-563,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-840/UHJ/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-840/UHJ/2,1
+GET,/api/shipping/calc/3296850,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-236,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-236,1
+PUT,/api/ratings/api/rate/STAN-1/2,Remote end closed connection without response,1
+GET,/api/shipping/cities/bg,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-372,504 Server Error: Gateway Time-out for url: http://20.108.175.86/api/shipping/confirm/anonymous-372,1
+POST,/api/payment/pay/anonymous-311,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-311,1
+POST,/api/payment/pay/anonymous-497,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-497,1
+PUT,/api/ratings/api/rate/HPTD/1,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-432,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-432,2
+GET,/api/cart/cart/anonymous-641,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-641,1
+GET,/api/cart/add/anonymous-829/EMM/1,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-658,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-658,1
+GET,/api/cart/cart/anonymous-596,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-596,1
+GET,/api/cart/update/anonymous-998/RED/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-998/RED/2,1
+GET,/api/cart/cart/anonymous-472,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-472,1
+GET,/api/cart/cart/anonymous-1014,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-1014,1
+POST,/api/payment/pay/anonymous-170,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-170,2
+POST,/api/payment/pay/anonymous-772,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-772,1
+POST,/api/payment/pay/anonymous-159,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-159,2
+GET,/api/cart/add/anonymous-837/SHCE/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-141,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-141,2
+GET,/api/shipping/calc/5358219,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-96,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-96,1
+GET,/api/cart/update/anonymous-968/HPTD/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-968/HPTD/2,1
+POST,/api/payment/pay/anonymous-46,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-46,2
+POST,/api/payment/pay/anonymous-14,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-14,1
+GET,/api/cart/cart/anonymous-613,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-613,1
+POST,/api/payment/pay/anonymous-178,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-178,2
+GET,/api/cart/add/anonymous-940/SHCE/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-778,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-358,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-358,1
+GET,/api/cart/update/anonymous-961/Watson/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-966,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-966,1
+GET,/api/shipping/calc/3766684,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-728,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-728,2
+POST,/api/payment/pay/anonymous-336,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-336,1
+POST,/api/payment/pay/anonymous-707,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-707,1
+POST,/api/shipping/confirm/anonymous-1015,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-1015,1
+GET,/api/shipping/cities/fi,504 Server Error: Gateway Time-out for url: http://20.108.175.86/api/shipping/cities/fi,1
+POST,/api/payment/pay/anonymous-249,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-249,2
+POST,/api/payment/pay/anonymous-2,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-2,1
+POST,/api/payment/pay/anonymous-296,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-296,1
+POST,/api/payment/pay/anonymous-106,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-106,1
+POST,/api/payment/pay/anonymous-24,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-24,1
+POST,/api/payment/pay/anonymous-115,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-115,1
+POST,/api/payment/pay/anonymous-242,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-242,2
+POST,/api/payment/pay/anonymous-156,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-156,1
+POST,/api/shipping/confirm/anonymous-707,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-707,1
+GET,/api/cart/update/anonymous-1004/EMM/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-589,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-589,1
+POST,/api/payment/pay/anonymous-289,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-289,1
+GET,/api/cart/update/anonymous-563/HPTD/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-563/HPTD/2,1
+POST,/api/payment/pay/anonymous-275,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-275,1
+POST,/api/payment/pay/anonymous-580,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-580,1
+POST,/api/payment/pay/anonymous-412,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-412,1
+POST,/api/shipping/confirm/anonymous-986,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-986,1
+POST,/api/payment/pay/anonymous-88,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-88,2
+POST,/api/payment/pay/anonymous-174,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-174,2
+GET,/api/shipping/cities/au,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-27,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-27,1
+GET,/api/shipping/calc/3307921,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-545,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-545,1
+POST,/api/payment/pay/anonymous-578,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-578,1
+POST,/api/payment/pay/anonymous-175,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-175,2
+POST,/api/payment/pay/anonymous-532,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-532,1
+POST,/api/payment/pay/anonymous-197,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-197,1
+POST,/api/payment/pay/anonymous-138,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-138,2
+POST,/api/payment/pay/anonymous-103,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-103,1
+GET,/api/cart/update/anonymous-725/SHCE/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-401,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-401,1
+GET,/api/shipping/calc/5666613,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-18,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-18,1
+GET,/api/shipping/calc/3790705,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-713,404 Client Error: NOT FOUND for url: http://20.108.175.86/api/payment/pay/anonymous-713,1
+POST,/api/shipping/confirm/anonymous-398,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-398,1
+POST,/api/payment/pay/anonymous-756,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-756,1
+POST,/api/payment/pay/anonymous-294,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-294,1
+POST,/api/payment/pay/anonymous-315,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-315,1
+GET,/api/shipping/cities/us,504 Server Error: Gateway Time-out for url: http://20.108.175.86/api/shipping/cities/us,3
+GET,/api/cart/cart/anonymous-611,Remote end closed connection without response,1
+GET,/api/shipping/cities/se,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-255,Remote end closed connection without response,1
+GET,/api/ratings/api/fetch/UHJ,Remote end closed connection without response,16
+POST,/api/shipping/confirm/anonymous-581,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-645/EPE/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-645/EPE/2,1
+GET,/api/cart/update/anonymous-598/EPE/2,Remote end closed connection without response,1
+GET,/api/shipping/cities/jp,504 Server Error: Gateway Time-out for url: http://20.108.175.86/api/shipping/cities/jp,1
+GET,/api/cart/add/anonymous-575/STAN-1/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-896,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-896,1
+POST,/api/payment/pay/anonymous-30,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-30,2
+GET,/api/ratings/api/fetch/HPTD,Remote end closed connection without response,14
+GET,/api/cart/cart/anonymous-932,Remote end closed connection without response,1
+GET,/api/shipping/calc/4048930,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-892/RED/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-436,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-282,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-282,1
+GET,/api/cart/add/anonymous-837/UHJ/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/5363907,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-819,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-70,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-70,2
+GET,/api/shipping/calc/4584883,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-215,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-215,1
+POST,/api/payment/pay/anonymous-225,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-225,1
+POST,/api/payment/pay/anonymous-513,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-513,1
+POST,/api/payment/pay/anonymous-257,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-257,1
+POST,/api/payment/pay/anonymous-134,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-134,2
+GET,/api/catalogue/product/EPE,Remote end closed connection without response,11
+GET,/api/cart/cart/anonymous-469,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-469,1
+POST,/api/payment/pay/anonymous-47,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-47,2
+GET,/api/cart/update/anonymous-774/RED/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-774/RED/2,1
+GET,/api/shipping/calc/4010262,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-441,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-441,1
+POST,/api/shipping/confirm/anonymous-609,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-775,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-775,1
+POST,/api/payment/pay/anonymous-73,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-73,2
+POST,/api/payment/pay/anonymous-666,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-666,1
+POST,/api/payment/pay/anonymous-216,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-216,2
+POST,/api/payment/pay/anonymous-118,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-118,2
+GET,/api/cart/update/anonymous-767/Watson/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-767/Watson/2,1
+POST,/api/shipping/confirm/anonymous-598,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-598,1
+POST,/api/payment/pay/anonymous-205,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-205,1
+POST,/api/payment/pay/anonymous-367,404 Client Error: NOT FOUND for url: http://20.108.175.86/api/payment/pay/anonymous-367,1
+POST,/api/payment/pay/anonymous-233,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-233,1
+GET,/api/cart/cart/anonymous-418,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/SHCE/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-775,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-775,1
+POST,/api/payment/pay/anonymous-373,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-373,1
+POST,/api/payment/pay/anonymous-329,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-329,1
+GET,/api/cart/add/anonymous-425/EMM/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-744,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-744,1
+POST,/api/payment/pay/anonymous-346,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-346,1
+POST,/api/shipping/confirm/anonymous-757,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-757,1
+GET,/api/cart/update/anonymous-1098/SHCE/2,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-441,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-441,1
+POST,/api/shipping/confirm/anonymous-527,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-527,1
+POST,/api/payment/pay/anonymous-516,404 Client Error: NOT FOUND for url: http://20.108.175.86/api/payment/pay/anonymous-516,1
+GET,/api/cart/cart/anonymous-447,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-447,1
+POST,/api/payment/pay/anonymous-663,404 Client Error: NOT FOUND for url: http://20.108.175.86/api/payment/pay/anonymous-663,1
+GET,/api/cart/update/anonymous-858/UHJ/2,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-857/EMM/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-857/EMM/2,1
+POST,/api/payment/pay/anonymous-261,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-261,1
+GET,/api/cart/add/anonymous-770/RED/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-296,404 Client Error: NOT FOUND for url: http://20.108.175.86/api/payment/pay/anonymous-296,1
+POST,/api/payment/pay/anonymous-356,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-356,1
+POST,/api/payment/pay/anonymous-37,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-37,2
+GET,/api/cart/add/anonymous-844/SHCE/1,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-433,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-433,1
+POST,/api/payment/pay/anonymous-16,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-16,1
+POST,/api/payment/pay/anonymous-78,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-78,2
+GET,/api/cart/add/anonymous-650/RMC/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-55,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-55,2
+POST,/api/payment/pay/anonymous-264,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-264,1
+POST,/api/payment/pay/anonymous-274,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-274,2
+POST,/api/payment/pay/anonymous-897,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-897,1
+POST,/api/payment/pay/anonymous-752,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-752,1
+POST,/api/payment/pay/anonymous-198,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-198,1
+POST,/api/payment/pay/anonymous-241,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-241,2
+PUT,/api/ratings/api/rate/STAN-1/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-487,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-36,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-36,2
+POST,/api/payment/pay/anonymous-166,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-166,2
+GET,/api/cart/add/anonymous-1002/EPE/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-387/EMM/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-245,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-245,2
+POST,/api/payment/pay/anonymous-52,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-52,2
+GET,/api/cart/add/anonymous-999/SHCE/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/3400471,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/EPE/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-700/EPE/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-700/EPE/2,1
+POST,/api/payment/pay/anonymous-191,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-191,2
+POST,/api/shipping/confirm/anonymous-132,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-347/UHJ/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-347/UHJ/2,1
+GET,/api/shipping/calc/3310290,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-33,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-33,2
+POST,/api/shipping/confirm/anonymous-809,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-809,1
+POST,/api/shipping/confirm/anonymous-726,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-726,1
+POST,/api/payment/pay/anonymous-115,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-115,1
+POST,/api/shipping/confirm/anonymous-580,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-580,1
+POST,/api/payment/pay/anonymous-422,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-422,1
+GET,/api/shipping/calc/4026653,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-754,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-754,1
+POST,/api/payment/pay/anonymous-1015,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-1015,1
+GET,/api/cart/add/anonymous-777/RMC/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-26,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-26,1
+GET,/api/cart/cart/anonymous-643,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-461,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-461,1
+GET,/api/cart/cart/anonymous-899,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-135,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-135,2
+GET,/api/shipping/calc/5372157,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-939,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-939,1
+GET,/api/cart/cart/anonymous-747,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-747,1
+GET,/api/cart/add/anonymous-941/STAN-1/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-165,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-165,2
+POST,/api/payment/pay/anonymous-207,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-207,2
+POST,/api/payment/pay/anonymous-130,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-130,2
+POST,/api/payment/pay/anonymous-144,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-144,2
+GET,/api/shipping/calc/3368442,504 Server Error: Gateway Time-out for url: http://20.108.175.86/api/shipping/calc/3368442,1
+POST,/api/payment/pay/anonymous-77,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-77,2
+POST,/api/payment/pay/anonymous-316,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-316,2
+POST,/api/payment/pay/anonymous-124,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-124,2
+GET,/api/cart/update/anonymous-309/RED/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-309/RED/2,1
+POST,/api/shipping/confirm/anonymous-718,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-718,1
+POST,/api/payment/pay/anonymous-126,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-126,2
+POST,/api/payment/pay/anonymous-181,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-181,2
+GET,/api/cart/cart/anonymous-1042,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-1042,1
+POST,/api/payment/pay/anonymous-292,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-292,1
+POST,/api/payment/pay/anonymous-149,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-149,2
+GET,/api/cart/cart/anonymous-785,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-611,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-611,1
+POST,/api/shipping/confirm/anonymous-411,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-411,1
+GET,/api/cart/add/anonymous-483/RMC/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-901/EMM/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-394,404 Client Error: NOT FOUND for url: http://20.108.175.86/api/payment/pay/anonymous-394,1
+GET,/api/cart/add/anonymous-765/EPE/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-397,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-397,1
+POST,/api/payment/pay/anonymous-383,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-383,1
+POST,/api/payment/pay/anonymous-319,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-319,1
+POST,/api/payment/pay/anonymous-204,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-204,1
+POST,/api/payment/pay/anonymous-110,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-110,1
+POST,/api/shipping/confirm/anonymous-311,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-311,1
+POST,/api/shipping/confirm/anonymous-763,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-763,1
+GET,/api/cart/cart/anonymous-602,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-602,1
+GET,/api/cart/update/anonymous-636/EPE/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-636/EPE/2,1
+GET,/api/cart/cart/anonymous-659,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-659,1
+POST,/api/shipping/confirm/anonymous-614,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-614,1
+POST,/api/payment/pay/anonymous-106,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-106,1
+POST,/api/payment/pay/anonymous-108,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-108,1
+POST,/api/payment/pay/anonymous-438,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-438,1
+POST,/api/payment/pay/anonymous-151,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-151,2
+POST,/api/shipping/confirm/anonymous-438,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-21,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-21,2
+POST,/api/payment/pay/anonymous-25,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-25,1
+GET,/api/shipping/calc/3371278,504 Server Error: Gateway Time-out for url: http://20.108.175.86/api/shipping/calc/3371278,1
+GET,/api/cart/cart/anonymous-435,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-435,1
+GET,/api/cart/update/anonymous-669/EPE/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-183,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-183,2
+POST,/api/shipping/confirm/anonymous-624,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-624,1
+POST,/api/payment/pay/anonymous-442,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-442,1
+GET,/api/cart/add/anonymous-582/SHCE/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-396,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-396,1
+POST,/api/payment/pay/anonymous-66,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-66,2
+POST,/api/shipping/confirm/anonymous-675,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-675,1
+GET,/api/cart/add/anonymous-369/Watson/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-117,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-117,1
+POST,/api/payment/pay/anonymous-176,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-176,1
+GET,/api/shipping/calc/3954787,504 Server Error: Gateway Time-out for url: http://20.108.175.86/api/shipping/calc/3954787,1
+GET,/api/shipping/cities/at,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-364,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-364,1
+POST,/api/payment/pay/anonymous-769,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-769,1
+GET,/api/cart/update/anonymous-397/Watson/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-397/Watson/2,1
+GET,/api/cart/update/anonymous-702/HPTD/2,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-412,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-412,1
+GET,/api/cart/update/anonymous-246/RED/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-246/RED/2,1
+GET,/api/cart/update/anonymous-300/UHJ/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-300/UHJ/2,1
+GET,/api/cart/cart/anonymous-440,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-440,1
+GET,/api/shipping/cities/in,504 Server Error: Gateway Time-out for url: http://20.108.175.86/api/shipping/cities/in,1
+POST,/api/payment/pay/anonymous-215,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-215,1
+GET,/api/cart/update/anonymous-707/EPE/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-707/EPE/2,1
+GET,/api/cart/cart/anonymous-579,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-168,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-168,2
+GET,/api/cart/add/anonymous-864/Watson/1,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-668,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-668,1
+POST,/api/payment/pay/anonymous-290,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-290,1
+GET,/api/cart/update/anonymous-845/HPTD/2,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-475/EMM/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-475/EMM/2,1
+GET,/api/cart/cart/anonymous-582,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-582,2
+POST,/api/payment/pay/anonymous-84,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-84,2
+GET,/api/shipping/calc/5348790,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-774,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-406/HPTD/2,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-535/STAN-1/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-535/STAN-1/2,1
+PUT,/api/ratings/api/rate/SHCE/4,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-163,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-163,2
+POST,/api/payment/pay/anonymous-69,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-69,2
+POST,/api/payment/pay/anonymous-228,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-570,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-570,1
+GET,/api/cart/add/anonymous-556/HPTD/1,Remote end closed connection without response,1
+GET,/api/shipping/cities/ro,Remote end closed connection without response,2
+POST,/api/payment/pay/anonymous-91,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-91,2
+GET,/api/cart/update/anonymous-903/Watson/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-334,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-147,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-147,2
+POST,/api/payment/pay/anonymous-150,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-150,2
+POST,/api/shipping/confirm/anonymous-754,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-754,1
+POST,/api/payment/pay/anonymous-190,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-190,1
+POST,/api/payment/pay/anonymous-116,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-116,2
+GET,/api/cart/update/anonymous-624/EPE/2,Remote end closed connection without response,1
+GET,/api/shipping/calc/4025635,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-401/STAN-1/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-763,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-763,1
+POST,/api/payment/pay/anonymous-238,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-238,2
+POST,/api/shipping/confirm/anonymous-338,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-366,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-366,1
+POST,/api/payment/pay/anonymous-40,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-40,2
+GET,/api/cart/update/anonymous-743/RMC/2,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-636,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-636,1
+POST,/api/payment/pay/anonymous-107,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-107,1
+POST,/api/payment/pay/anonymous-102,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-102,1
+GET,/api/catalogue/categories,Remote end closed connection without response,42
+POST,/api/payment/pay/anonymous-451,404 Client Error: NOT FOUND for url: http://20.108.175.86/api/payment/pay/anonymous-451,1
+GET,/api/cart/update/anonymous-904/STAN-1/2,Remote end closed connection without response,2
+GET,/api/cart/cart/anonymous-425,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-425,1
+POST,/api/payment/pay/anonymous-998,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-998,1
+GET,/api/shipping/calc/5350834,504 Server Error: Gateway Time-out for url: http://20.108.175.86/api/shipping/calc/5350834,1
+GET,/api/cart/update/anonymous-755/Watson/2,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-636,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-291,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-291,1
+GET,/api/cart/cart/anonymous-465,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-465,1
+GET,/api/cart/update/anonymous-376/Watson/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-376/Watson/2,1
+POST,/api/payment/pay/anonymous-13,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-13,1
+POST,/api/payment/pay/anonymous-556,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-556,1
+POST,/api/payment/pay/anonymous-19,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-19,1
+GET,/api/cart/cart/anonymous-642,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-642,1
+POST,/api/payment/pay/anonymous-809,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-809,1
+GET,/api/shipping/calc/3353873,Remote end closed connection without response,1
+GET,/api/catalogue/product/RMC,Remote end closed connection without response,11
+GET,/api/cart/update/anonymous-510/RMC/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-510/RMC/2,1
+GET,/api/cart/update/anonymous-745/EPE/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-745/EPE/2,1
+POST,/api/shipping/confirm/anonymous-909,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-909,1
+POST,/api/shipping/confirm/anonymous-678,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-678,1
+POST,/api/payment/pay/anonymous-677,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-677,1
+POST,/api/payment/pay/anonymous-288,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-288,2
+GET,/api/cart/add/anonymous-832/Watson/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-473,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-268,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-268,2
+GET,/api/cart/add/anonymous-947/Watson/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/5830264,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-137,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-137,2
+GET,/api/cart/add/anonymous-998/SHCE/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-733/SHCE/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-733/SHCE/2,1
+GET,/api/cart/cart/anonymous-640,Remote end closed connection without response,2
+GET,/api/cart/add/anonymous-614/RED/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-11,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-11,1
+GET,/api/shipping/calc/3209051,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-933,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-933,1
+GET,/api/shipping/calc/3438276,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-1047,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-658,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-658,1
+GET,/api/cart/update/anonymous-626/STAN-1/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-626/STAN-1/2,1
+GET,/api/cart/cart/anonymous-1029,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-1029,1
+POST,/api/payment/pay/anonymous-113,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-113,1
+POST,/api/payment/pay/anonymous-308,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-308,1
+GET,/api/ratings/api/fetch/RED,Remote end closed connection without response,6
+GET,/api/catalogue/product/UHJ,Remote end closed connection without response,11
+POST,/api/payment/pay/anonymous-200,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-200,2
+GET,/api/shipping/calc/4175159,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-273,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-273,1
+POST,/api/payment/pay/anonymous-433,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-433,1
+POST,/api/payment/pay/anonymous-380,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-380,1
+POST,/api/payment/pay/anonymous-277,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-277,2
+POST,/api/payment/pay/anonymous-110,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-110,1
+GET,/api/cart/update/anonymous-377/RED/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-377/RED/2,1
+POST,/api/payment/pay/anonymous-944,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-944,1
+GET,/api/cart/update/anonymous-394/RMC/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-394/RMC/2,1
+POST,/api/payment/pay/anonymous-310,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-310,1
+POST,/api/payment/pay/anonymous-49,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-49,2
+POST,/api/shipping/confirm/anonymous-437,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-984,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-984,1
+POST,/api/shipping/confirm/anonymous-569,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-569,1
+POST,/api/payment/pay/anonymous-260,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-260,1
+POST,/api/payment/pay/anonymous-279,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-279,2
+GET,/api/cart/update/anonymous-576/RMC/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-99,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-99,2
+POST,/api/payment/pay/anonymous-111,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-111,1
+GET,/api/cart/add/anonymous-578/Watson/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-79,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-79,2
+GET,/api/cart/update/anonymous-403/RMC/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-313,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-313,1
+GET,/api/cart/update/anonymous-335/RMC/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-335/RMC/2,1
+POST,/api/payment/pay/anonymous-155,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-155,2
+POST,/api/shipping/confirm/anonymous-214,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-299,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-299,2
+POST,/api/shipping/confirm/anonymous-454,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-231,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-231,1
+POST,/api/shipping/confirm/anonymous-555,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-9,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-9,1
+GET,/api/cart/add/anonymous-368/HPTD/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-76,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-76,2
+POST,/api/payment/pay/anonymous-675,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-675,1
+GET,/api/cart/update/anonymous-429/EPE/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-93,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-93,2
+GET,/api/cart/cart/anonymous-565,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-96,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-96,1
+GET,/api/cart/cart/anonymous-1030,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-726,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-726,1
+POST,/api/shipping/confirm/anonymous-720,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-720,1
+GET,/api/cart/update/anonymous-402/RMC/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-402/RMC/2,1
+GET,/api/cart/add/anonymous-740/SHCE/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-105,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-105,1
+GET,/api/catalogue/products,Remote end closed connection without response,52
+POST,/api/payment/pay/anonymous-386,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-386,1
+GET,/api/cart/add/anonymous-286/RMC/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-271,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-271,2
+POST,/api/payment/pay/anonymous-102,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-102,1
+GET,/api/shipping/calc/3295837,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-42,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-42,2
+POST,/api/payment/pay/anonymous-169,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-169,2
+POST,/api/payment/pay/anonymous-908,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-908,2
+GET,/api/cart/update/anonymous-324/EMM/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-324/EMM/2,1
+POST,/api/payment/pay/anonymous-382,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-382,1
+POST,/api/payment/pay/anonymous-757,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-757,1
+POST,/api/shipping/confirm/anonymous-462,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-221,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-221,2
+GET,/api/catalogue/product/HPTD,Remote end closed connection without response,9
+POST,/api/payment/pay/anonymous-62,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-62,2
+GET,/api/cart/update/anonymous-752/UHJ/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-752/UHJ/2,1
+GET,/api/shipping/calc/3759232,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-139,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-139,2
+POST,/api/shipping/confirm/anonymous-677,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-677,1
+POST,/api/payment/pay/anonymous-284,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-284,2
+GET,/api/shipping/cities/se,504 Server Error: Gateway Time-out for url: http://20.108.175.86/api/shipping/cities/se,1
+POST,/api/shipping/confirm/anonymous-849,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-849,1
+GET,/api/shipping/calc/3846075,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-393,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-393,1
+POST,/api/payment/pay/anonymous-301,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-301,1
+POST,/api/payment/pay/anonymous-219,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-219,2
+GET,/api/cart/update/anonymous-400/UHJ/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-400/UHJ/2,1
+POST,/api/payment/pay/anonymous-671,404 Client Error: NOT FOUND for url: http://20.108.175.86/api/payment/pay/anonymous-671,1
+POST,/api/payment/pay/anonymous-192,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-192,2
+POST,/api/shipping/confirm/anonymous-939,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-939,1
+POST,/api/payment/pay/anonymous-369,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-369,2
+POST,/api/payment/pay/anonymous-208,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-208,1
+POST,/api/payment/pay/anonymous-679,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-285,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-285,1
+GET,/api/cart/add/anonymous-497/STAN-1/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-828/Watson/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-146,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-146,2
+POST,/api/payment/pay/anonymous-184,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-184,1
+GET,/api/cart/update/anonymous-650/RED/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-650/RED/2,1
+POST,/api/payment/pay/anonymous-276,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-276,1
+POST,/api/shipping/confirm/anonymous-397,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-397,1
+GET,/api/cart/add/anonymous-536/STAN-1/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-796/Watson/2,Remote end closed connection without response,1
+POST,/api/user/login,Remote end closed connection without response,65
+GET,/api/cart/update/anonymous-555/SHCE/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-555/SHCE/2,1
+POST,/api/payment/pay/anonymous-730,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-911/HPTD/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-911/HPTD/2,1
+POST,/api/payment/pay/anonymous-265,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-265,1
+POST,/api/payment/pay/anonymous-398,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-398,1
+GET,/api/cart/update/anonymous-404/EMM/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-404/EMM/2,1
+POST,/api/shipping/confirm/anonymous-599,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-599,1
+POST,/api/payment/pay/anonymous-6,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-6,1
+GET,/api/cart/update/anonymous-902/RED/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-370,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-370,2
+POST,/api/payment/pay/anonymous-449,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-449,1
+POST,/api/payment/pay/anonymous-624,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-624,1
+POST,/api/payment/pay/anonymous-89,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-89,2
+POST,/api/payment/pay/anonymous-54,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-54,2
+GET,/api/cart/cart/anonymous-847,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-196,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-196,2
+POST,/api/shipping/confirm/anonymous-535,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-535,1
+POST,/api/payment/pay/anonymous-331,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-331,1
+POST,/api/payment/pay/anonymous-639,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-639,1
+GET,/api/cart/update/anonymous-311/RMC/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-311/RMC/2,1
+POST,/api/shipping/confirm/anonymous-396,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-396,1
+GET,/api/shipping/cities/pt,504 Server Error: Gateway Time-out for url: http://20.108.175.86/api/shipping/cities/pt,1
+POST,/api/payment/pay/anonymous-554,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-554,1
+GET,/api/cart/cart/anonymous-773,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-773,1
+POST,/api/payment/pay/anonymous-81,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-81,2
+POST,/api/payment/pay/anonymous-128,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-128,2
+GET,/api/cart/update/anonymous-426/EPE/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-426/EPE/2,1
+GET,/api/cart/cart/anonymous-648,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-222,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-222,2
+GET,/api/shipping/cities/dk,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-343,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-983/EPE/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-681/Watson/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-458/Watson/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-392,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-392,1
+POST,/api/shipping/confirm/anonymous-961,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-961,1
+GET,/api/ratings/api/fetch/RMC,Remote end closed connection without response,8
+POST,/api/shipping/confirm/anonymous-501,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-501,1
+POST,/api/payment/pay/anonymous-29,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-29,1
+GET,/api/cart/cart/anonymous-1025,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-1025,1
+POST,/api/payment/pay/anonymous-543,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-543,1
+POST,/api/payment/pay/anonymous-293,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-293,1
+POST,/api/shipping/confirm/anonymous-578,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-578,1
+POST,/api/payment/pay/anonymous-161,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-161,2
+POST,/api/shipping/confirm/anonymous-802,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-802,1
+GET,/api/shipping/calc/3438904,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-887,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-887,1
+POST,/api/payment/pay/anonymous-226,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-226,2
+GET,/api/ratings/api/fetch/EPE,Remote end closed connection without response,10
+POST,/api/payment/pay/anonymous-346,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-346,1
+GET,/api/cart/cart/anonymous-571,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-571,1
+POST,/api/payment/pay/anonymous-114,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-114,1
+POST,/api/payment/pay/anonymous-28,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-28,2
+POST,/api/payment/pay/anonymous-361,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-361,1
+GET,/api/shipping/calc/5082959,504 Server Error: Gateway Time-out for url: http://20.108.175.86/api/shipping/calc/5082959,1
+POST,/api/payment/pay/anonymous-59,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-59,2
+POST,/api/payment/pay/anonymous-306,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-306,1
+GET,/api/cart/add/anonymous-635/STAN-1/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-527,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-527,1
+GET,/api/cart/cart/anonymous-463,Remote end closed connection without response,1
+GET,/api/ratings/api/fetch/EMM,Remote end closed connection without response,9
+GET,/api/shipping/calc/4166814,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-142,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-142,2
+GET,/api/cart/update/anonymous-763/Watson/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-763/Watson/2,1
+POST,/api/payment/pay/anonymous-256,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-256,1
+POST,/api/payment/pay/anonymous-82,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-82,2
+POST,/api/payment/pay/anonymous-12,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-12,1
+GET,/api/shipping/calc/3910674,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-389,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-389,1
+POST,/api/payment/pay/anonymous-281,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-281,1
+POST,/api/shipping/confirm/anonymous-825,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-39,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-39,2
+POST,/api/payment/pay/anonymous-51,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-51,2
+GET,/api/cart/update/anonymous-916/EMM/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-916/EMM/2,1
+GET,/api/cart/update/anonymous-571/EMM/2,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/RED/2,Remote end closed connection without response,2
+POST,/api/payment/pay/anonymous-167,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-167,2
+GET,/api/cart/update/anonymous-255/RED/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-188,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-188,2
+GET,/api/cart/update/anonymous-753/SHCE/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-753/SHCE/2,1
+POST,/api/payment/pay/anonymous-652,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-652,1
+POST,/api/payment/pay/anonymous-74,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-74,2
+POST,/api/payment/pay/anonymous-50,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-50,2
+POST,/api/shipping/confirm/anonymous-355,504 Server Error: Gateway Time-out for url: http://20.108.175.86/api/shipping/confirm/anonymous-355,1
+GET,/api/cart/cart/anonymous-807,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-807,1
+GET,/api/cart/add/anonymous-828/EPE/1,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/EPE/3,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-906,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-906,1
+POST,/api/payment/pay/anonymous-986,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-986,1
+POST,/api/shipping/confirm/anonymous-745,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-745,1
+GET,/api/cart/update/anonymous-694/UHJ/2,Remote end closed connection without response,1
+GET,/api/shipping/calc/3844368,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-133,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-133,2
+POST,/api/payment/pay/anonymous-65,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-65,2
+POST,/api/payment/pay/anonymous-34,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-34,2
+POST,/api/shipping/confirm/anonymous-512,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-122,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-122,2
+POST,/api/payment/pay/anonymous-205,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-205,1
+POST,/api/payment/pay/anonymous-211,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-211,1
+GET,/api/cart/update/anonymous-905/HPTD/2,Remote end closed connection without response,1
+GET,/api/shipping/calc/5078751,504 Server Error: Gateway Time-out for url: http://20.108.175.86/api/shipping/calc/5078751,1
+GET,/api/cart/update/anonymous-397/EMM/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-397/EMM/2,1
+GET,/api/cart/update/anonymous-795/SHCE/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-521/EMM/1,Remote end closed connection without response,1
+GET,/api/shipping/cities/fr,Remote end closed connection without response,2
+POST,/api/shipping/confirm/anonymous-611,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-611,1
+GET,/api/cart/add/anonymous-742/UHJ/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-799/Watson/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-31,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-31,1
+GET,/api/cart/add/anonymous-959/HPTD/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-628,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-628,1
+GET,/api/cart/update/anonymous-720/SHCE/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-720/SHCE/2,1
+GET,/api/catalogue/product/STAN-1,Remote end closed connection without response,10
+POST,/api/shipping/confirm/anonymous-556,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-556,1
+POST,/api/payment/pay/anonymous-391,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-391,1
+POST,/api/payment/pay/anonymous-152,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-152,2
+GET,/api/cart/update/anonymous-767/RED/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-767/RED/2,1
+POST,/api/payment/pay/anonymous-112,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-112,1
+POST,/api/payment/pay/anonymous-270,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-270,1
+POST,/api/shipping/confirm/anonymous-716,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-716,1
+POST,/api/shipping/confirm/anonymous-186,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-359,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-359,1
+PUT,/api/ratings/api/rate/EPE/5,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-846/EPE/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-326,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-326,2
+POST,/api/payment/pay/anonymous-17,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-17,1
+GET,/api/shipping/cities/de,Remote end closed connection without response,2
+GET,/api/cart/add/anonymous-634/SHCE/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-474,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-474,1
+POST,/api/shipping/confirm/anonymous-983,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-551/HPTD/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/4571680,Remote end closed connection without response,1
+GET,/api/shipping/cities/no,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-185,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-185,2
+POST,/api/payment/pay/anonymous-237,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-237,1
+POST,/api/payment/pay/anonymous-15,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-15,1
+POST,/api/payment/pay/anonymous-451,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-451,1
+POST,/api/payment/pay/anonymous-368,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-368,1
+POST,/api/payment/pay/anonymous-108,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-108,1
+POST,/api/payment/pay/anonymous-428,404 Client Error: NOT FOUND for url: http://20.108.175.86/api/payment/pay/anonymous-428,1
+POST,/api/shipping/confirm/anonymous-294,504 Server Error: Gateway Time-out for url: http://20.108.175.86/api/shipping/confirm/anonymous-294,1
+POST,/api/payment/pay/anonymous-101,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-101,1
+POST,/api/payment/pay/anonymous-338,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-338,1
+POST,/api/payment/pay/anonymous-646,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-933,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-933,1
+POST,/api/payment/pay/anonymous-601,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-601,1
+POST,/api/payment/pay/anonymous-113,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-113,1
+GET,/api/cart/update/anonymous-731/UHJ/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-731/UHJ/2,1
+POST,/api/payment/pay/anonymous-1080,404 Client Error: NOT FOUND for url: http://20.108.175.86/api/payment/pay/anonymous-1080,1
+POST,/api/payment/pay/anonymous-201,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-201,2
+GET,/api/cart/cart/anonymous-981,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-981,1
+POST,/api/payment/pay/anonymous-348,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-348,1
+POST,/api/payment/pay/anonymous-321,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-321,1
+POST,/api/payment/pay/anonymous-22,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-22,1
+POST,/api/payment/pay/anonymous-3,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-3,1
+GET,/api/cart/cart/anonymous-846,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-826,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-532/EPE/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-532/EPE/2,1
+POST,/api/payment/pay/anonymous-101,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-101,1
+POST,/api/payment/pay/anonymous-501,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-501,1
+POST,/api/payment/pay/anonymous-223,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-223,1
+POST,/api/payment/pay/anonymous-535,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-535,1
+GET,/api/cart/cart/anonymous-715,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-715,1
+POST,/api/payment/pay/anonymous-145,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-145,2
+POST,/api/payment/pay/anonymous-700,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-700,1
+POST,/api/shipping/confirm/anonymous-984,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-984,1
+POST,/api/payment/pay/anonymous-598,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-598,1
+GET,/api/cart/add/anonymous-811/Watson/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/3958019,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-385,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-385,1
+GET,/api/cart/add/anonymous-977/RMC/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-10,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-10,1
+POST,/api/payment/pay/anonymous-227,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-227,2
+GET,/api/cart/cart/anonymous-615,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-267,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-267,1
+GET,/api/shipping/cities/ch,Remote end closed connection without response,3
+POST,/api/shipping/confirm/anonymous-554,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-554,1
+POST,/api/payment/pay/anonymous-252,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-252,1
+POST,/api/payment/pay/anonymous-80,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-80,2
+GET,/api/shipping/cities/gb,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-218,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-218,1
+GET,/api/shipping/calc/5645786,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-808,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-808,1
+POST,/api/shipping/confirm/anonymous-834,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-834,1
+GET,/api/cart/add/anonymous-1067/SHCE/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-270/RMC/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-270/RMC/2,1
+GET,/api/cart/cart/anonymous-851,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-753,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-753,1
+GET,/api/cart/add/anonymous-743/RMC/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-675/EPE/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-72,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-72,2
+GET,/api/shipping/cities/dk,504 Server Error: Gateway Time-out for url: http://20.108.175.86/api/shipping/cities/dk,2
+POST,/api/payment/pay/anonymous-180,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-180,2
+POST,/api/payment/pay/anonymous-235,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-235,1
+GET,/api/shipping/cities/hu,Remote end closed connection without response,2
+GET,/api/cart/update/anonymous-612/Watson/2,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-532,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-532,1
+POST,/api/payment/pay/anonymous-32,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-32,2
+POST,/api/payment/pay/anonymous-504,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-504,1
+GET,/api/cart/update/anonymous-564/SHCE/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-120,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-120,2
+POST,/api/payment/pay/anonymous-92,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-92,2
+GET,/api/cart/update/anonymous-295/EPE/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-295/EPE/2,1
+POST,/api/payment/pay/anonymous-210,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-210,1
+GET,/api/shipping/calc/6028671,504 Server Error: Gateway Time-out for url: http://20.108.175.86/api/shipping/calc/6028671,1
+POST,/api/payment/pay/anonymous-58,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-58,2
+POST,/api/payment/pay/anonymous-105,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-105,1
+GET,/api/cart/cart/anonymous-907,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-666,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-666,1
+POST,/api/payment/pay/anonymous-363,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-363,1
+POST,/api/payment/pay/anonymous-203,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-203,2
+POST,/api/shipping/confirm/anonymous-513,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-513,1
+GET,/api/shipping/cities/ru,504 Server Error: Gateway Time-out for url: http://20.108.175.86/api/shipping/cities/ru,4
+GET,/api/cart/cart/anonymous-914,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-914,1
+POST,/api/payment/pay/anonymous-748,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-748,1
+GET,/api/cart/update/anonymous-677/UHJ/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-677/UHJ/2,1
+POST,/api/payment/pay/anonymous-239,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-239,1
+POST,/api/shipping/confirm/anonymous-739,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-739,1
+GET,/api/cart/update/anonymous-304/SHCE/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-304/SHCE/2,1
+GET,/api/cart/cart/anonymous-1002,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-1002,1
+POST,/api/payment/pay/anonymous-240,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-240,1
+POST,/api/payment/pay/anonymous-474,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-474,1
+POST,/api/payment/pay/anonymous-522,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-522,1
+GET,/api/cart/add/anonymous-744/SHCE/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-572,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-572,1
+GET,/api/cart/cart/anonymous-866,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-266/Watson/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-266/Watson/2,1
+POST,/api/payment/pay/anonymous-60,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-60,2
+GET,/api/cart/cart/anonymous-948,Remote end closed connection without response,1
+GET,/api/catalogue/product/EMM,Remote end closed connection without response,11
+POST,/api/payment/pay/anonymous-43,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-43,2
+POST,/api/payment/pay/anonymous-194,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-194,1
+GET,/api/cart/add/anonymous-645/HPTD/1,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-364,504 Server Error: Gateway Time-out for url: http://20.108.175.86/api/shipping/confirm/anonymous-364,1
+PUT,/api/ratings/api/rate/EPE/4,Remote end closed connection without response,2
+GET,/api/shipping/cities/at,504 Server Error: Gateway Time-out for url: http://20.108.175.86/api/shipping/cities/at,2
+POST,/api/shipping/confirm/anonymous-453,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-453,1
+GET,/api/cart/update/anonymous-775/Watson/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-775/Watson/2,1
+POST,/api/payment/pay/anonymous-416,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-416,1
+GET,/api/cart/cart/anonymous-764,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-973/Watson/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-477,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-477,1
+GET,/api/cart/cart/anonymous-469,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-839,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-915,404 Client Error: NOT FOUND for url: http://20.108.175.86/api/payment/pay/anonymous-915,1
+POST,/api/shipping/confirm/anonymous-522,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-522,1
+GET,/api/cart/cart/anonymous-488,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-488,1
+GET,/api/cart/add/anonymous-348/RMC/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-720,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-720,1
+POST,/api/payment/pay/anonymous-521,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-1021,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-1021,1
+GET,/api/cart/update/anonymous-656/Watson/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-656/Watson/2,1
+GET,/api/cart/cart/anonymous-651,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-651,1
+POST,/api/payment/pay/anonymous-224,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-224,1
+POST,/api/payment/pay/anonymous-97,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-97,1
+POST,/api/shipping/confirm/anonymous-613,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-613,1
+GET,/api/cart/add/anonymous-679/EMM/1,Remote end closed connection without response,2
+POST,/api/payment/pay/anonymous-85,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-85,2
+POST,/api/payment/pay/anonymous-374,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-374,1
+GET,/api/cart/add/anonymous-1075/EMM/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-68,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-68,2
+GET,/api/shipping/calc/5354468,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-975/UHJ/1,Remote end closed connection without response,2
+POST,/api/shipping/confirm/anonymous-968,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-968,1
+GET,/api/cart/cart/anonymous-322,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-162,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-162,2
+POST,/api/payment/pay/anonymous-269,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-269,2
+POST,/api/payment/pay/anonymous-209,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-209,1
+POST,/api/payment/pay/anonymous-45,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-45,2
+POST,/api/payment/pay/anonymous-129,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-129,2
+GET,/api/cart/add/anonymous-790/Watson/1,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-392,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-392,1
+GET,/api/cart/add/anonymous-1001/Watson/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/5579645,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-601,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-601,1
+POST,/api/shipping/confirm/anonymous-495,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-495,1
+POST,/api/payment/pay/anonymous-968,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-968,1
+POST,/api/payment/pay/anonymous-56,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-56,2
+POST,/api/payment/pay/anonymous-913,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-758,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-758,1
+POST,/api/payment/pay/anonymous-341,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-341,1
+GET,/api/cart/update/anonymous-567/EPE/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-567/EPE/2,1
+POST,/api/payment/pay/anonymous-95,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-95,2
+POST,/api/shipping/confirm/anonymous-363,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-363,1
+POST,/api/payment/pay/anonymous-38,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-38,2
+POST,/api/payment/pay/anonymous-333,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-333,2
+POST,/api/shipping/confirm/anonymous-589,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-589,1
+GET,/api/cart/update/anonymous-531/RMC/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-531/RMC/2,1
+POST,/api/payment/pay/anonymous-802,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-802,1
+GET,/api/cart/cart/anonymous-567,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-344,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-344,1
+POST,/api/payment/pay/anonymous-278,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-278,2
+GET,/api/ratings/api/fetch/STAN-1,Remote end closed connection without response,15
+POST,/api/payment/pay/anonymous-153,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-153,2
+GET,/api/ratings/api/fetch/SHCE,Remote end closed connection without response,16
+GET,/api/cart/update/anonymous-442/HPTD/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-442/HPTD/2,1
+POST,/api/payment/pay/anonymous-5,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-5,1
+POST,/api/payment/pay/anonymous-190,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-258,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-258,1
+GET,/api/cart/update/anonymous-483/Watson/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-723/UHJ/1,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-768,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-768,1
+POST,/api/shipping/confirm/anonymous-187,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-303,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-303,2
+POST,/api/shipping/confirm/anonymous-544,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-414/Watson/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-414/Watson/2,1
+POST,/api/payment/pay/anonymous-199,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-199,2
+GET,/api/cart/add/anonymous-966/EPE/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-262,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-262,1
+POST,/api/payment/pay/anonymous-132,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-132,1
+GET,/api/cart/update/anonymous-957/UHJ/2,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-752,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-752,1
+GET,/api/cart/update/anonymous-536/STAN-1/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-187,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-229,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-229,2
+POST,/api/payment/pay/anonymous-317,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-317,2
+GET,/api/shipping/calc/3759512,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-282,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-282,1
+POST,/api/payment/pay/anonymous-57,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-57,2
+GET,/api/cart/add/anonymous-637/STAN-1/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-580/UHJ/2,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-889,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-843/EMM/1,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-769,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-769,1
+GET,/api/cart/update/anonymous-672/SHCE/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-672/SHCE/2,1
+GET,/api/cart/add/anonymous-633/Watson/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-761,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/cart/anonymous-761,1
+POST,/api/shipping/confirm/anonymous-375,Remote end closed connection without response,1
+GET,/api/shipping/calc/3205158,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-700,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-700,1
+POST,/api/payment/pay/anonymous-247,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-247,2
+GET,/api/cart/add/anonymous-480/EPE/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-552/EPE/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-298,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-298,2
+POST,/api/payment/pay/anonymous-123,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-123,2
+GET,/api/shipping/cities/es,Remote end closed connection without response,2
+POST,/api/payment/pay/anonymous-330,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-330,2
+POST,/api/payment/pay/anonymous-104,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-104,1
+GET,/api/cart/add/anonymous-602/EMM/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-678,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-678,1
+POST,/api/payment/pay/anonymous-87,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-87,2
+POST,/api/payment/pay/anonymous-67,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-67,2
+POST,/api/payment/pay/anonymous-305,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-305,1
+POST,/api/payment/pay/anonymous-320,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-320,1
+GET,/api/cart/update/anonymous-933/EMM/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-933/EMM/2,1
+GET,/api/cart/update/anonymous-517/EMM/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-323,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-323,2
+GET,/api/shipping/cities/pt,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-685,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-685,1
+POST,/api/payment/pay/anonymous-381,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-381,1
+POST,/api/payment/pay/anonymous-685,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-685,1
+POST,/api/payment/pay/anonymous-234,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-234,1
+GET,/api/shipping/calc/5369132,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-729,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-729,1
+GET,/api/cart/add/anonymous-840/SHCE/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-1074,404 Client Error: NOT FOUND for url: http://20.108.175.86/api/payment/pay/anonymous-1074,1
+POST,/api/payment/pay/anonymous-23,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-23,1
+GET,/api/shipping/cities/jp,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-232,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-232,1
+GET,/api/cart/update/anonymous-300/HPTD/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-300/HPTD/2,1
+POST,/api/payment/pay/anonymous-71,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-71,2
+POST,/api/shipping/confirm/anonymous-1048,404 Client Error:  for url: http://20.108.175.86/api/shipping/confirm/anonymous-1048,1
+GET,/api/shipping/codes,Remote end closed connection without response,48
+GET,/api/cart/add/anonymous-946/HPTD/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-927,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-140,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-140,2
+GET,/api/cart/add/anonymous-1013/RED/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-44,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-44,2
+GET,/api/cart/add/anonymous-741/EMM/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-41,429 Client Error: TOO MANY REQUESTS for url: http://20.108.175.86/api/payment/pay/anonymous-41,2
+GET,/api/cart/add/anonymous-741/RMC/1,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-535,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-160,403 Client Error: FORBIDDEN for url: http://20.108.175.86/api/payment/pay/anonymous-160,2
+POST,/api/payment/pay/anonymous-768,500 Server Error: INTERNAL SERVER ERROR for url: http://20.108.175.86/api/payment/pay/anonymous-768,1
+GET,/api/cart/update/anonymous-756/SHCE/2,404 Client Error: Not Found for url: http://20.108.175.86/api/cart/update/anonymous-756/SHCE/2,1
+GET,/api/cart/add/anonymous-296/RMC/1,Remote end closed connection without response,1

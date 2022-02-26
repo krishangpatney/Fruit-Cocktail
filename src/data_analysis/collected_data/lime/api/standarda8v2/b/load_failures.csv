@@ -1,0 +1,760 @@
+Method,Name,Error,Occurrences
+GET,/api/shipping/calc/4592415,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/4592415,1
+PUT,/api/ratings/api/rate/SHCE/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-1051/EMM/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-898,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/cart/anonymous-898,1
+POST,/api/shipping/confirm/anonymous-516,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-219,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-219,1
+GET,/api/shipping/calc/5087564,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/5087564,1
+GET,/api/cart/cart/anonymous-1174,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/cart/anonymous-1174,1
+GET,/api/cart/add/anonymous-786/RMC/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/3952570,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3952570,1
+GET,/api/shipping/calc/3982849,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3982849,1
+GET,/api/catalogue/product/Watson,Remote end closed connection without response,7
+POST,/api/payment/pay/anonymous-183,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-183,1
+POST,/api/payment/pay/anonymous-838,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.152.234/api/payment/pay/anonymous-838,1
+GET,/api/shipping/calc/3194184,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3194184,1
+GET,/api/cart/update/anonymous-473/EMM/2,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-527/Watson/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-527/Watson/2,1
+POST,/api/shipping/confirm/anonymous-395,404 Client Error:  for url: http://20.90.152.234/api/shipping/confirm/anonymous-395,1
+GET,/api/shipping/calc/3850740,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3850740,1
+POST,/api/payment/pay/anonymous-86,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-86,1
+POST,/api/shipping/confirm/anonymous-766,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/confirm/anonymous-766,1
+GET,/api/shipping/calc/3832374,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3832374,1
+GET,/api/cart/cart/anonymous-837,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-91,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-91,1
+POST,/api/payment/pay/anonymous-77,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-77,1
+GET,/api/shipping/cities/fr,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/cities/fr,5
+GET,/api/cart/add/anonymous-589/HPTD/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/4593953,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/4593953,1
+GET,/api/cart/add/anonymous-1055/HPTD/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-560/SHCE/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-1049/SHCE/1,Remote end closed connection without response,1
+GET,/api/shipping/cities/in,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/cities/in,6
+POST,/api/payment/pay/anonymous-72,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-72,1
+POST,/api/payment/pay/anonymous-57,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-57,1
+POST,/api/payment/pay/anonymous-518,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.152.234/api/payment/pay/anonymous-518,1
+GET,/api/cart/update/anonymous-836/RMC/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-332,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-332,1
+GET,/api/cart/cart/anonymous-602,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/cart/anonymous-602,1
+GET,/api/cart/add/anonymous-822/SHCE/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-942/STAN-1/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-574/UHJ/1,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-506,404 Client Error:  for url: http://20.90.152.234/api/shipping/confirm/anonymous-506,1
+GET,/api/cart/add/anonymous-699/UHJ/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-506,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.152.234/api/payment/pay/anonymous-506,1
+GET,/api/cart/cart/anonymous-915,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/cart/anonymous-915,1
+POST,/api/payment/pay/anonymous-35,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-35,1
+GET,/api/cart/add/anonymous-993/HPTD/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-574/RMC/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-574/RMC/2,1
+GET,/api/shipping/calc/5836457,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/5836457,1
+GET,/api/cart/update/anonymous-451/HPTD/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-704/RMC/1,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-407,Remote end closed connection without response,1
+GET,/api/shipping/calc/4012251,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-848/EMM/2,Remote end closed connection without response,1
+GET,/api/shipping/calc/4579047,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/4579047,1
+GET,/api/cart/update/anonymous-847/RMC/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-847/RMC/2,1
+GET,/api/cart/update/anonymous-941/EPE/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-941/EPE/2,1
+GET,/api/catalogue/product/SHCE,Remote end closed connection without response,17
+POST,/api/payment/pay/anonymous-156,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-156,1
+GET,/api/shipping/calc/5849749,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-395,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.152.234/api/payment/pay/anonymous-395,1
+GET,/api/cart/update/anonymous-688/EPE/2,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-905/UHJ/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-905/UHJ/2,1
+GET,/api/cart/add/anonymous-1070/EMM/1,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-636,404 Client Error:  for url: http://20.90.152.234/api/shipping/confirm/anonymous-636,1
+GET,/api/cart/update/anonymous-414/STAN-1/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-414/STAN-1/2,1
+POST,/api/payment/pay/anonymous-198,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-198,1
+POST,/api/payment/pay/anonymous-199,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-199,1
+GET,/api/shipping/calc/3950124,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3950124,1
+GET,/api/cart/add/anonymous-574/HPTD/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-400,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.152.234/api/payment/pay/anonymous-400,1
+POST,/api/payment/pay/anonymous-303,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-303,1
+GET,/api/cart/cart/anonymous-628,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/cart/anonymous-628,1
+POST,/api/payment/pay/anonymous-50,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-50,1
+GET,/api/cart/add/anonymous-637/HPTD/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-55,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-55,1
+GET,/api/cart/update/anonymous-766/EMM/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-766/EMM/2,1
+POST,/api/payment/pay/anonymous-320,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-320,1
+POST,/api/payment/pay/anonymous-211,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-211,1
+GET,/api/cart/add/anonymous-625/SHCE/1,Remote end closed connection without response,2
+PUT,/api/ratings/api/rate/EPE/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-937/EMM/1,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/HPTD/4,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-836,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/confirm/anonymous-836,1
+GET,/api/cart/update/anonymous-697/SHCE/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-697/SHCE/2,1
+GET,/api/shipping/calc/5349909,Remote end closed connection without response,1
+GET,/api/shipping/calc/3296382,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3296382,1
+POST,/api/payment/pay/anonymous-278,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-278,1
+GET,/api/shipping/calc/3305843,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3305843,1
+PUT,/api/ratings/api/rate/STAN-1/4,Remote end closed connection without response,1
+GET,/,Remote end closed connection without response,64
+GET,/api/cart/add/anonymous-1129/UHJ/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-898/STAN-1/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-172,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-172,1
+GET,/api/shipping/calc/3195291,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3195291,1
+GET,/api/shipping/calc/3398303,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3398303,1
+GET,/api/cart/add/anonymous-749/HPTD/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/3399744,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3399744,1
+GET,/api/cart/cart/anonymous-1008,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-991/RED/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-991/RED/2,1
+POST,/api/payment/pay/anonymous-63,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-63,1
+GET,/api/shipping/calc/4559997,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/4559997,1
+POST,/api/shipping/confirm/anonymous-505,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/confirm/anonymous-505,1
+GET,/api/cart/update/anonymous-990/SHCE/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-990/SHCE/2,1
+GET,/api/cart/cart/anonymous-917,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-25,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-25,1
+GET,/api/cart/cart/anonymous-401,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/cart/anonymous-401,1
+GET,/api/catalogue/product/RED,Remote end closed connection without response,8
+GET,/api/shipping/cities/tr,Remote end closed connection without response,1
+GET,/api/shipping/cities/nl,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/cities/nl,3
+GET,/api/shipping/calc/3204153,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3204153,1
+GET,/api/shipping/calc/5990687,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-464,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-851,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/cart/anonymous-851,1
+GET,/api/shipping/calc/5486317,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-666,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/cart/anonymous-666,1
+GET,/api/shipping/cities/ru,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-1163/STAN-1/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-585,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-908/Watson/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-908/Watson/2,1
+GET,/api/shipping/calc/4046127,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/4046127,1
+GET,/api/cart/cart/anonymous-895,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/RMC/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-59,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-59,1
+GET,/api/cart/cart/anonymous-930,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-1074/Watson/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-15,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-15,1
+GET,/api/shipping/cities/tr,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/cities/tr,2
+POST,/api/payment/pay/anonymous-143,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-143,1
+POST,/api/payment/pay/anonymous-53,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-53,1
+PUT,/api/ratings/api/rate/Watson/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-40,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-40,1
+GET,/api/shipping/calc/3186195,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3186195,1
+GET,/api/shipping/calc/4565189,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/4565189,1
+GET,/api/cart/add/anonymous-584/EPE/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-47,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-47,1
+POST,/api/payment/pay/anonymous-147,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-147,1
+GET,/api/shipping/calc/3201482,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3201482,1
+GET,/api/shipping/calc/5357673,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/5357673,1
+GET,/api/cart/cart/anonymous-578,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-338,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-338,1
+GET,/api/cart/cart/anonymous-1094,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-88,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-88,1
+POST,/api/shipping/confirm/anonymous-847,404 Client Error:  for url: http://20.90.152.234/api/shipping/confirm/anonymous-847,1
+GET,/api/cart/cart/anonymous-740,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/cart/anonymous-740,1
+GET,/api/shipping/calc/4177652,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/4177652,1
+POST,/api/payment/pay/anonymous-691,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.152.234/api/payment/pay/anonymous-691,1
+POST,/api/shipping/confirm/anonymous-471,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-443,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.152.234/api/payment/pay/anonymous-443,1
+GET,/api/cart/cart/anonymous-1191,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/cart/anonymous-1191,1
+POST,/api/payment/pay/anonymous-814,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-71,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-71,1
+POST,/api/payment/pay/anonymous-95,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-95,1
+GET,/api/cart/update/anonymous-1013/STAN-1/2,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-363,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/confirm/anonymous-363,1
+GET,/api/cart/add/anonymous-920/STAN-1/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/3956850,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3956850,1
+GET,/api/cart/add/anonymous-628/Watson/1,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-423,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/confirm/anonymous-423,1
+GET,/api/cart/update/anonymous-542/SHCE/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-889/EMM/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-528,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-49,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-49,1
+POST,/api/payment/pay/anonymous-276,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-276,1
+GET,/api/shipping/cities/es,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/cities/es,5
+GET,/api/cart/add/anonymous-1048/EMM/1,Remote end closed connection without response,1
+GET,/api/shipping/cities/us,Remote end closed connection without response,1
+GET,/api/shipping/calc/5819472,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/5819472,1
+POST,/api/payment/pay/anonymous-67,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-67,1
+POST,/api/shipping/confirm/anonymous-818,Remote end closed connection without response,1
+GET,/api/user/uniqueid,Remote end closed connection without response,44
+GET,/api/cart/update/anonymous-713/UHJ/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-713/UHJ/2,1
+GET,/api/cart/add/anonymous-723/STAN-1/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-61,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-61,1
+GET,/api/cart/update/anonymous-993/EMM/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-993/EMM/2,1
+GET,/api/cart/update/anonymous-762/RMC/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-580,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-532/SHCE/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-285,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-285,1
+POST,/api/payment/pay/anonymous-802,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-427/RED/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-170,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-170,1
+GET,/api/cart/cart/anonymous-955,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/cart/anonymous-955,1
+GET,/api/shipping/cities/fi,Remote end closed connection without response,2
+POST,/api/payment/pay/anonymous-42,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-42,1
+GET,/api/cart/add/anonymous-554/RED/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-657/UHJ/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-657/UHJ/2,1
+GET,/api/shipping/calc/4053215,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/4053215,1
+POST,/api/payment/pay/anonymous-280,Remote end closed connection without response,1
+GET,/api/shipping/calc/5428787,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/5428787,1
+POST,/api/payment/pay/anonymous-261,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-261,1
+GET,/api/cart/cart/anonymous-719,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/cart/anonymous-719,1
+POST,/api/shipping/confirm/anonymous-422,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-2,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-2,1
+GET,/api/cart/update/anonymous-629/SHCE/2,Remote end closed connection without response,1
+GET,/api/shipping/calc/4568413,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/4568413,1
+GET,/api/shipping/calc/5431603,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/5431603,1
+GET,/api/cart/cart/anonymous-853,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-691/UHJ/1,Remote end closed connection without response,1
+GET,/api/ratings/api/fetch/Watson,Remote end closed connection without response,7
+GET,/api/cart/cart/anonymous-917,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/cart/anonymous-917,1
+GET,/api/cart/cart/anonymous-1119,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/cart/anonymous-1119,1
+GET,/api/cart/cart/anonymous-665,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/cart/anonymous-665,1
+GET,/api/cart/update/anonymous-551/EMM/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-712/RED/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-9,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-9,1
+GET,/api/cart/add/anonymous-1047/RMC/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-725/RMC/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-839/EPE/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-209,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-209,1
+POST,/api/payment/pay/anonymous-279,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-279,1
+GET,/api/cart/update/anonymous-916/HPTD/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-916/HPTD/2,1
+POST,/api/shipping/confirm/anonymous-838,404 Client Error:  for url: http://20.90.152.234/api/shipping/confirm/anonymous-838,1
+GET,/api/shipping/cities/cz,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/cities/cz,4
+GET,/api/cart/cart/anonymous-409,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-225,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-225,1
+GET,/api/cart/update/anonymous-919/STAN-1/2,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/STAN-1/2,Remote end closed connection without response,1
+GET,/api/shipping/cities/bg,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-799/RMC/2,Remote end closed connection without response,1
+GET,/api/shipping/calc/3839920,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3839920,1
+GET,/api/cart/update/anonymous-736/RMC/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-736/RMC/2,1
+POST,/api/payment/pay/anonymous-792,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-90,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/HPTD/1,Remote end closed connection without response,2
+GET,/api/shipping/calc/4591358,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/4591358,1
+GET,/api/cart/add/anonymous-973/SHCE/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/3301520,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3301520,1
+POST,/api/shipping/confirm/anonymous-1098,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-186,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-186,1
+GET,/api/cart/update/anonymous-456/UHJ/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-286,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-286,1
+GET,/api/cart/add/anonymous-735/EMM/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-845/Watson/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-33,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-33,1
+GET,/api/shipping/calc/3303568,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3303568,1
+GET,/api/shipping/calc/3787010,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3787010,1
+POST,/api/payment/pay/anonymous-1,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-1,1
+POST,/api/payment/pay/anonymous-281,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-281,1
+GET,/api/cart/add/anonymous-935/UHJ/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-130,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-130,1
+GET,/api/shipping/calc/5349753,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/5349753,1
+GET,/api/cart/add/anonymous-702/EPE/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-266,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-266,1
+GET,/api/cart/update/anonymous-965/EPE/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-965/EPE/2,1
+POST,/api/payment/pay/anonymous-152,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-152,1
+GET,/api/cart/cart/anonymous-576,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-200,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-200,1
+GET,/api/shipping/calc/4040916,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/4040916,1
+GET,/api/shipping/calc/4052554,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/4052554,1
+GET,/api/shipping/calc/3209943,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3209943,1
+GET,/api/cart/cart/anonymous-397,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/cart/anonymous-397,1
+POST,/api/payment/pay/anonymous-637,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.152.234/api/payment/pay/anonymous-637,1
+GET,/api/cart/update/anonymous-690/RMC/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-690/RMC/2,1
+GET,/api/shipping/calc/5658513,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/5658513,1
+POST,/api/payment/pay/anonymous-421,404 Client Error: NOT FOUND for url: http://20.90.152.234/api/payment/pay/anonymous-421,1
+GET,/api/shipping/calc/3846550,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-247,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-247,1
+GET,/api/shipping/calc/3973424,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3973424,1
+POST,/api/shipping/confirm/anonymous-406,404 Client Error:  for url: http://20.90.152.234/api/shipping/confirm/anonymous-406,1
+GET,/api/shipping/cities/pt,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/cities/pt,2
+GET,/api/cart/add/anonymous-673/SHCE/1,Remote end closed connection without response,1
+GET,/api/shipping/codes,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/codes,789
+PUT,/api/ratings/api/rate/RED/4,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-83,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-83,1
+POST,/api/payment/pay/anonymous-110,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-110,1
+POST,/api/payment/pay/anonymous-257,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-257,1
+GET,/api/shipping/calc/5353098,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/5353098,1
+GET,/api/cart/add/anonymous-705/RMC/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-269,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-269,1
+GET,/api/cart/add/anonymous-1159/EPE/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-312,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-312,1
+POST,/api/payment/pay/anonymous-218,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-218,1
+POST,/api/payment/pay/anonymous-217,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-217,1
+GET,/api/ratings/api/fetch/UHJ,Remote end closed connection without response,8
+GET,/api/cart/update/anonymous-821/Watson/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-821/Watson/2,1
+POST,/api/payment/pay/anonymous-636,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.152.234/api/payment/pay/anonymous-636,1
+POST,/api/payment/pay/anonymous-210,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-210,1
+GET,/api/cart/add/anonymous-1202/STAN-1/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-1067/Watson/1,Remote end closed connection without response,1
+GET,/api/ratings/api/fetch/HPTD,Remote end closed connection without response,9
+GET,/api/cart/update/anonymous-892/RED/2,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-658,404 Client Error:  for url: http://20.90.152.234/api/shipping/confirm/anonymous-658,1
+POST,/api/payment/pay/anonymous-847,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.152.234/api/payment/pay/anonymous-847,1
+GET,/api/shipping/calc/3996613,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3996613,1
+GET,/api/shipping/calc/3351739,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3351739,1
+GET,/api/shipping/calc/4047577,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/4047577,1
+GET,/api/cart/cart/anonymous-673,Remote end closed connection without response,1
+GET,/api/shipping/cities/gb,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/cities/gb,6
+GET,/api/shipping/cities/ru,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/cities/ru,13
+POST,/api/payment/pay/anonymous-32,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-32,2
+GET,/api/catalogue/product/EPE,Remote end closed connection without response,18
+POST,/api/payment/pay/anonymous-239,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-239,1
+GET,/api/cart/update/anonymous-1059/EPE/2,Remote end closed connection without response,1
+GET,/api/shipping/calc/4589202,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/4589202,1
+POST,/api/payment/pay/anonymous-48,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-48,1
+GET,/api/cart/update/anonymous-586/STAN-1/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-509/RED/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-1180/RED/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-826/Watson/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-826/Watson/2,1
+GET,/api/cart/add/anonymous-901/EMM/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/3786855,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3786855,1
+GET,/api/shipping/calc/3341157,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3341157,1
+POST,/api/payment/pay/anonymous-1009,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-333,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-333,1
+GET,/api/shipping/cities/tr,"('Connection broken: IncompleteRead(9160 bytes read, 1080 more expected)', IncompleteRead(9160 bytes read, 1080 more expected))",1
+POST,/api/payment/pay/anonymous-137,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-137,1
+GET,/api/cart/cart/anonymous-811,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/cart/anonymous-811,1
+GET,/api/shipping/calc/3913778,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3913778,1
+GET,/api/shipping/calc/4378951,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/4378951,1
+POST,/api/payment/pay/anonymous-54,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-54,1
+GET,/api/shipping/calc/4178731,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/4178731,1
+PUT,/api/ratings/api/rate/STAN-1/1,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/UHJ/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-1006/HPTD/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-535/EMM/1,Remote end closed connection without response,1
+GET,/api/shipping/cities/it,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-614,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/cart/anonymous-614,1
+GET,/api/shipping/calc/3440246,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3440246,1
+GET,/api/shipping/calc/3905237,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3905237,1
+GET,/api/shipping/cities/es,"('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))",1
+GET,/api/cart/update/anonymous-929/RED/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-208,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-208,1
+GET,/api/shipping/calc/5656867,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-157,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-157,1
+GET,/api/cart/cart/anonymous-663,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/cart/anonymous-663,1
+GET,/api/cart/update/anonymous-989/EPE/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-989/EPE/2,1
+POST,/api/payment/pay/anonymous-45,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-45,1
+GET,/api/cart/update/anonymous-344/STAN-1/2,Remote end closed connection without response,1
+GET,/api/shipping/calc/3200551,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3200551,1
+POST,/api/payment/pay/anonymous-406,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.152.234/api/payment/pay/anonymous-406,1
+GET,/api/cart/cart/anonymous-759,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-38,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-38,1
+POST,/api/shipping/confirm/anonymous-839,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/confirm/anonymous-839,1
+POST,/api/payment/pay/anonymous-82,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-82,1
+GET,/api/shipping/cities/it,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/cities/it,6
+GET,/api/shipping/calc/4562206,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/4562206,1
+GET,/api/cart/cart/anonymous-1069,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-941/STAN-1/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-1132,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/cart/anonymous-1132,1
+GET,/api/shipping/calc/5348478,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/5348478,1
+POST,/api/payment/pay/anonymous-591,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-1016/UHJ/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-302,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-302,1
+GET,/api/cart/add/anonymous-409/RED/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-504/EPE/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-1185/Watson/1,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-691,404 Client Error:  for url: http://20.90.152.234/api/shipping/confirm/anonymous-691,1
+POST,/api/payment/pay/anonymous-58,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-58,1
+GET,/api/cart/update/anonymous-892/UHJ/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-892/UHJ/2,1
+GET,/api/shipping/calc/3830621,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3830621,1
+GET,/api/cart/update/anonymous-757/HPTD/2,Remote end closed connection without response,1
+GET,/api/shipping/calc/5830042,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/5830042,1
+POST,/api/shipping/confirm/anonymous-400,404 Client Error:  for url: http://20.90.152.234/api/shipping/confirm/anonymous-400,1
+GET,/api/shipping/calc/5084759,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/5084759,1
+GET,/api/shipping/cities/de,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/cities/de,8
+POST,/api/payment/pay/anonymous-658,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.152.234/api/payment/pay/anonymous-658,1
+GET,/api/cart/add/anonymous-566/UHJ/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-881/RED/2,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-425,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-1080,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-932/SHCE/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-703/RED/1,Remote end closed connection without response,1
+GET,/api/shipping/cities/at,Remote end closed connection without response,2
+POST,/api/shipping/confirm/anonymous-517,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/confirm/anonymous-517,1
+GET,/api/cart/cart/anonymous-888,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/cart/anonymous-888,1
+POST,/api/shipping/confirm/anonymous-495,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/STAN-1/5,Remote end closed connection without response,1
+GET,/api/shipping/cities/at,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/cities/at,3
+GET,/api/shipping/calc/4591933,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/4591933,1
+GET,/api/cart/cart/anonymous-694,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-204,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-204,2
+GET,/api/cart/cart/anonymous-777,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/cart/anonymous-777,1
+POST,/api/payment/pay/anonymous-138,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-138,1
+POST,/api/payment/pay/anonymous-224,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-224,1
+GET,/api/shipping/calc/3353187,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3353187,1
+GET,/api/cart/cart/anonymous-579,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-76,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-76,1
+GET,/api/cart/update/anonymous-360/Watson/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-360/Watson/2,1
+POST,/api/shipping/confirm/anonymous-414,404 Client Error:  for url: http://20.90.152.234/api/shipping/confirm/anonymous-414,1
+POST,/api/payment/pay/anonymous-337,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-337,1
+POST,/api/payment/pay/anonymous-56,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-56,1
+GET,/api/shipping/cities/br,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/cities/br,5
+POST,/api/payment/pay/anonymous-206,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-206,1
+POST,/api/payment/pay/anonymous-196,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-196,1
+GET,/api/cart/update/anonymous-413/HPTD/2,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-345/UHJ/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-345/UHJ/2,1
+POST,/api/shipping/confirm/anonymous-507,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/SHCE/4,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/STAN-1/3,Remote end closed connection without response,2
+GET,/api/shipping/calc/3342913,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3342913,1
+GET,/api/cart/cart/anonymous-1090,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/cart/anonymous-1090,1
+POST,/api/payment/pay/anonymous-65,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-65,1
+POST,/api/payment/pay/anonymous-6,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-6,1
+GET,/api/cart/update/anonymous-852/EMM/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-852/EMM/2,1
+POST,/api/payment/pay/anonymous-821,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.152.234/api/payment/pay/anonymous-821,1
+POST,/api/payment/pay/anonymous-272,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-272,1
+GET,/api/cart/update/anonymous-406/RED/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-406/RED/2,1
+GET,/api/shipping/cities/jp,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/cities/jp,4
+GET,/api/cart/update/anonymous-351/SHCE/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-351/SHCE/2,1
+POST,/api/payment/pay/anonymous-81,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-81,1
+GET,/api/cart/cart/anonymous-888,Remote end closed connection without response,1
+GET,/api/shipping/cities/ro,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/cities/ro,2
+GET,/api/cart/add/anonymous-628/UHJ/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-307,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-307,1
+GET,/api/cart/cart/anonymous-426,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/cart/anonymous-426,1
+POST,/api/payment/pay/anonymous-51,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-51,1
+GET,/api/catalogue/categories,Remote end closed connection without response,23
+GET,/api/cart/update/anonymous-914/EPE/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-891/UHJ/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-629/EPE/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-889,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/cart/anonymous-889,1
+GET,/api/cart/update/anonymous-497/SHCE/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-497/SHCE/2,1
+GET,/api/cart/cart/anonymous-1011,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-775,Remote end closed connection without response,1
+GET,/api/catalogue/product/RMC,Remote end closed connection without response,11
+GET,/api/cart/cart/anonymous-1089,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/cart/anonymous-1089,1
+GET,/api/shipping/cities/bg,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/cities/bg,7
+GET,/api/cart/update/anonymous-391/RED/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-323,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-323,1
+POST,/api/payment/pay/anonymous-101,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-101,1
+GET,/api/shipping/calc/3908263,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3908263,1
+GET,/api/shipping/calc/5083021,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/5083021,1
+GET,/api/cart/add/anonymous-1066/RED/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-473,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-46,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-46,1
+POST,/api/shipping/confirm/anonymous-808,Remote end closed connection without response,1
+GET,/api/shipping/cities/hu,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/cities/hu,1
+POST,/api/payment/pay/anonymous-329,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-329,1
+POST,/api/payment/pay/anonymous-306,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-306,1
+GET,/api/cart/add/anonymous-883/SHCE/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-1068/Watson/1,Remote end closed connection without response,1
+GET,/api/ratings/api/fetch/RED,Remote end closed connection without response,11
+POST,/api/payment/pay/anonymous-79,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-79,1
+GET,/api/shipping/cities/no,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/cities/no,3
+GET,/api/cart/add/anonymous-934/RED/1,Remote end closed connection without response,1
+GET,/api/catalogue/product/UHJ,Remote end closed connection without response,9
+GET,/api/shipping/cities/au,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/cities/au,1
+POST,/api/payment/pay/anonymous-75,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-75,1
+POST,/api/payment/pay/anonymous-62,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-62,1
+GET,/api/shipping/cities/in,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-84,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-84,1
+GET,/api/cart/cart/anonymous-860,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-408/EMM/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-519,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.152.234/api/payment/pay/anonymous-519,1
+GET,/api/cart/cart/anonymous-830,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-145,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-145,1
+GET,/api/shipping/cities/se,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/cities/se,3
+POST,/api/payment/pay/anonymous-458,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.152.234/api/payment/pay/anonymous-458,1
+GET,/api/shipping/calc/3206836,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3206836,1
+GET,/api/shipping/cities/ca,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/cities/ca,2
+GET,/api/cart/cart/anonymous-936,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/cart/anonymous-936,1
+GET,/api/shipping/calc/3301961,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3301961,1
+GET,/api/cart/add/anonymous-1173/HPTD/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-105,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-105,1
+POST,/api/shipping/confirm/anonymous-965,404 Client Error:  for url: http://20.90.152.234/api/shipping/confirm/anonymous-965,1
+POST,/api/payment/pay/anonymous-214,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-214,1
+POST,/api/payment/pay/anonymous-80,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-80,1
+POST,/api/payment/pay/anonymous-163,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-163,1
+POST,/api/payment/pay/anonymous-234,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-234,1
+POST,/api/payment/pay/anonymous-207,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-207,1
+GET,/api/shipping/calc/5081138,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/5081138,1
+GET,/api/shipping/calc/5076687,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/5076687,1
+GET,/api/cart/cart/anonymous-484,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-111,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-111,1
+GET,/api/cart/cart/anonymous-1128,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/cart/anonymous-1128,1
+POST,/api/payment/pay/anonymous-64,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-64,1
+POST,/api/payment/pay/anonymous-85,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-85,1
+GET,/api/shipping/calc/4165269,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/4165269,1
+POST,/api/shipping/confirm/anonymous-840,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/confirm/anonymous-840,1
+GET,/api/cart/cart/anonymous-1133,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/cart/anonymous-1133,1
+POST,/api/shipping/confirm/anonymous-461,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/confirm/anonymous-461,1
+GET,/api/cart/update/anonymous-851/RMC/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-851/RMC/2,1
+POST,/api/payment/pay/anonymous-182,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-182,1
+GET,/api/catalogue/products,Remote end closed connection without response,75
+GET,/api/cart/add/anonymous-740/STAN-1/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/4565124,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/4565124,1
+GET,/api/shipping/calc/4564567,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/4564567,1
+GET,/api/cart/update/anonymous-355/SHCE/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-355/SHCE/2,1
+GET,/api/cart/add/anonymous-1049/HPTD/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-290,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-290,1
+GET,/api/cart/add/anonymous-689/EMM/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-487,404 Client Error: NOT FOUND for url: http://20.90.152.234/api/payment/pay/anonymous-487,1
+GET,/api/cart/cart/anonymous-987,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/cart/anonymous-987,1
+POST,/api/shipping/confirm/anonymous-458,404 Client Error:  for url: http://20.90.152.234/api/shipping/confirm/anonymous-458,1
+POST,/api/payment/pay/anonymous-657,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.152.234/api/payment/pay/anonymous-657,1
+GET,/api/catalogue/product/HPTD,Remote end closed connection without response,14
+POST,/api/payment/pay/anonymous-37,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-37,1
+POST,/api/shipping/confirm/anonymous-514,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-195,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-195,1
+POST,/api/shipping/confirm/anonymous-485,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-688,Remote end closed connection without response,1
+GET,/api/shipping/calc/3436800,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3436800,1
+PUT,/api/ratings/api/rate/Watson/5,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-494/EMM/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-494/EMM/2,1
+POST,/api/payment/pay/anonymous-151,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-151,1
+GET,/api/cart/update/anonymous-495/EMM/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-495/EMM/2,1
+GET,/api/cart/update/anonymous-404/EMM/2,Remote end closed connection without response,2
+GET,/api/cart/add/anonymous-601/SHCE/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-34,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-34,1
+GET,/api/shipping/cities/ch,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/cities/ch,2
+POST,/api/user/login,Remote end closed connection without response,55
+POST,/api/payment/pay/anonymous-414,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.152.234/api/payment/pay/anonymous-414,1
+GET,/api/cart/cart/anonymous-729,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-637,404 Client Error:  for url: http://20.90.152.234/api/shipping/confirm/anonymous-637,1
+POST,/api/payment/pay/anonymous-68,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-68,1
+GET,/api/cart/cart/anonymous-1130,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/cart/anonymous-1130,1
+GET,/api/shipping/calc/3368641,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3368641,1
+GET,/api/cart/add/anonymous-711/EPE/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-389/EMM/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-159,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-159,1
+GET,/api/cart/cart/anonymous-550,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-917/UHJ/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/3438707,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-249,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/confirm/anonymous-249,1
+POST,/api/payment/pay/anonymous-1099,404 Client Error: NOT FOUND for url: http://20.90.152.234/api/payment/pay/anonymous-1099,1
+GET,/api/shipping/cities/dk,Remote end closed connection without response,2
+GET,/api/shipping/calc/3922534,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3922534,1
+GET,/api/cart/add/anonymous-499/HPTD/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-255,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-255,1
+POST,/api/payment/pay/anonymous-228,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-228,1
+POST,/api/shipping/confirm/anonymous-236,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/confirm/anonymous-236,1
+GET,/api/cart/add/anonymous-994/EMM/1,Remote end closed connection without response,1
+GET,/api/ratings/api/fetch/RMC,Remote end closed connection without response,8
+POST,/api/shipping/confirm/anonymous-97,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/confirm/anonymous-97,1
+GET,/api/cart/update/anonymous-664/SHCE/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-664/SHCE/2,1
+GET,/api/shipping/calc/3844403,Remote end closed connection without response,1
+GET,/api/shipping/calc/5349606,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/5349606,1
+POST,/api/payment/pay/anonymous-41,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-41,2
+GET,/api/shipping/calc/4569353,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/4569353,1
+GET,/api/shipping/calc/5090825,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/5090825,1
+GET,/api/cart/add/anonymous-971/RED/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-90,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-90,1
+GET,/api/ratings/api/fetch/EPE,Remote end closed connection without response,10
+POST,/api/payment/pay/anonymous-70,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-70,1
+POST,/api/payment/pay/anonymous-167,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-167,1
+GET,/api/cart/add/anonymous-854/Watson/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-173,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-173,1
+GET,/api/shipping/calc/5381629,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-240,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-240,1
+GET,/api/cart/add/anonymous-955/EPE/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/4560166,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/4560166,1
+GET,/api/shipping/calc/3803626,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3803626,1
+GET,/api/cart/add/anonymous-1127/STAN-1/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/3761557,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3761557,1
+GET,/api/shipping/calc/5656194,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/5656194,1
+GET,/api/cart/cart/anonymous-844,Remote end closed connection without response,1
+GET,/api/ratings/api/fetch/EMM,Remote end closed connection without response,12
+GET,/api/cart/add/anonymous-724/RED/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-653,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.152.234/api/payment/pay/anonymous-653,1
+GET,/api/shipping/calc/6016477,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/6016477,1
+GET,/api/shipping/cities/fi,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/cities/fi,7
+POST,/api/payment/pay/anonymous-478,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-691,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-1047/RED/1,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-449,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/confirm/anonymous-449,1
+POST,/api/payment/pay/anonymous-93,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-93,1
+POST,/api/payment/pay/anonymous-216,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-216,1
+GET,/api/shipping/calc/5094855,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/5094855,1
+GET,/api/shipping/calc/3844034,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3844034,1
+POST,/api/payment/pay/anonymous-482,404 Client Error: NOT FOUND for url: http://20.90.152.234/api/payment/pay/anonymous-482,1
+GET,/api/cart/add/anonymous-1088/EMM/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-488,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/cart/anonymous-488,1
+POST,/api/payment/pay/anonymous-43,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-43,2
+GET,/api/shipping/calc/4041896,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/4041896,1
+GET,/api/shipping/calc/3439987,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3439987,1
+GET,/api/cart/update/anonymous-552/UHJ/2,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-935,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/cart/anonymous-935,1
+PUT,/api/ratings/api/rate/RED/3,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-69,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-69,1
+GET,/api/shipping/calc/3370302,Remote end closed connection without response,1
+GET,/api/shipping/calc/3396157,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3396157,1
+GET,/api/cart/cart/anonymous-937,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-931,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-842,404 Client Error: NOT FOUND for url: http://20.90.152.234/api/payment/pay/anonymous-842,1
+GET,/api/cart/add/anonymous-602/UHJ/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-653/STAN-1/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-653/STAN-1/2,1
+POST,/api/payment/pay/anonymous-459,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.152.234/api/payment/pay/anonymous-459,1
+POST,/api/payment/pay/anonymous-304,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-304,1
+GET,/api/cart/update/anonymous-675/EMM/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-675/EMM/2,1
+POST,/api/shipping/confirm/anonymous-158,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/confirm/anonymous-158,1
+GET,/api/cart/update/anonymous-629/STAN-1/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-629/STAN-1/2,1
+GET,/api/cart/add/anonymous-976/STAN-1/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/3962132,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3962132,1
+GET,/api/cart/add/anonymous-642/HPTD/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/3927692,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3927692,1
+GET,/api/catalogue/product/STAN-1,Remote end closed connection without response,9
+PUT,/api/ratings/api/rate/EPE/5,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-87,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-87,1
+GET,/api/shipping/calc/3191723,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3191723,1
+GET,/api/cart/update/anonymous-1152/HPTD/2,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-896,Remote end closed connection without response,1
+GET,/api/shipping/calc/5829579,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/5829579,1
+POST,/api/payment/pay/anonymous-18,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-18,2
+GET,/api/shipping/cities/de,Remote end closed connection without response,2
+GET,/api/cart/update/anonymous-803/EMM/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-1191/UHJ/1,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-693,Remote end closed connection without response,1
+GET,/api/shipping/calc/3949685,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3949685,1
+GET,/api/cart/add/anonymous-933/HPTD/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-988/Watson/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-763,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/cart/anonymous-763,1
+GET,/api/cart/update/anonymous-956/RED/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-956/RED/2,1
+GET,/api/shipping/calc/4560736,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/4560736,1
+POST,/api/payment/pay/anonymous-141,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-141,1
+PUT,/api/ratings/api/rate/HPTD/3,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-263,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-263,1
+POST,/api/shipping/confirm/anonymous-398,404 Client Error:  for url: http://20.90.152.234/api/shipping/confirm/anonymous-398,1
+GET,/api/cart/add/anonymous-567/SHCE/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-907/RMC/1,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-657,404 Client Error:  for url: http://20.90.152.234/api/shipping/confirm/anonymous-657,1
+POST,/api/payment/pay/anonymous-36,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-36,1
+GET,/api/cart/add/anonymous-1098/STAN-1/1,Remote end closed connection without response,1
+GET,/api/shipping/cities/nl,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-316,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-316,1
+GET,/api/cart/update/anonymous-695/RED/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-695/RED/2,1
+GET,/api/cart/cart/anonymous-897,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/cart/anonymous-897,1
+GET,/api/shipping/calc/6035411,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/6035411,1
+GET,/api/shipping/calc/4170842,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/4170842,1
+POST,/api/payment/pay/anonymous-103,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-103,1
+GET,/api/cart/cart/anonymous-596,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-1121,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/cart/anonymous-1121,1
+GET,/api/shipping/cities/dk,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/cities/dk,2
+GET,/api/shipping/cities/ch,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-514,Remote end closed connection without response,1
+GET,/api/shipping/calc/4591701,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/4591701,1
+GET,/api/shipping/cities/gb,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-852/STAN-1/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/4587378,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/4587378,1
+GET,/api/cart/add/anonymous-990/RMC/1,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-744,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-1173,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/cart/anonymous-1173,1
+GET,/api/shipping/calc/5666654,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/5666654,1
+GET,/api/shipping/calc/3751557,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3751557,1
+POST,/api/payment/pay/anonymous-89,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-89,1
+GET,/api/shipping/calc/4169114,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/4169114,1
+GET,/api/shipping/cities/hu,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-958/EPE/1,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/UHJ/5,Remote end closed connection without response,1
+GET,/api/shipping/calc/5080810,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/5080810,1
+POST,/api/payment/pay/anonymous-165,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-165,1
+GET,/api/cart/add/anonymous-1050/STAN-1/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-993,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.152.234/api/payment/pay/anonymous-993,1
+POST,/api/shipping/confirm/anonymous-519,404 Client Error:  for url: http://20.90.152.234/api/shipping/confirm/anonymous-519,1
+GET,/api/cart/update/anonymous-922/RMC/2,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-836/STAN-1/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-836/STAN-1/2,1
+GET,/api/cart/cart/anonymous-931,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-743,404 Client Error:  for url: http://20.90.152.234/api/shipping/confirm/anonymous-743,1
+POST,/api/payment/pay/anonymous-44,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-44,1
+GET,/api/shipping/calc/4040192,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/4040192,1
+POST,/api/payment/pay/anonymous-39,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-39,2
+GET,/api/shipping/calc/3309290,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3309290,1
+GET,/api/shipping/calc/4567945,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/4567945,1
+GET,/api/cart/cart/anonymous-593,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/cart/anonymous-593,1
+GET,/api/cart/update/anonymous-840/EPE/2,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-887,Remote end closed connection without response,1
+GET,/api/shipping/calc/4036650,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/4036650,1
+POST,/api/payment/pay/anonymous-60,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-60,1
+GET,/api/shipping/calc/5506892,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/5506892,1
+POST,/api/shipping/confirm/anonymous-558,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/confirm/anonymous-558,1
+GET,/api/catalogue/product/EMM,Remote end closed connection without response,12
+GET,/api/cart/cart/anonymous-794,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-838/Watson/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-838/Watson/2,1
+POST,/api/payment/pay/anonymous-759,Remote end closed connection without response,1
+GET,/api/shipping/calc/3300212,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3300212,1
+GET,/api/cart/cart/anonymous-722,Remote end closed connection without response,1
+GET,/api/shipping/calc/3399925,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-905,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/cart/anonymous-905,1
+GET,/api/cart/cart/anonymous-938,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-973/Watson/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-322,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-322,1
+GET,/api/cart/add/anonymous-1104/RMC/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/3188650,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-1114/UHJ/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-1114/UHJ/2,1
+GET,/api/shipping/calc/3824085,Remote end closed connection without response,1
+GET,/api/shipping/calc/4040426,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/4040426,1
+POST,/api/payment/pay/anonymous-74,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-74,1
+POST,/api/payment/pay/anonymous-231,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-231,1
+GET,/api/cart/add/anonymous-1056/RED/1,Remote end closed connection without response,1
+GET,/api/shipping/cities/us,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/cities/us,6
+POST,/api/payment/pay/anonymous-465,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.152.234/api/payment/pay/anonymous-465,1
+GET,/api/shipping/cities/tr,"('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))",1
+POST,/api/payment/pay/anonymous-743,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.152.234/api/payment/pay/anonymous-743,1
+GET,/api/cart/update/anonymous-704/UHJ/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-704/UHJ/2,1
+GET,/api/shipping/calc/4175123,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/4175123,1
+GET,/api/shipping/cities/us,"('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))",1
+GET,/api/cart/cart/anonymous-910,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-66,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-66,1
+POST,/api/payment/pay/anonymous-202,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-202,1
+GET,/api/cart/update/anonymous-418/STAN-1/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-418/STAN-1/2,1
+GET,/api/shipping/calc/4170862,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/4170862,1
+POST,/api/shipping/confirm/anonymous-518,404 Client Error:  for url: http://20.90.152.234/api/shipping/confirm/anonymous-518,1
+GET,/api/shipping/calc/5357059,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/5357059,1
+GET,/api/cart/update/anonymous-584/HPTD/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-584/HPTD/2,1
+GET,/api/cart/cart/anonymous-968,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/cart/anonymous-968,1
+GET,/api/shipping/calc/4168885,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/4168885,1
+GET,/api/cart/add/anonymous-935/HPTD/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-78,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-78,1
+POST,/api/payment/pay/anonymous-96,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-96,1
+POST,/api/payment/pay/anonymous-30,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-30,1
+POST,/api/shipping/confirm/anonymous-516,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/confirm/anonymous-516,1
+GET,/api/cart/add/anonymous-636/SHCE/1,Remote end closed connection without response,1
+GET,/api/ratings/api/fetch/STAN-1,Remote end closed connection without response,12
+POST,/api/payment/pay/anonymous-398,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.152.234/api/payment/pay/anonymous-398,1
+POST,/api/payment/pay/anonymous-273,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-273,1
+POST,/api/shipping/confirm/anonymous-402,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/confirm/anonymous-402,1
+GET,/api/ratings/api/fetch/SHCE,Remote end closed connection without response,9
+POST,/api/shipping/confirm/anonymous-443,404 Client Error:  for url: http://20.90.152.234/api/shipping/confirm/anonymous-443,1
+GET,/api/cart/add/anonymous-588/Watson/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-73,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-73,1
+GET,/api/shipping/calc/5374584,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/5374584,1
+POST,/api/shipping/confirm/anonymous-459,404 Client Error:  for url: http://20.90.152.234/api/shipping/confirm/anonymous-459,1
+POST,/api/shipping/confirm/anonymous-993,404 Client Error:  for url: http://20.90.152.234/api/shipping/confirm/anonymous-993,1
+GET,/api/shipping/calc/6046386,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/6046386,1
+GET,/api/shipping/calc/3962877,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3962877,1
+GET,/api/cart/add/anonymous-1194/EMM/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-457/RMC/2,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-400,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/cart/anonymous-400,1
+GET,/api/shipping/calc/5094958,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/5094958,1
+GET,/api/cart/update/anonymous-875/EPE/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-875/EPE/2,1
+POST,/api/payment/pay/anonymous-256,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-256,1
+POST,/api/payment/pay/anonymous-283,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-283,1
+GET,/api/cart/update/anonymous-443/Watson/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-443/Watson/2,1
+GET,/api/cart/add/anonymous-728/RMC/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-886,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-406/EMM/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-1129,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/cart/anonymous-1129,1
+POST,/api/payment/pay/anonymous-314,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-314,1
+GET,/api/shipping/calc/5847089,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/5847089,1
+GET,/api/shipping/cities/es,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-463/RED/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-463/RED/2,1
+POST,/api/shipping/confirm/anonymous-875,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/confirm/anonymous-875,1
+GET,/api/cart/update/anonymous-711/HPTD/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-711/HPTD/2,1
+POST,/api/payment/pay/anonymous-222,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-222,2
+POST,/api/payment/pay/anonymous-965,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.152.234/api/payment/pay/anonymous-965,1
+GET,/api/cart/update/anonymous-772/EPE/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-772/EPE/2,1
+POST,/api/shipping/confirm/anonymous-821,404 Client Error:  for url: http://20.90.152.234/api/shipping/confirm/anonymous-821,1
+GET,/api/cart/update/anonymous-616/UHJ/2,404 Client Error: Not Found for url: http://20.90.152.234/api/cart/update/anonymous-616/UHJ/2,1
+GET,/api/cart/add/anonymous-1116/EPE/1,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-653,404 Client Error:  for url: http://20.90.152.234/api/shipping/confirm/anonymous-653,1
+GET,/api/shipping/cities/pt,Remote end closed connection without response,2
+POST,/api/payment/pay/anonymous-94,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-94,1
+GET,/api/cart/add/anonymous-915/RMC/1,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/EMM/5,Remote end closed connection without response,2
+GET,/api/shipping/calc/3803304,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3803304,1
+GET,/api/shipping/calc/3371757,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3371757,1
+GET,/api/cart/add/anonymous-1172/STAN-1/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/4379525,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/4379525,1
+PUT,/api/ratings/api/rate/UHJ/3,Remote end closed connection without response,1
+GET,/api/shipping/codes,Remote end closed connection without response,35
+GET,/api/cart/add/anonymous-1193/Watson/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-1086/RMC/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-175,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-175,1
+GET,/api/shipping/calc/3753894,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3753894,1
+GET,/api/shipping/calc/3397197,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/3397197,1
+POST,/api/shipping/confirm/anonymous-465,404 Client Error:  for url: http://20.90.152.234/api/shipping/confirm/anonymous-465,1
+POST,/api/payment/pay/anonymous-52,429 Client Error: TOO MANY REQUESTS for url: http://20.90.152.234/api/payment/pay/anonymous-52,1
+GET,/api/cart/update/anonymous-520/Watson/2,Remote end closed connection without response,1
+GET,/api/shipping/calc/4174602,504 Server Error: Gateway Time-out for url: http://20.90.152.234/api/shipping/calc/4174602,1

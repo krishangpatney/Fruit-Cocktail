@@ -16,7 +16,7 @@ def save_blob(local_path,file_name,file_content):
 try:
     # init variables
     # connect_str = os.getenv('AZURE_STORAGE_ CONNECTION_STRING')
-    connect_str = "DefaultEndpointsProtocol=https;AccountName=krishangsmetrics;AccountKey=VdN1SY40ie95cfQAY8wTr70fOz8oEZaM8pj50KPgbW/P1gWODMF3u7F/z4+B93bwc4fhU/SedaJktWzi7SYRAQ==;EndpointSuffix=core.windows.net"
+    connect_str = "DefaultEndpointsProtocol=https;AccountName=krishangsmetrics;AccountKey=YhioXARcAYLN2/NQl4Rd4vzqhnWOICqoGxXdHl/RmfLCoDQZtm7+7TY8SmBUmwoBQTbSqT9d/UXhQNKlQG5LIA==;EndpointSuffix=core.windows.net"
 
     # Create the BlobServiceClient object which will be used to create a container client
     blob_service_client = BlobServiceClient.from_connection_string(connect_str)
@@ -27,7 +27,7 @@ try:
         blobs = container.list_blobs()
         print(c.name)
         split_names = (c.name).split("-")
-        if split_names[0] not in ["pineapple", "watermelon"]:
+        if split_names[0] not in ["pineapple", "watermelon", "orange"]:
             parent_diretory = f"./collected_data/{split_names[0]}"
             if not os.path.isdir(parent_diretory):
                 os.mkdir(parent_diretory, 0o777)
