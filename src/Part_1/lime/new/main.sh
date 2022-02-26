@@ -4,7 +4,7 @@
 while read -r machine || [ -n "$machine" ]; do
   echo $machine
 
-  # run stagings with added variables 
+  run stagings with added variables 
   echo "Staging"
   cd staging    
     terraform init 
@@ -21,7 +21,7 @@ while read -r machine || [ -n "$machine" ]; do
     az monitor autoscale create --resource-group krishangs_resource --resource $scaling_target --resource-type Microsoft.Compute/virtualMachineScaleSets --name $scaling_name --min-count 2 --max-count 4 --count 2
     az monitor autoscale rule create --resource-group krishangs_resource --autoscale-name $scaling_name  --condition "Percentage CPU > 75 avg 5m" --scale out 1
   done < "./artifacts/units.txt"
-  sleep 5
+  sleep 5m
   echo "Testing"
   #run testing with added variables 
   cd testing
@@ -34,6 +34,7 @@ while read -r machine || [ -n "$machine" ]; do
 
   echo "Metric Collection"
   cd "./artifacts/"
+
 
   while read -r line || [ -n "$line" ]; do
     mkdir -p "$machine/$line"

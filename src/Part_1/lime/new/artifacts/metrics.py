@@ -9,7 +9,7 @@ def get_metric(resource_id, client, name):
     metrics = []
 
     today = datetime.datetime.now()
-    past_hour = today - datetime.timedelta(hours=1)
+    past_hour = today - datetime.timedelta(hours=2)
 
     metrics_data = client.metrics.list(
         resource_id,
