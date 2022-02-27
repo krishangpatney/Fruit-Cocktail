@@ -1,0 +1,43 @@
+#cloud-config  
+packages:
+  - nginx
+  - curl 
+  - git
+  - apt-transport-https
+  - ca-certificates
+  - curl
+  - gnupg-agent
+write_files:
+  - owner: www-data:www-data
+    path: /etc/nginx/sites-available/default
+    content: |
+      server {
+        # Listens on port 60
+        listen 60;
+        # For all URLs on port 8080,
+        location / {
+            # Send them to port 8080
+            proxy_pass http://localhost:8080;
+            # Add some headers
+            proxy_set_header Host $host;
+            }
+      }   
+runcmd:
+  - curl -fsSL https://download.docker.com/linux/ubuntu/gpg | apt-key add -
+  - add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
+  - apt-get update -y
+  - apt-get install -y docker-ce docker-ce-cli containerd.io
+  - systemctl start docker
+  - systemctl enable docker
+  - curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+  - chmod +x /usr/local/bin/docker-compose
+  - apt install -y python3.6 python3-pip libssl-dev libz-dev luarocks 
+  - python3 -m pip install asyncio
+  - python3 -m pip install aiohttp
+  - luarocks install luasocket
+  - cd /home/
+  - git clone https://github.com/delimitrou/DeathStarBench.git
+  - cd DeathStarBench/socialNetwork/
+  - docker-compose up -d 
+  - python3 ./scripts/init_social_graph.py --graph=socfb-Reed98
+  - systemctl restart nginx
