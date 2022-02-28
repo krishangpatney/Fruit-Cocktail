@@ -30,7 +30,6 @@ sudo ./wrk -D exp -t2 -c1000 -d60m -R2000 --latency -L -s scripts/hotel-reservat
 sleep 65m
 cd ../../../
 
-cd ../../../
 # # run blobs.py to pst to blob
 python3 blobs.py $unit_name $machine_name
 

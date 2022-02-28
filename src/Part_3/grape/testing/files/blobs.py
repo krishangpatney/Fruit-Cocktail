@@ -11,7 +11,7 @@ try:
     # init variables
     # connect_str = os.getenv('AZURE_STORAGE_CONNECTION_STRING')
     connect_str = "DefaultEndpointsProtocol=https;AccountName=krishangsmetrics;AccountKey=YhioXARcAYLN2/NQl4Rd4vzqhnWOICqoGxXdHl/RmfLCoDQZtm7+7TY8SmBUmwoBQTbSqT9d/UXhQNKlQG5LIA==;EndpointSuffix=core.windows.net"
-    cocktail_mix = "mango"
+    cocktail_mix = "grape"
     unit = str(sys.argv[1])
     machine_name = str(sys.argv[2]).replace("_", "")
     # Quick start code goes here

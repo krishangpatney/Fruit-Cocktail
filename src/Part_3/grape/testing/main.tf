@@ -23,8 +23,7 @@ variable "target_machine" {
 
 module "main" {
   source = "../modules/services/load"
-
-
+  
   for_each = local.a_map
 
   unit_name = tostring(each.key)
