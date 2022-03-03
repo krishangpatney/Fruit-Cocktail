@@ -220,11 +220,37 @@
 * *1 Hours* Writing - Dissertation 
 
 ### 24 Dec 2021 
-* *3 Hours* Finalizing Pineapple script for running tests. 
+* *3 Hours* Finalizing Pineapple Application script for running tests. 
 
 ## Week 16
 
 ### 28 Dec 2021
 * *10 Hours* Running scripts and monitoring hourly. 
+
+### 29 Dec 2021
+* *5 Hours* Worked on modifying the pineapple script, and optimising kinks. 
+
+### 30 Dec 2021
+* *3 Hours* Worked on load generator scripts for pineapple. 
+
+### 1 Jan 2022 
+* *3 Hours* Worked on adding load generator scripts to the cloud for pineapple. 
+
+## Week 17 
+
+### 2 Jan 2022
+* *5 Hours* Data Analysis Scripts on Test Data from Pineapple.
+
+### 4 Jan 2022 
+* *5 Hours* Working on VMSS Machines. 
+
+### 5 Jan 2022 
+* *4 Hours* Working on VMSS Machine Metrics. 
+
+### 7 Jan 2022 
+* *3 Hours* Working on VMSS Machine Deployments.
+
+
+
 
 
