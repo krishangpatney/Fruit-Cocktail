@@ -1,7 +1,0 @@
-Method,Name,Error,Occurrences
-GET,/api/user/uniqueid,[Errno 110] Connection timed out,1283
-GET,/,[Errno 111] Connection refused,2127
-POST,/api/user/login,[Errno 111] Connection refused,2009
-POST,/api/user/login,[Errno 110] Connection timed out,1321
-GET,/,[Errno 110] Connection timed out,1401
-GET,/api/user/uniqueid,[Errno 111] Connection refused,1923

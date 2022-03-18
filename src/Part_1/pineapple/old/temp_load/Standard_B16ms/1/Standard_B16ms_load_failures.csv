@@ -1,4 +1,0 @@
-Method,Name,Error,Occurrences
-GET,/,[Errno 111] Connection refused,21619
-POST,/api/user/login,[Errno 111] Connection refused,21482
-GET,/api/user/uniqueid,[Errno 111] Connection refused,21346
