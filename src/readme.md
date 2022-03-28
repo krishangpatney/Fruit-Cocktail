@@ -1,9 +1,7 @@
 # Readme
 
-Put a brief description of your code here. This should at least describe the file structure.
 
-There are 3 parts within this folder, each consists of two different directories, run a specific deployment pattern, 
-The data_analysis direrctory has the collected data, aswell as the jupyter notebooks for each fruit, refer the dissertation for more details, these store graphic visualizations for the collected data. 
+There are 3 parts within this folder, each consists of two different directories, run a specific deployment pattern. The data_analysis direrctory has the collected data, aswell as the jupyter notebooks for each fruit, refer the dissertation for more details, these store graphic visualizations for the collected data. 
 
 
 ## Build instructions
