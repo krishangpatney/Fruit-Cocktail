@@ -2,6 +2,10 @@
 
 Put a brief description of your code here. This should at least describe the file structure.
 
+There are 3 parts within this folder, each consists of two different directories, run a specific deployment pattern, 
+The data_analysis direrctory has the collected data, aswell as the jupyter notebooks for each fruit, refer the dissertation for more details, these store graphic visualizations for the collected data. 
+
+
 ## Build instructions
 
 **You must** include the instructions necessary to build and deploy this project successfully. If appropriate, also include 
@@ -9,33 +13,14 @@ instructions to run automated tests.
 
 ### Requirements
 
-List the all of the pre-requisites software required to set up your project (e.g. compilers, packages, libraries, OS, hardware)
-
-For example:
-
-* Python 3.7
-* Packages: listed in `requirements.txt` 
-* Tested on Windows 10
-
-or another example:
-
-* Requires Raspberry Pi 3 
-* a Linux host machine with the `arm-none-eabi` toolchain (at least version `x.xx`) installed
-* a working LuaJIT installation > 2.1.0
+* A valid Azure Cloud Subscription. 
+* A Linux host machine with the Terraform and Azure CLI installed and configured. 
+* A machine with Jupyter Notebooks installed. 
 
 ### Build steps
+There is no need to build Terraform code, in some cases you may have to give permissions to the *.sh files. 
 
-List the steps required to build software. 
+To run the code, you will have to go within .tfvar files and change subscription ID's and also tokens for files where cloud storage is required. 
+You can simply run the bash file once the file's have been configured. 
 
-Hopefully something simple like `pip install -e .` or `make` or `cd build; cmake ..`. In
-some cases you may have much more involved setup required.
-
-### Test steps
-
-List steps needed to show your software works. This might be running a test suite, or just starting the program; but something that could be used to verify your code is working correctly.
-
-Examples:
-
-* Run automated tests by running `pytest`
-* Start the software by running `bin/editor.exe` and opening the file `examples/example_01.bin`
 
