@@ -1,0 +1,269 @@
+Method,Name,Error,Occurrences
+GET,/api/shipping/cities/fi,504 Server Error: Gateway Time-out for url: http://20.117.158.208/api/shipping/cities/fi,7
+GET,/api/catalogue/product/Watson,Remote end closed connection without response,4
+GET,/api/cart/update/anonymous-943/UHJ/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-1175/Watson/1,Remote end closed connection without response,1
+GET,/api/shipping/cities/pt,504 Server Error: Gateway Time-out for url: http://20.117.158.208/api/shipping/cities/pt,3
+POST,/api/payment/pay/anonymous-85,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-85,1
+GET,/api/cart/add/anonymous-950/HPTD/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-96,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-96,1
+POST,/api/payment/pay/anonymous-77,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-77,1
+POST,/api/payment/pay/anonymous-392,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-392,1
+POST,/api/payment/pay/anonymous-40,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-40,1
+POST,/api/payment/pay/anonymous-475,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-475,1
+GET,/api/shipping/cities/fi,"(""Connection broken: ConnectionResetError(104, 'Connection reset by peer')"", ConnectionResetError(104, 'Connection reset by peer'))",1
+GET,/api/catalogue/product/SHCE,Remote end closed connection without response,3
+POST,/api/payment/pay/anonymous-470,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-470,1
+POST,/api/payment/pay/anonymous-88,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-88,1
+POST,/api/payment/pay/anonymous-97,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-97,1
+POST,/api/payment/pay/anonymous-50,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-50,1
+GET,/api/shipping/cities/no,504 Server Error: Gateway Time-out for url: http://20.117.158.208/api/shipping/cities/no,4
+GET,/api/cart/add/anonymous-924/UHJ/1,Remote end closed connection without response,1
+GET,/api/shipping/cities/in,504 Server Error: Gateway Time-out for url: http://20.117.158.208/api/shipping/cities/in,11
+POST,/api/payment/pay/anonymous-341,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-341,1
+GET,/api/shipping/calc/3357737,504 Server Error: Gateway Time-out for url: http://20.117.158.208/api/shipping/calc/3357737,1
+POST,/api/payment/pay/anonymous-84,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-84,1
+POST,/api/payment/pay/anonymous-31,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-31,1
+POST,/api/payment/pay/anonymous-62,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-62,1
+GET,/api/cart/cart/anonymous-736,Remote end closed connection without response,1
+GET,/,Remote end closed connection without response,1
+GET,/api/shipping/cities/bg,504 Server Error: Gateway Time-out for url: http://20.117.158.208/api/shipping/cities/bg,4
+GET,/api/shipping/cities/dk,504 Server Error: Gateway Time-out for url: http://20.117.158.208/api/shipping/cities/dk,7
+GET,/api/cart/cart/anonymous-658,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-67,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-67,1
+POST,/api/payment/pay/anonymous-51,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-51,1
+POST,/api/payment/pay/anonymous-60,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-60,1
+GET,/api/catalogue/product/RED,Remote end closed connection without response,1
+GET,/api/shipping/cities/tr,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-89,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-89,1
+POST,/api/payment/pay/anonymous-358,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-358,1
+GET,/api/cart/add/anonymous-959/EPE/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-272,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-272,1
+POST,/api/payment/pay/anonymous-103,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-103,1
+POST,/api/payment/pay/anonymous-128,500 Server Error: INTERNAL SERVER ERROR for url: http://20.117.158.208/api/payment/pay/anonymous-128,1
+POST,/api/payment/pay/anonymous-35,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-35,1
+POST,/api/payment/pay/anonymous-418,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-418,1
+POST,/api/payment/pay/anonymous-212,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-212,1
+GET,/api/cart/cart/anonymous-735,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-329,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-329,1
+POST,/api/payment/pay/anonymous-491,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-491,1
+PUT,/api/ratings/api/rate/RED/5,Remote end closed connection without response,1
+GET,/api/shipping/calc/5377014,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-209,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-209,1
+POST,/api/payment/pay/anonymous-99,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-99,1
+GET,/api/shipping/cities/us,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-87,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-87,1
+POST,/api/payment/pay/anonymous-224,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-224,1
+GET,/api/user/uniqueid,Remote end closed connection without response,18
+POST,/api/shipping/confirm/anonymous-128,404 Client Error:  for url: http://20.117.158.208/api/shipping/confirm/anonymous-128,1
+POST,/api/payment/pay/anonymous-376,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-376,1
+PUT,/api/ratings/api/rate/UHJ/4,Remote end closed connection without response,1
+GET,/api/shipping/cities/hu,504 Server Error: Gateway Time-out for url: http://20.117.158.208/api/shipping/cities/hu,5
+POST,/api/payment/pay/anonymous-91,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-91,1
+GET,/api/shipping/cities/fi,Remote end closed connection without response,2
+POST,/api/payment/pay/anonymous-413,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-413,1
+POST,/api/payment/pay/anonymous-397,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-397,1
+POST,/api/payment/pay/anonymous-53,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-53,1
+GET,/api/cart/update/anonymous-868/EPE/2,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-1028,Remote end closed connection without response,1
+GET,/api/ratings/api/fetch/Watson,Remote end closed connection without response,1
+GET,/api/shipping/cities/fr,504 Server Error: Gateway Time-out for url: http://20.117.158.208/api/shipping/cities/fr,6
+POST,/api/payment/pay/anonymous-459,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-459,1
+GET,/api/shipping/cities/cz,"(""Connection broken: ConnectionResetError(104, 'Connection reset by peer')"", ConnectionResetError(104, 'Connection reset by peer'))",1
+POST,/api/payment/pay/anonymous-98,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-98,1
+POST,/api/payment/pay/anonymous-482,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-482,1
+GET,/api/shipping/cities/ca,504 Server Error: Gateway Time-out for url: http://20.117.158.208/api/shipping/cities/ca,8
+POST,/api/payment/pay/anonymous-253,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-253,1
+POST,/api/payment/pay/anonymous-221,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-221,1
+GET,/api/shipping/cities/bg,Remote end closed connection without response,1
+GET,/api/shipping/codes,500 Server Error:  for url: http://20.117.158.208/api/shipping/codes,3
+POST,/api/payment/pay/anonymous-368,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-368,1
+GET,/api/shipping/calc/3201853,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-638/EPE/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-243,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-243,1
+POST,/api/payment/pay/anonymous-42,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-42,1
+POST,/api/payment/pay/anonymous-158,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-158,1
+GET,/api/shipping/calc/3400861,Remote end closed connection without response,1
+GET,/api/shipping/cities/it,504 Server Error: Gateway Time-out for url: http://20.117.158.208/api/shipping/cities/it,2
+POST,/api/payment/pay/anonymous-47,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-47,1
+POST,/api/payment/pay/anonymous-78,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-78,1
+POST,/api/payment/pay/anonymous-54,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-54,1
+POST,/api/payment/pay/anonymous-290,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-290,1
+GET,/api/shipping/cities/ro,500 Server Error:  for url: http://20.117.158.208/api/shipping/cities/ro,1
+GET,/api/cart/update/anonymous-942/RED/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-477,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-477,1
+GET,/api/shipping/cities/se,Remote end closed connection without response,1
+GET,/api/ratings/api/fetch/UHJ,Remote end closed connection without response,5
+GET,/api/ratings/api/fetch/HPTD,Remote end closed connection without response,2
+POST,/api/payment/pay/anonymous-437,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-437,1
+GET,/api/shipping/cities/ru,500 Server Error:  for url: http://20.117.158.208/api/shipping/cities/ru,1
+GET,/api/cart/add/anonymous-731/RED/1,Remote end closed connection without response,1
+GET,/api/shipping/cities/ru,504 Server Error: Gateway Time-out for url: http://20.117.158.208/api/shipping/cities/ru,8
+GET,/api/catalogue/product/EPE,Remote end closed connection without response,4
+POST,/api/payment/pay/anonymous-351,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-351,1
+GET,/api/cart/add/anonymous-525/RED/1,Remote end closed connection without response,1
+GET,/api/shipping/cities/se,504 Server Error: Gateway Time-out for url: http://20.117.158.208/api/shipping/cities/se,7
+GET,/api/cart/add/anonymous-714/EPE/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-94,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-94,1
+POST,/api/payment/pay/anonymous-65,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-65,1
+POST,/api/payment/pay/anonymous-434,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-434,1
+POST,/api/payment/pay/anonymous-61,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-61,1
+POST,/api/payment/pay/anonymous-140,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-140,1
+POST,/api/payment/pay/anonymous-69,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-69,1
+GET,/api/shipping/cities/us,504 Server Error: Gateway Time-out for url: http://20.117.158.208/api/shipping/cities/us,6
+POST,/api/payment/pay/anonymous-68,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-68,1
+POST,/api/payment/pay/anonymous-92,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-92,1
+POST,/api/payment/pay/anonymous-416,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-416,1
+POST,/api/payment/pay/anonymous-48,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-48,1
+POST,/api/shipping/confirm/anonymous-107,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-489,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-489,1
+POST,/api/payment/pay/anonymous-49,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-49,1
+POST,/api/payment/pay/anonymous-217,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-217,1
+POST,/api/payment/pay/anonymous-490,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-490,1
+GET,/api/shipping/codes,504 Server Error: Gateway Time-out for url: http://20.117.158.208/api/shipping/codes,8
+GET,/api/shipping/cities/nl,"(""Connection broken: ConnectionResetError(104, 'Connection reset by peer')"", ConnectionResetError(104, 'Connection reset by peer'))",1
+POST,/api/payment/pay/anonymous-412,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-412,1
+POST,/api/payment/pay/anonymous-66,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-66,1
+POST,/api/payment/pay/anonymous-373,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-373,1
+GET,/api/shipping/cities/tr,504 Server Error: Gateway Time-out for url: http://20.117.158.208/api/shipping/cities/tr,4
+POST,/api/payment/pay/anonymous-90,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-90,1
+GET,/api/cart/add/anonymous-1176/STAN-1/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-74,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-74,1
+POST,/api/payment/pay/anonymous-43,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-43,1
+GET,/api/shipping/cities/jp,504 Server Error: Gateway Time-out for url: http://20.117.158.208/api/shipping/cities/jp,7
+GET,/api/shipping/calc/3808164,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-454,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-454,1
+GET,/api/shipping/cities/at,Remote end closed connection without response,2
+POST,/api/payment/pay/anonymous-131,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-131,1
+POST,/api/payment/pay/anonymous-317,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-317,1
+POST,/api/payment/pay/anonymous-337,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-337,1
+GET,/api/shipping/cities/br,Remote end closed connection without response,4
+POST,/api/payment/pay/anonymous-401,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-401,1
+GET,/api/shipping/calc/5841509,504 Server Error: Gateway Time-out for url: http://20.117.158.208/api/shipping/calc/5841509,1
+POST,/api/payment/pay/anonymous-324,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-324,1
+POST,/api/payment/pay/anonymous-404,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-404,1
+GET,/api/shipping/calc/5657431,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-923/RED/1,Remote end closed connection without response,1
+GET,/api/shipping/cities/ro,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-26,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-26,1
+POST,/api/payment/pay/anonymous-81,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-81,1
+POST,/api/payment/pay/anonymous-36,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-36,1
+POST,/api/payment/pay/anonymous-230,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-230,1
+GET,/api/shipping/calc/5081012,Remote end closed connection without response,1
+GET,/api/catalogue/categories,Remote end closed connection without response,33
+GET,/api/cart/update/anonymous-609/HPTD/2,Remote end closed connection without response,1
+GET,/api/catalogue/product/RMC,Remote end closed connection without response,4
+POST,/api/payment/pay/anonymous-143,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-143,1
+POST,/api/payment/pay/anonymous-256,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-256,1
+POST,/api/payment/pay/anonymous-93,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-93,1
+POST,/api/payment/pay/anonymous-58,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-58,1
+POST,/api/payment/pay/anonymous-384,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-384,1
+GET,/api/cart/add/anonymous-934/UHJ/1,Remote end closed connection without response,1
+GET,/api/shipping/cities/ca,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-362,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-362,1
+GET,/api/ratings/api/fetch/RED,Remote end closed connection without response,5
+GET,/api/catalogue/product/UHJ,Remote end closed connection without response,3
+POST,/api/payment/pay/anonymous-59,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-59,1
+GET,/api/shipping/cities/in,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-76,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-76,1
+POST,/api/payment/pay/anonymous-79,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-79,1
+POST,/api/payment/pay/anonymous-63,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-63,1
+POST,/api/payment/pay/anonymous-108,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-108,1
+POST,/api/payment/pay/anonymous-56,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-56,1
+GET,/api/shipping/calc/4379507,504 Server Error: Gateway Time-out for url: http://20.117.158.208/api/shipping/calc/4379507,1
+POST,/api/payment/pay/anonymous-171,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-171,1
+GET,/api/catalogue/products,Remote end closed connection without response,15
+POST,/api/payment/pay/anonymous-415,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-415,1
+GET,/api/cart/cart/anonymous-662,Remote end closed connection without response,1
+GET,/api/catalogue/product/HPTD,Remote end closed connection without response,2
+POST,/api/payment/pay/anonymous-80,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-80,1
+POST,/api/payment/pay/anonymous-254,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-254,1
+POST,/api/payment/pay/anonymous-82,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-82,1
+POST,/api/payment/pay/anonymous-41,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-41,1
+POST,/api/payment/pay/anonymous-57,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-57,1
+POST,/api/user/login,Remote end closed connection without response,3
+GET,/api/shipping/calc/3439680,500 Server Error:  for url: http://20.117.158.208/api/shipping/calc/3439680,1
+GET,/api/cart/cart/anonymous-729,Remote end closed connection without response,1
+GET,/api/shipping/calc/5346955,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-71,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-71,1
+POST,/api/payment/pay/anonymous-306,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-306,1
+GET,/api/ratings/api/fetch/RMC,Remote end closed connection without response,1
+GET,/api/shipping/cities/pt,"(""Connection broken: ConnectionResetError(104, 'Connection reset by peer')"", ConnectionResetError(104, 'Connection reset by peer'))",2
+GET,/api/ratings/api/fetch/EPE,Remote end closed connection without response,3
+GET,/api/shipping/calc/4178816,Remote end closed connection without response,1
+GET,/api/shipping/cities/br,504 Server Error: Gateway Time-out for url: http://20.117.158.208/api/shipping/cities/br,3
+GET,/api/shipping/cities/bg,"(""Connection broken: ConnectionResetError(104, 'Connection reset by peer')"", ConnectionResetError(104, 'Connection reset by peer'))",1
+POST,/api/payment/pay/anonymous-361,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-361,1
+POST,/api/payment/pay/anonymous-39,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-39,1
+POST,/api/payment/pay/anonymous-46,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-46,1
+GET,/api/cart/cart/anonymous-660,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-64,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-64,1
+GET,/api/cart/add/anonymous-932/HPTD/1,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/EPE/3,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-334,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-334,1
+PUT,/api/ratings/api/rate/RED/3,Remote end closed connection without response,1
+GET,/api/shipping/cities/fr,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-296,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-296,1
+GET,/api/catalogue/product/STAN-1,Remote end closed connection without response,3
+GET,/api/shipping/cities/ch,504 Server Error: Gateway Time-out for url: http://20.117.158.208/api/shipping/cities/ch,2
+GET,/api/shipping/cities/de,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-106,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-872/EMM/2,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-380,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-29,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-29,1
+POST,/api/payment/pay/anonymous-70,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-70,1
+POST,/api/payment/pay/anonymous-86,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-86,1
+POST,/api/payment/pay/anonymous-395,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-395,1
+POST,/api/payment/pay/anonymous-22,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-22,1
+GET,/api/shipping/cities/de,504 Server Error: Gateway Time-out for url: http://20.117.158.208/api/shipping/cities/de,5
+POST,/api/payment/pay/anonymous-52,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-52,1
+POST,/api/payment/pay/anonymous-38,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-38,1
+GET,/api/shipping/cities/nl,504 Server Error: Gateway Time-out for url: http://20.117.158.208/api/shipping/cities/nl,3
+GET,/api/shipping/cities/ro,504 Server Error: Gateway Time-out for url: http://20.117.158.208/api/shipping/cities/ro,6
+POST,/api/payment/pay/anonymous-476,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-476,1
+GET,/api/shipping/cities/ch,Remote end closed connection without response,2
+GET,/api/shipping/cities/gb,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-496,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-245,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-245,1
+POST,/api/payment/pay/anonymous-288,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-288,1
+POST,/api/payment/pay/anonymous-488,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-488,1
+POST,/api/payment/pay/anonymous-187,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-187,1
+POST,/api/payment/pay/anonymous-24,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-24,1
+POST,/api/payment/pay/anonymous-455,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-455,1
+GET,/api/catalogue/product/EMM,Remote end closed connection without response,4
+PUT,/api/ratings/api/rate/EPE/4,Remote end closed connection without response,1
+GET,/api/shipping/cities/au,504 Server Error: Gateway Time-out for url: http://20.117.158.208/api/shipping/cities/au,6
+POST,/api/payment/pay/anonymous-322,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-322,1
+POST,/api/payment/pay/anonymous-55,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-55,1
+POST,/api/payment/pay/anonymous-331,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-331,1
+POST,/api/payment/pay/anonymous-474,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-474,1
+POST,/api/payment/pay/anonymous-72,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-72,1
+POST,/api/payment/pay/anonymous-193,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-193,1
+GET,/api/shipping/cities/gb,504 Server Error: Gateway Time-out for url: http://20.117.158.208/api/shipping/cities/gb,4
+POST,/api/payment/pay/anonymous-95,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-95,1
+POST,/api/payment/pay/anonymous-446,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-446,1
+GET,/api/cart/add/anonymous-940/RMC/1,Remote end closed connection without response,1
+GET,/api/shipping/cities/at,504 Server Error: Gateway Time-out for url: http://20.117.158.208/api/shipping/cities/at,2
+POST,/api/payment/pay/anonymous-44,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-44,1
+GET,/api/ratings/api/fetch/STAN-1,Remote end closed connection without response,3
+GET,/api/ratings/api/fetch/SHCE,Remote end closed connection without response,2
+GET,/api/shipping/cities/es,504 Server Error: Gateway Time-out for url: http://20.117.158.208/api/shipping/cities/es,1
+POST,/api/payment/pay/anonymous-83,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-83,1
+POST,/api/payment/pay/anonymous-101,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-101,1
+POST,/api/payment/pay/anonymous-228,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-228,1
+POST,/api/payment/pay/anonymous-465,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-465,1
+POST,/api/payment/pay/anonymous-226,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-226,1
+GET,/api/shipping/cities/es,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-534,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-75,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-75,1
+GET,/api/shipping/cities/pt,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-408,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-408,1
+GET,/api/cart/add/anonymous-718/HPTD/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-292,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-292,1
+POST,/api/payment/pay/anonymous-478,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-478,1
+POST,/api/payment/pay/anonymous-73,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-73,1
+GET,/api/shipping/codes,Remote end closed connection without response,6
+GET,/api/shipping/cities/cz,504 Server Error: Gateway Time-out for url: http://20.117.158.208/api/shipping/cities/cz,3
+GET,/api/shipping/calc/3398656,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-558/STAN-1/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-45,429 Client Error: TOO MANY REQUESTS for url: http://20.117.158.208/api/payment/pay/anonymous-45,1

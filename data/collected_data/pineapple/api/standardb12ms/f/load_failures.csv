@@ -1,0 +1,325 @@
+Method,Name,Error,Occurrences
+GET,/api/shipping/calc/5653151,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-208,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-208,1
+GET,/api/cart/update/anonymous-981/EPE/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-82,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-82,1
+GET,/api/catalogue/product/Watson,Remote end closed connection without response,9
+POST,/api/payment/pay/anonymous-78,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-78,1
+POST,/api/payment/pay/anonymous-172,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-172,1
+POST,/api/payment/pay/anonymous-188,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-188,1
+POST,/api/payment/pay/anonymous-195,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-195,1
+POST,/api/payment/pay/anonymous-32,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-32,1
+POST,/api/payment/pay/anonymous-350,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-111,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-111,1
+GET,/api/cart/add/anonymous-1073/Watson/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-624,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-86,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-86,1
+GET,/api/catalogue/product/SHCE,Remote end closed connection without response,5
+PUT,/api/ratings/api/rate/HPTD/5,Remote end closed connection without response,2
+POST,/api/payment/pay/anonymous-145,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-145,1
+POST,/api/payment/pay/anonymous-200,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-200,1
+GET,/api/cart/add/anonymous-1124/STAN-1/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-171,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-171,1
+GET,/api/cart/update/anonymous-423/RED/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-37,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-37,1
+GET,/api/shipping/calc/5868429,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-774/HPTD/1,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/EPE/2,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/HPTD/4,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-46,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-46,1
+GET,/api/cart/update/anonymous-640/UHJ/2,Remote end closed connection without response,1
+GET,/,Remote end closed connection without response,21
+POST,/api/payment/pay/anonymous-394,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-92,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-92,1
+GET,/api/catalogue/product/RED,Remote end closed connection without response,5
+POST,/api/payment/pay/anonymous-110,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-110,1
+POST,/api/shipping/confirm/anonymous-576,Remote end closed connection without response,1
+GET,/api/shipping/calc/4589498,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-327,Remote end closed connection without response,1
+GET,/api/shipping/cities/ru,Remote end closed connection without response,1
+GET,/api/shipping/calc/3190093,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-125,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-125,1
+POST,/api/payment/pay/anonymous-62,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-62,1
+POST,/api/payment/pay/anonymous-198,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-198,1
+GET,/api/cart/add/anonymous-808/STAN-1/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-49,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-49,1
+PUT,/api/ratings/api/rate/RMC/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-206,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-206,1
+POST,/api/payment/pay/anonymous-135,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-135,1
+POST,/api/payment/pay/anonymous-127,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-127,1
+POST,/api/payment/pay/anonymous-173,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-173,1
+POST,/api/payment/pay/anonymous-53,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-53,1
+POST,/api/payment/pay/anonymous-163,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-163,1
+GET,/api/cart/add/anonymous-816/EMM/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-639/RMC/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-107,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-107,1
+POST,/api/payment/pay/anonymous-96,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-96,1
+POST,/api/payment/pay/anonymous-80,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-80,1
+GET,/api/shipping/calc/3438935,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-87,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-87,1
+POST,/api/payment/pay/anonymous-108,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-108,1
+PUT,/api/ratings/api/rate/RED/5,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-581/EMM/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-117,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-117,1
+POST,/api/payment/pay/anonymous-39,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-39,1
+GET,/api/user/uniqueid,Remote end closed connection without response,21
+POST,/api/payment/pay/anonymous-154,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-154,1
+POST,/api/payment/pay/anonymous-203,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-203,1
+GET,/api/shipping/cities/fi,Remote end closed connection without response,1
+GET,/api/shipping/calc/4595638,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-583/Watson/1,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-414,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/Watson/4,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-101,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-101,1
+POST,/api/payment/pay/anonymous-128,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-128,1
+GET,/api/ratings/api/fetch/Watson,Remote end closed connection without response,5
+POST,/api/payment/pay/anonymous-66,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-66,1
+POST,/api/payment/pay/anonymous-77,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-77,1
+GET,/api/shipping/calc/5353850,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-65,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-65,1
+GET,/api/cart/add/anonymous-1076/STAN-1/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-1100,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-1090/RMC/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-48,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-48,1
+POST,/api/payment/pay/anonymous-88,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-88,1
+PUT,/api/ratings/api/rate/STAN-1/2,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-1070,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/HPTD/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-130,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-130,1
+POST,/api/payment/pay/anonymous-71,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-71,1
+POST,/api/payment/pay/anonymous-103,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-103,1
+GET,/api/cart/update/anonymous-464/EMM/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-129,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-129,1
+POST,/api/payment/pay/anonymous-70,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-70,1
+GET,/api/cart/cart/anonymous-347,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-584,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-205,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-205,1
+GET,/api/cart/add/anonymous-1081/RMC/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-705/EPE/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-105,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-105,1
+GET,/api/cart/update/anonymous-465/UHJ/2,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-1059,Remote end closed connection without response,1
+GET,/api/shipping/calc/5351907,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-156,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-156,1
+POST,/api/payment/pay/anonymous-147,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-147,1
+POST,/api/payment/pay/anonymous-139,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-139,1
+GET,/api/cart/update/anonymous-587/RED/2,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/RED/4,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-90,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-90,1
+POST,/api/payment/pay/anonymous-333,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-119,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-119,1
+GET,/api/ratings/api/fetch/UHJ,Remote end closed connection without response,3
+GET,/api/cart/add/anonymous-940/EMM/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-676/STAN-1/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-1035,Remote end closed connection without response,1
+GET,/api/ratings/api/fetch/HPTD,Remote end closed connection without response,7
+POST,/api/payment/pay/anonymous-72,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-72,1
+POST,/api/payment/pay/anonymous-33,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-33,1
+POST,/api/payment/pay/anonymous-379,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-43,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-43,1
+POST,/api/payment/pay/anonymous-302,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-31,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-31,1
+POST,/api/payment/pay/anonymous-113,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-113,1
+PUT,/api/ratings/api/rate/RED/1,Remote end closed connection without response,2
+GET,/api/catalogue/product/EPE,Remote end closed connection without response,3
+POST,/api/payment/pay/anonymous-84,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-84,1
+POST,/api/payment/pay/anonymous-169,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-169,1
+GET,/api/cart/update/anonymous-431/UHJ/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-204,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-204,1
+GET,/api/cart/add/anonymous-1162/HPTD/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/5990806,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-442,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-623/EPE/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-158,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-158,1
+POST,/api/payment/pay/anonymous-1036,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-102,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-102,1
+POST,/api/payment/pay/anonymous-59,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-59,1
+POST,/api/payment/pay/anonymous-192,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-192,1
+POST,/api/payment/pay/anonymous-60,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-60,1
+POST,/api/payment/pay/anonymous-137,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-137,1
+GET,/api/cart/cart/anonymous-1069,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-61,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-61,1
+POST,/api/payment/pay/anonymous-56,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-56,1
+GET,/api/shipping/calc/5347219,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-104,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-104,1
+POST,/api/payment/pay/anonymous-83,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-83,1
+GET,/api/shipping/calc/3401123,Remote end closed connection without response,1
+GET,/api/shipping/calc/5853603,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-959,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-81,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-81,1
+POST,/api/payment/pay/anonymous-151,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-151,1
+POST,/api/payment/pay/anonymous-193,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-193,1
+GET,/api/cart/add/anonymous-982/RMC/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-97,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-97,1
+GET,/api/cart/cart/anonymous-539,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-419,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-40,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-40,1
+POST,/api/payment/pay/anonymous-159,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-159,1
+POST,/api/payment/pay/anonymous-134,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-134,1
+POST,/api/payment/pay/anonymous-79,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-79,1
+GET,/api/cart/update/anonymous-338/HPTD/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-142,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-142,1
+POST,/api/payment/pay/anonymous-47,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-47,1
+POST,/api/payment/pay/anonymous-185,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-185,1
+GET,/api/cart/add/anonymous-631/SHCE/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-194,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-194,1
+POST,/api/payment/pay/anonymous-126,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-126,1
+POST,/api/payment/pay/anonymous-162,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-162,1
+GET,/api/catalogue/categories,Remote end closed connection without response,26
+POST,/api/payment/pay/anonymous-167,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-167,1
+GET,/api/cart/add/anonymous-1126/RED/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-165,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-165,1
+GET,/api/catalogue/product/RMC,Remote end closed connection without response,8
+POST,/api/payment/pay/anonymous-98,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-98,1
+POST,/api/payment/pay/anonymous-41,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-41,1
+POST,/api/payment/pay/anonymous-329,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-114,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-114,1
+POST,/api/payment/pay/anonymous-150,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-150,1
+GET,/api/ratings/api/fetch/RED,Remote end closed connection without response,5
+GET,/api/catalogue/product/UHJ,Remote end closed connection without response,4
+POST,/api/payment/pay/anonymous-867,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-155,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-155,1
+POST,/api/payment/pay/anonymous-166,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-166,1
+POST,/api/payment/pay/anonymous-133,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-133,1
+POST,/api/payment/pay/anonymous-181,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-181,1
+POST,/api/payment/pay/anonymous-106,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-106,1
+GET,/api/cart/add/anonymous-1086/EPE/1,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/EMM/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-346/STAN-1/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-1095/STAN-1/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-199,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-199,1
+GET,/api/catalogue/products,Remote end closed connection without response,13
+POST,/api/payment/pay/anonymous-131,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-131,1
+POST,/api/payment/pay/anonymous-160,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-160,1
+GET,/api/catalogue/product/HPTD,Remote end closed connection without response,7
+POST,/api/payment/pay/anonymous-149,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-149,1
+POST,/api/shipping/confirm/anonymous-485,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-665/HPTD/1,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/Watson/5,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-742/RED/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-68,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-68,1
+GET,/api/shipping/calc/3206436,Remote end closed connection without response,1
+POST,/api/user/login,Remote end closed connection without response,17
+GET,/api/cart/update/anonymous-903/EMM/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-118,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-118,1
+POST,/api/payment/pay/anonymous-73,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-73,1
+POST,/api/payment/pay/anonymous-51,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-51,1
+POST,/api/payment/pay/anonymous-75,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-75,1
+GET,/api/ratings/api/fetch/RMC,Remote end closed connection without response,3
+POST,/api/payment/pay/anonymous-157,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-157,1
+GET,/api/cart/update/anonymous-463/RMC/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-799/RED/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-64,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-64,1
+POST,/api/payment/pay/anonymous-136,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-136,1
+GET,/api/ratings/api/fetch/EPE,Remote end closed connection without response,4
+POST,/api/payment/pay/anonymous-132,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-132,1
+GET,/api/cart/update/anonymous-674/RMC/2,Remote end closed connection without response,1
+GET,/api/ratings/api/fetch/EMM,Remote end closed connection without response,9
+POST,/api/payment/pay/anonymous-178,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-178,1
+GET,/api/cart/add/anonymous-549/EMM/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-961,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-197,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-197,1
+POST,/api/payment/pay/anonymous-94,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-94,1
+PUT,/api/ratings/api/rate/EPE/3,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-348,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-100,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-100,1
+GET,/api/shipping/calc/3766536,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-74,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-74,1
+POST,/api/payment/pay/anonymous-164,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-164,1
+GET,/api/shipping/cities/fr,Remote end closed connection without response,2
+POST,/api/payment/pay/anonymous-202,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-202,1
+GET,/api/catalogue/product/STAN-1,Remote end closed connection without response,3
+GET,/api/cart/update/anonymous-955/RED/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-196,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-196,1
+POST,/api/payment/pay/anonymous-115,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-115,1
+PUT,/api/ratings/api/rate/EPE/5,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-120,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-120,1
+GET,/api/shipping/cities/no,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-209,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-209,1
+POST,/api/payment/pay/anonymous-54,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-54,1
+POST,/api/payment/pay/anonymous-44,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-44,1
+GET,/api/cart/update/anonymous-412/SHCE/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-153,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-153,1
+POST,/api/payment/pay/anonymous-174,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-174,1
+PUT,/api/ratings/api/rate/HPTD/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-121,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-121,1
+POST,/api/payment/pay/anonymous-361,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-67,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-67,1
+GET,/api/shipping/cities/nl,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-95,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-95,1
+POST,/api/payment/pay/anonymous-161,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-161,1
+POST,/api/payment/pay/anonymous-57,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-57,1
+POST,/api/payment/pay/anonymous-190,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-190,1
+POST,/api/payment/pay/anonymous-45,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-45,1
+POST,/api/payment/pay/anonymous-123,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-123,1
+GET,/api/cart/add/anonymous-620/EMM/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-615,Remote end closed connection without response,1
+GET,/api/shipping/cities/ch,Remote end closed connection without response,1
+GET,/api/shipping/cities/gb,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-140,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-140,1
+GET,/api/cart/update/anonymous-612/Watson/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-122,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-122,1
+POST,/api/payment/pay/anonymous-36,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-36,1
+POST,/api/payment/pay/anonymous-109,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-109,1
+GET,/api/shipping/calc/3819518,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-69,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-69,1
+GET,/api/cart/cart/anonymous-948,Remote end closed connection without response,1
+GET,/api/catalogue/product/EMM,Remote end closed connection without response,7
+GET,/api/cart/add/anonymous-645/HPTD/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-168,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-168,1
+GET,/api/cart/add/anonymous-1080/EPE/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-410,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-542/UHJ/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-180,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-180,1
+GET,/api/cart/cart/anonymous-560,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-201,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-201,1
+POST,/api/payment/pay/anonymous-207,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-207,1
+POST,/api/payment/pay/anonymous-152,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-152,1
+POST,/api/payment/pay/anonymous-184,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-184,1
+GET,/api/shipping/calc/5962840,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-406,Remote end closed connection without response,1
+GET,/api/shipping/calc/3847016,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-191,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-191,1
+POST,/api/payment/pay/anonymous-138,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-138,1
+POST,/api/payment/pay/anonymous-189,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-189,1
+GET,/api/cart/add/anonymous-540/RMC/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-50,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-50,1
+POST,/api/payment/pay/anonymous-148,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-148,1
+POST,/api/payment/pay/anonymous-144,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-144,1
+POST,/api/payment/pay/anonymous-63,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-63,1
+POST,/api/shipping/confirm/anonymous-405,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-666/UHJ/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-93,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-93,1
+POST,/api/payment/pay/anonymous-116,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-116,1
+GET,/api/ratings/api/fetch/STAN-1,Remote end closed connection without response,2
+GET,/api/ratings/api/fetch/SHCE,Remote end closed connection without response,2
+POST,/api/payment/pay/anonymous-112,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-112,1
+POST,/api/payment/pay/anonymous-91,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-91,1
+POST,/api/payment/pay/anonymous-55,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-55,1
+POST,/api/payment/pay/anonymous-213,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-213,1
+POST,/api/payment/pay/anonymous-34,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-34,1
+POST,/api/payment/pay/anonymous-85,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-85,1
+POST,/api/payment/pay/anonymous-176,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-176,1
+POST,/api/payment/pay/anonymous-52,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-52,1
+GET,/api/cart/update/anonymous-777/Watson/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-124,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-124,1
+POST,/api/payment/pay/anonymous-146,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-146,1
+POST,/api/payment/pay/anonymous-42,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-42,1
+GET,/api/cart/add/anonymous-1021/STAN-1/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-1156/HPTD/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-143,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-143,1
+GET,/api/cart/add/anonymous-1072/SHCE/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-170,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-170,1
+POST,/api/payment/pay/anonymous-76,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-76,1
+POST,/api/payment/pay/anonymous-99,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-99,1
+GET,/api/cart/add/anonymous-1034/HPTD/1,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-443,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/EMM/5,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-678,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-35,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-35,1
+POST,/api/payment/pay/anonymous-58,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-58,1
+POST,/api/payment/pay/anonymous-89,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-89,1
+GET,/api/shipping/codes,Remote end closed connection without response,19
+POST,/api/payment/pay/anonymous-38,429 Client Error: TOO MANY REQUESTS for url: http://20.117.157.32/api/payment/pay/anonymous-38,1
+GET,/api/cart/add/anonymous-558/STAN-1/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/5353111,Remote end closed connection without response,1

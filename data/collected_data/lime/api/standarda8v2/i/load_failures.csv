@@ -1,0 +1,1057 @@
+Method,Name,Error,Occurrences
+GET,/api/shipping/codes,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/codes,27
+POST,/api/payment/pay/anonymous-754,404 Client Error: NOT FOUND for url: http://20.90.154.41/api/payment/pay/anonymous-754,1
+PUT,/api/ratings/api/rate/RMC/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/ratings/api/rate/RMC/1,1
+GET,/api/shipping/calc/3959882,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/3959882,1
+GET,/api/shipping/cities/au,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/cities/au,2
+GET,/api/cart/add/anonymous-660/HPTD/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/3848885,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/3848885,1
+POST,/api/payment/pay/anonymous-50,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-50,1
+GET,/api/cart/cart/anonymous-829,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-829,1
+GET,/api/cart/add/anonymous-659/RMC/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-659/RMC/1,1
+GET,/api/cart/add/anonymous-382/RED/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-382/RED/1,2
+GET,/api/cart/cart/anonymous-550,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-550,2
+GET,/api/catalogue/product/Watson,Remote end closed connection without response,12
+POST,/api/shipping/confirm/anonymous-496,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-496,1
+GET,/api/cart/cart/anonymous-786,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-786,1
+POST,/api/payment/pay/anonymous-450,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-450,1
+GET,/api/cart/cart/anonymous-766,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-766,1
+GET,/api/cart/cart/anonymous-756,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-756,1
+GET,/api/cart/add/anonymous-640/UHJ/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-640/UHJ/1,1
+GET,/api/shipping/calc/5963585,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-34,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-34,2
+GET,/api/cart/cart/anonymous-522,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-963,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-963,1
+GET,/api/shipping/calc/3960962,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/3960962,1
+GET,/api/cart/update/anonymous-773/STAN-1/2,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-589,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-589,1
+GET,/api/cart/update/anonymous-445/EMM/2,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/update/anonymous-445/EMM/2,1
+GET,/api/cart/cart/anonymous-365,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-667,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-667,1
+GET,/api/cart/cart/anonymous-688,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-688,1
+GET,/api/cart/update/anonymous-500/Watson/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-500/Watson/2,1
+POST,/api/payment/pay/anonymous-43,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-43,1
+POST,/api/shipping/confirm/anonymous-431,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/confirm/anonymous-431,1
+POST,/api/shipping/confirm/anonymous-369,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/confirm/anonymous-369,1
+PUT,/api/ratings/api/rate/Watson/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/ratings/api/rate/Watson/1,2
+POST,/api/shipping/confirm/anonymous-358,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-358,1
+POST,/api/shipping/confirm/anonymous-427,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-427,1
+POST,/api/payment/pay/anonymous-625,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-625,1
+GET,/api/cart/cart/anonymous-677,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-677,1
+POST,/api/payment/pay/anonymous-496,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-496,1
+POST,/api/shipping/confirm/anonymous-890,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-890,1
+GET,/api/cart/add/anonymous-779/STAN-1/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-779/STAN-1/1,1
+GET,/api/cart/update/anonymous-785/Watson/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-785/Watson/2,1
+POST,/api/payment/pay/anonymous-555,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-26,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-26,2
+GET,/api/shipping/cities/in,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/cities/in,4
+GET,/api/cart/cart/anonymous-604,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-765,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-765,1
+GET,/api/cart/update/anonymous-529/EMM/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-529/EMM/2,1
+GET,/api/shipping/calc/4044178,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/4044178,1
+POST,/api/shipping/confirm/anonymous-443,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-443,1
+POST,/api/shipping/confirm/anonymous-715,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-715,1
+POST,/api/payment/pay/anonymous-48,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-48,1
+PUT,/api/ratings/api/rate/RMC/2,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/ratings/api/rate/RMC/2,1
+GET,/api/cart/update/anonymous-359/EMM/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-666/EMM/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-666/EMM/1,1
+GET,/api/cart/add/anonymous-469/SHCE/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/5490397,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/5490397,1
+GET,/api/shipping/calc/3438158,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/3438158,1
+GET,/api/cart/cart/anonymous-706,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-706,1
+GET,/api/catalogue/product/SHCE,Remote end closed connection without response,9
+GET,/api/cart/update/anonymous-469/RMC/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-469/RMC/2,1
+PUT,/api/ratings/api/rate/HPTD/5,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-823/EPE/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-605,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-605,2
+GET,/api/cart/cart/anonymous-638,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-638,1
+GET,/api/cart/cart/anonymous-539,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-539,2
+GET,/api/cart/update/anonymous-471/EPE/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-471/EPE/2,1
+PUT,/api/ratings/api/rate/EMM/4,Remote end closed connection without response,2
+POST,/api/payment/pay/anonymous-46,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-46,1
+GET,/api/cart/add/anonymous-792/RED/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-792/RED/1,2
+GET,/api/cart/update/anonymous-541/EPE/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-541/EPE/2,1
+POST,/api/payment/pay/anonymous-509,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-509,2
+POST,/api/payment/pay/anonymous-655,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-655,1
+GET,/api/shipping/calc/4594025,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/4594025,1
+GET,/api/cart/cart/anonymous-659,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-659,1
+POST,/api/shipping/confirm/anonymous-593,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-593,1
+GET,/api/catalogue/product/EMM,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/catalogue/product/EMM,9
+POST,/api/payment/pay/anonymous-14,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-14,1
+GET,/api/cart/update/anonymous-600/UHJ/2,Remote end closed connection without response,1
+GET,/api/shipping/calc/5656154,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/5656154,1
+POST,/api/payment/pay/anonymous-641,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-641,1
+PUT,/api/ratings/api/rate/EPE/3,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/ratings/api/rate/EPE/3,1
+GET,/api/cart/add/anonymous-697/EMM/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-697/EMM/1,1
+GET,/api/shipping/calc/6075975,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/calc/6075975,1
+PUT,/api/ratings/api/rate/EPE/2,Remote end closed connection without response,2
+GET,/api/cart/update/anonymous-798/HPTD/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-798/HPTD/2,1
+GET,/api/cart/cart/anonymous-793,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-793,1
+GET,/api/cart/add/anonymous-857/UHJ/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-640/RMC/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-640/RMC/1,1
+GET,/api/cart/cart/anonymous-527,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-527,1
+GET,/api/cart/add/anonymous-631/UHJ/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-631/UHJ/1,1
+GET,/api/cart/update/anonymous-138/EMM/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-841,404 Client Error: NOT FOUND for url: http://20.90.154.41/api/payment/pay/anonymous-841,1
+GET,/api/cart/update/anonymous-624/EPE/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-624/EPE/2,1
+GET,/api/shipping/calc/4563473,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/4563473,1
+GET,/api/cart/add/anonymous-558/RMC/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-558/RMC/1,1
+POST,/api/payment/pay/anonymous-448,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-639,404 Client Error: NOT FOUND for url: http://20.90.154.41/api/payment/pay/anonymous-639,1
+GET,/api/cart/add/anonymous-796/HPTD/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-796/HPTD/1,1
+GET,/,Remote end closed connection without response,60
+GET,/api/cart/add/anonymous-786/UHJ/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-786/UHJ/1,1
+POST,/api/payment/pay/anonymous-876,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-876,1
+PUT,/api/ratings/api/rate/HPTD/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/ratings/api/rate/HPTD/1,1
+POST,/api/shipping/confirm/anonymous-485,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-485,1
+PUT,/api/ratings/api/rate/SHCE/3,Remote end closed connection without response,2
+GET,/api/cart/cart/anonymous-526,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-526,1
+GET,/api/cart/add/anonymous-666/HPTD/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-666/HPTD/1,1
+POST,/api/payment/pay/anonymous-756,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-387,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/RMC/3,Remote end closed connection without response,1
+GET,/api/catalogue/products,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/catalogue/products,18
+GET,/api/cart/update/anonymous-519/STAN-1/2,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/update/anonymous-519/STAN-1/2,1
+POST,/api/shipping/confirm/anonymous-438,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-438,1
+GET,/api/cart/cart/anonymous-758,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-758,1
+GET,/api/ratings/api/fetch/RED,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/ratings/api/fetch/RED,11
+GET,/api/catalogue/product/RED,Remote end closed connection without response,6
+GET,/api/shipping/calc/3844996,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/3844996,1
+POST,/api/payment/pay/anonymous-825,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-780,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-780,1
+GET,/api/shipping/cities/tr,Remote end closed connection without response,1
+GET,/api/shipping/calc/3339704,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/calc/3339704,1
+GET,/api/cart/update/anonymous-815/STAN-1/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-815/STAN-1/2,1
+GET,/api/shipping/calc/5821327,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-486/Watson/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-486/Watson/2,1
+POST,/api/payment/pay/anonymous-420,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-420,1
+POST,/api/shipping/confirm/anonymous-448,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-448,2
+POST,/api/shipping/confirm/anonymous-486,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-486,1
+GET,/api/cart/update/anonymous-497/EPE/2,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/update/anonymous-497/EPE/2,1
+GET,/api/shipping/cities/ru,Remote end closed connection without response,2
+GET,/api/shipping/calc/4169491,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/4169491,1
+GET,/api/shipping/cities/br,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/cities/br,2
+GET,/api/cart/update/anonymous-356/EPE/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-356/EPE/2,1
+POST,/api/payment/pay/anonymous-20,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-20,1
+GET,/api/cart/update/anonymous-751/Watson/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-751/Watson/2,1
+GET,/api/cart/cart/anonymous-707,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-707,1
+GET,/api/shipping/cities/bg,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/cities/bg,3
+GET,/api/cart/add/anonymous-541/UHJ/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-541/UHJ/1,1
+GET,/api/cart/add/anonymous-677/RED/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-677/RED/1,1
+POST,/api/payment/pay/anonymous-41,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-41,1
+POST,/api/payment/pay/anonymous-441,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-441,1
+POST,/api/shipping/confirm/anonymous-403,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-403,1
+GET,/api/cart/add/anonymous-794/RMC/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-794/RMC/1,1
+POST,/api/shipping/confirm/anonymous-536,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-536,1
+GET,/api/cart/add/anonymous-911/EPE/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-829,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-829,1
+POST,/api/payment/pay/anonymous-404,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-404,1
+GET,/api/shipping/calc/3374322,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/3374322,1
+POST,/api/shipping/confirm/anonymous-451,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-451,1
+POST,/api/shipping/confirm/anonymous-553,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-451,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-451,1
+POST,/api/payment/pay/anonymous-809,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-809,1
+GET,/api/cart/add/anonymous-683/RED/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-683/RED/1,1
+GET,/api/cart/cart/anonymous-792,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-792,1
+GET,/api/cart/add/anonymous-548/Watson/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-548/Watson/1,1
+POST,/api/shipping/confirm/anonymous-625,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-625,1
+PUT,/api/ratings/api/rate/Watson/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-722,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-722,1
+GET,/api/cart/update/anonymous-670/EPE/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-670/EPE/2,1
+POST,/api/payment/pay/anonymous-30,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-30,1
+GET,/api/cart/update/anonymous-808/SHCE/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-808/SHCE/2,1
+GET,/api/shipping/calc/5534439,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-707/STAN-1/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-707/STAN-1/1,1
+GET,/api/cart/cart/anonymous-835,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-835,1
+GET,/api/shipping/calc/3850138,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/3850138,1
+GET,/api/cart/update/anonymous-908/SHCE/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-908/SHCE/2,1
+POST,/api/payment/pay/anonymous-838,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-838,1
+GET,/api/cart/add/anonymous-677/HPTD/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-677/HPTD/1,1
+PUT,/api/ratings/api/rate/Watson/2,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-531/UHJ/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-531/UHJ/2,1
+POST,/api/payment/pay/anonymous-39,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-39,1
+PUT,/api/ratings/api/rate/RED/5,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/ratings/api/rate/RED/5,1
+POST,/api/shipping/confirm/anonymous-429,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-429,1
+GET,/api/cart/update/anonymous-634/Watson/2,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-420,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-420,1
+POST,/api/shipping/confirm/anonymous-490,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-490,1
+GET,/api/cart/add/anonymous-564/UHJ/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-564/UHJ/1,1
+GET,/api/shipping/calc/4592754,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/4592754,1
+GET,/api/cart/update/anonymous-331/EMM/2,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/update/anonymous-331/EMM/2,1
+GET,/api/cart/cart/anonymous-709,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-709,1
+PUT,/api/ratings/api/rate/EMM/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-487/STAN-1/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-443,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-443,1
+POST,/api/payment/pay/anonymous-31,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-31,2
+GET,/api/shipping/calc/3950220,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-537,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-537,1
+POST,/api/payment/pay/anonymous-551,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-551,1
+POST,/api/shipping/confirm/anonymous-955,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-350,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-350,1
+PUT,/api/ratings/api/rate/UHJ/2,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/ratings/api/rate/UHJ/2,1
+GET,/api/cart/cart/anonymous-590,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-590,2
+GET,/api/shipping/cities/de,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/cities/de,1
+GET,/api/shipping/calc/3311829,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/calc/3311829,1
+POST,/api/shipping/confirm/anonymous-432,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-432,1
+POST,/api/payment/pay/anonymous-56,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-56,1
+GET,/api/shipping/cities/nl,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/cities/nl,3
+POST,/api/shipping/confirm/anonymous-808,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-808,1
+GET,/api/ratings/api/fetch/Watson,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/ratings/api/fetch/Watson,12
+GET,/api/cart/update/anonymous-342/STAN-1/2,Remote end closed connection without response,1
+GET,/api/shipping/cities/ch,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/cities/ch,2
+GET,/api/catalogue/product/SHCE,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/catalogue/product/SHCE,6
+POST,/api/shipping/confirm/anonymous-356,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-356,1
+POST,/api/payment/pay/anonymous-112,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-112,1
+GET,/api/cart/cart/anonymous-528,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-35,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-35,1
+POST,/api/shipping/confirm/anonymous-450,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-450,1
+GET,/api/shipping/cities/us,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-748,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-748,1
+GET,/api/shipping/cities/cz,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-990/RED/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-675,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-675,1
+GET,/api/cart/update/anonymous-791/RMC/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-791/RMC/2,1
+GET,/api/user/uniqueid,Remote end closed connection without response,18
+GET,/api/cart/add/anonymous-695/RED/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-610/HPTD/1,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-470,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-470,2
+GET,/api/ratings/api/fetch/UHJ,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/ratings/api/fetch/UHJ,10
+GET,/api/shipping/cities/fi,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-47,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-47,1
+GET,/api/cart/cart/anonymous-521,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-514/RMC/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-514/RMC/2,1
+GET,/api/catalogue/product/HPTD,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/catalogue/product/HPTD,7
+GET,/api/shipping/cities/gb,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/cities/gb,1
+GET,/api/cart/add/anonymous-619/Watson/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/4595093,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/4595093,1
+POST,/api/payment/pay/anonymous-379,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-379,1
+GET,/api/cart/cart/anonymous-599,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-599,1
+POST,/api/payment/pay/anonymous-33,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-33,2
+GET,/api/cart/cart/anonymous-757,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-757,1
+POST,/api/shipping/confirm/anonymous-579,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-579,1
+GET,/api/shipping/calc/5083411,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/calc/5083411,1
+GET,/api/cart/cart/anonymous-16,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-16,1
+GET,/api/cart/cart/anonymous-382,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-382,2
+GET,/api/catalogue/product/EPE,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/catalogue/product/EPE,8
+GET,/api/ratings/api/fetch/Watson,Remote end closed connection without response,8
+GET,/api/shipping/calc/3208122,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/calc/3208122,1
+POST,/api/shipping/confirm/anonymous-385,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-385,1
+GET,/api/cart/cart/anonymous-502,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-591/UHJ/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-591/UHJ/1,1
+POST,/api/shipping/confirm/anonymous-394,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/confirm/anonymous-394,1
+GET,/api/shipping/calc/3360852,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/3360852,1
+POST,/api/shipping/confirm/anonymous-402,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-402,1
+POST,/api/shipping/confirm/anonymous-682,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-682,1
+GET,/api/shipping/calc/5661543,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-810,Remote end closed connection without response,2
+GET,/api/cart/cart/anonymous-655,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-655,1
+POST,/api/payment/pay/anonymous-448,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-448,1
+POST,/api/payment/pay/anonymous-376,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-376,1
+POST,/api/payment/pay/anonymous-432,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-432,1
+GET,/api/shipping/calc/3953990,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/3953990,1
+POST,/api/shipping/confirm/anonymous-615,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-615,1
+GET,/api/shipping/cities/br,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/cities/br,1
+POST,/api/payment/pay/anonymous-793,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-793,1
+POST,/api/payment/pay/anonymous-51,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-51,1
+POST,/api/shipping/confirm/anonymous-712,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-712,1
+GET,/api/cart/add/anonymous-670/UHJ/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-670/UHJ/1,1
+POST,/api/payment/pay/anonymous-487,404 Client Error: NOT FOUND for url: http://20.90.154.41/api/payment/pay/anonymous-487,1
+POST,/api/payment/pay/anonymous-15,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-15,1
+GET,/api/cart/add/anonymous-841/SHCE/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-347,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-347,1
+GET,/api/shipping/cities/bg,Remote end closed connection without response,2
+GET,/api/cart/add/anonymous-585/RMC/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-585/RMC/1,1
+GET,/api/cart/cart/anonymous-798,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-804,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-804,1
+GET,/api/cart/update/anonymous-641/EPE/2,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-740/SHCE/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-740/SHCE/2,1
+PUT,/api/ratings/api/rate/RMC/5,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/ratings/api/rate/RMC/5,1
+GET,/api/cart/update/anonymous-517/UHJ/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-517/UHJ/2,1
+GET,/api/cart/cart/anonymous-738,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-738,1
+GET,/api/cart/add/anonymous-514/RED/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-514/RED/1,1
+GET,/api/cart/update/anonymous-852/RED/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-852/RED/2,1
+POST,/api/user/login,[Errno 32] Broken pipe,1
+POST,/api/shipping/confirm/anonymous-822,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-822,1
+PUT,/api/ratings/api/rate/HPTD/3,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/ratings/api/rate/HPTD/3,1
+POST,/api/payment/pay/anonymous-95,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-95,1
+GET,/api/shipping/cities/au,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/cities/au,1
+POST,/api/payment/pay/anonymous-701,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-701,1
+GET,/api/cart/cart/anonymous-591,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-591,1
+POST,/api/payment/pay/anonymous-666,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-666,1
+GET,/api/cart/add/anonymous-889/SHCE/1,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-629,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-629,1
+POST,/api/shipping/confirm/anonymous-408,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-408,1
+POST,/api/payment/pay/anonymous-360,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-360,1
+GET,/api/cart/add/anonymous-804/RED/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-804/RED/1,1
+GET,/api/cart/update/anonymous-399/UHJ/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-436,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-436,1
+GET,/api/cart/update/anonymous-481/UHJ/2,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/update/anonymous-481/UHJ/2,1
+GET,/api/shipping/calc/3752566,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/calc/3752566,1
+GET,/api/shipping/cities/no,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/cities/no,1
+GET,/api/cart/add/anonymous-877/HPTD/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-766/STAN-1/1,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-484,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-484,1
+GET,/api/cart/cart/anonymous-981,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-738/EMM/1,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-360,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-360,1
+GET,/api/shipping/calc/3338305,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/3338305,1
+POST,/api/shipping/confirm/anonymous-346,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-346,1
+GET,/api/cart/add/anonymous-505/STAN-1/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-505/STAN-1/1,1
+PUT,/api/ratings/api/rate/SHCE/2,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/ratings/api/rate/SHCE/2,1
+POST,/api/payment/pay/anonymous-44,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-44,1
+POST,/api/shipping/confirm/anonymous-799,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-799,1
+POST,/api/payment/pay/anonymous-593,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-593,1
+GET,/api/shipping/calc/3400030,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-122,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-722/Watson/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-722/Watson/2,1
+GET,/api/cart/cart/anonymous-340,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-340,1
+POST,/api/payment/pay/anonymous-353,404 Client Error: NOT FOUND for url: http://20.90.154.41/api/payment/pay/anonymous-353,1
+POST,/api/shipping/confirm/anonymous-390,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-390,1
+GET,/api/ratings/api/fetch/UHJ,500 Server Error: Internal Server Error for url: http://20.90.154.41/api/ratings/api/fetch/UHJ,1
+GET,/api/cart/add/anonymous-537/HPTD/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-537/HPTD/1,1
+POST,/api/shipping/confirm/anonymous-633,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-633,1
+GET,/api/ratings/api/fetch/EPE,500 Server Error: Internal Server Error for url: http://20.90.154.41/api/ratings/api/fetch/EPE,1
+GET,/api/cart/update/anonymous-128/STAN-1/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-128/STAN-1/2,1
+GET,/api/cart/cart/anonymous-516,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-516,1
+GET,/api/shipping/calc/3750593,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/3750593,1
+GET,/api/shipping/calc/4050805,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/calc/4050805,1
+GET,/api/shipping/cities/au,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-386,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-386,1
+POST,/api/shipping/confirm/anonymous-666,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-666,1
+POST,/api/shipping/confirm/anonymous-765,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-765,1
+GET,/api/shipping/cities/ro,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/cities/ro,2
+GET,/api/cart/add/anonymous-531/Watson/1,Remote end closed connection without response,1
+GET,/api/ratings/api/fetch/HPTD,500 Server Error: Internal Server Error for url: http://20.90.154.41/api/ratings/api/fetch/HPTD,1
+PUT,/api/ratings/api/rate/STAN-1/4,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/ratings/api/rate/STAN-1/4,2
+POST,/api/shipping/confirm/anonymous-794,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-28,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-28,1
+GET,/api/cart/update/anonymous-509/HPTD/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-509/HPTD/2,1
+GET,/api/shipping/cities/in,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/cities/in,1
+GET,/api/ratings/api/fetch/RMC,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/ratings/api/fetch/RMC,16
+GET,/api/cart/cart/anonymous-538,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-538,2
+POST,/api/shipping/confirm/anonymous-654,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-654,1
+GET,/api/cart/cart/anonymous-747,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-747,1
+PUT,/api/ratings/api/rate/STAN-1/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/ratings/api/rate/STAN-1/1,1
+POST,/api/payment/pay/anonymous-341,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-341,1
+POST,/api/payment/pay/anonymous-470,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-470,2
+GET,/api/cart/update/anonymous-377/STAN-1/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-377/STAN-1/2,1
+POST,/api/payment/pay/anonymous-787,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-787,1
+GET,/api/shipping/cities/se,Remote end closed connection without response,2
+GET,/api/ratings/api/fetch/UHJ,Remote end closed connection without response,8
+GET,/api/cart/update/anonymous-512/EPE/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-512/EPE/2,1
+GET,/api/cart/update/anonymous-815/EMM/2,Remote end closed connection without response,1
+GET,/api/shipping/cities/ca,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/cities/ca,1
+POST,/api/payment/pay/anonymous-928,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-928,1
+GET,/api/shipping/calc/4168541,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/4168541,1
+GET,/api/cart/update/anonymous-475/STAN-1/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-868/EPE/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-651/UHJ/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-651/UHJ/1,1
+GET,/api/ratings/api/fetch/HPTD,Remote end closed connection without response,7
+GET,/api/cart/update/anonymous-516/RED/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-516/RED/2,1
+GET,/api/cart/cart/anonymous-781,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-781,1
+GET,/api/cart/add/anonymous-539/RED/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-539/RED/1,1
+POST,/api/payment/pay/anonymous-379,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-796,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-796,1
+POST,/api/payment/pay/anonymous-817,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-817,1
+GET,/api/shipping/calc/3342505,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/3342505,1
+POST,/api/shipping/confirm/anonymous-705,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-705,1
+PUT,/api/ratings/api/rate/SHCE/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/ratings/api/rate/SHCE/1,2
+POST,/api/shipping/confirm/anonymous-441,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-441,1
+GET,/api/cart/cart/anonymous-663,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-663,1
+POST,/api/payment/pay/anonymous-808,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-808,1
+GET,/api/cart/add/anonymous-590/RMC/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-590/RMC/1,1
+GET,/api/cart/add/anonymous-667/EMM/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-667/EMM/1,2
+GET,/api/cart/cart/anonymous-477,Remote end closed connection without response,1
+GET,/api/shipping/calc/3753294,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/RED/1,Remote end closed connection without response,2
+POST,/api/shipping/confirm/anonymous-661,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-661,1
+GET,/api/catalogue/product/EPE,Remote end closed connection without response,7
+GET,/api/cart/update/anonymous-649/RED/2,Remote end closed connection without response,1
+GET,/api/shipping/calc/4178562,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/4178562,1
+POST,/api/shipping/confirm/anonymous-643,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-836,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-836,1
+POST,/api/payment/pay/anonymous-820,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-820,1
+POST,/api/shipping/confirm/anonymous-460,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-460,1
+POST,/api/shipping/confirm/anonymous-829,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-829,1
+GET,/api/cart/update/anonymous-785/RED/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-785/RED/2,1
+GET,/api/cart/update/anonymous-354/STAN-1/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-354/STAN-1/2,1
+GET,/api/cart/cart/anonymous-657,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-657,1
+POST,/api/shipping/confirm/anonymous-434,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-434,1
+POST,/api/shipping/confirm/anonymous-501,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-815/EPE/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-815/EPE/1,1
+GET,/api/shipping/calc/4181477,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-878,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-878,1
+POST,/api/shipping/confirm/anonymous-360,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/confirm/anonymous-360,1
+POST,/api/payment/pay/anonymous-619,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/payment/pay/anonymous-619,1
+GET,/api/cart/cart/anonymous-789,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-789,1
+POST,/api/payment/pay/anonymous-733,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-733,1
+POST,/api/payment/pay/anonymous-486,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-486,1
+POST,/api/payment/pay/anonymous-348,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-348,1
+POST,/api/shipping/confirm/anonymous-82,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/confirm/anonymous-82,1
+POST,/api/payment/pay/anonymous-17,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-17,1
+GET,/api/shipping/cities/dk,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/cities/dk,7
+GET,/api/cart/cart/anonymous-367,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-650/RMC/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-650/RMC/1,1
+POST,/api/payment/pay/anonymous-529,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-529,1
+GET,/api/cart/add/anonymous-714/EPE/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-670,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-670,1
+GET,/api/shipping/calc/5990720,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/calc/5990720,1
+POST,/api/payment/pay/anonymous-682,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-682,1
+GET,/api/cart/cart/anonymous-512,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-512,1
+GET,/api/cart/add/anonymous-471/SHCE/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-615,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-615,1
+POST,/api/payment/pay/anonymous-462,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-462,1
+POST,/api/shipping/confirm/anonymous-473,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-473,1
+POST,/api/payment/pay/anonymous-385,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-385,1
+POST,/api/shipping/confirm/anonymous-389,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-389,1
+GET,/api/cart/update/anonymous-615/RED/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-615/RED/2,1
+GET,/api/cart/add/anonymous-787/HPTD/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-787/HPTD/1,1
+GET,/api/shipping/calc/3345211,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/3345211,1
+POST,/api/shipping/confirm/anonymous-372,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/confirm/anonymous-372,1
+POST,/api/payment/pay/anonymous-531,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-895/HPTD/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-895/HPTD/2,1
+GET,/api/cart/update/anonymous-544/UHJ/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-544/UHJ/2,1
+GET,/api/shipping/calc/3807056,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/3807056,1
+GET,/api/cart/add/anonymous-630/RMC/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-630/RMC/1,1
+POST,/api/payment/pay/anonymous-712,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-712,1
+GET,/api/cart/add/anonymous-374/STAN-1/1,Remote end closed connection without response,1
+GET,/api/shipping/cities/cz,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/cities/cz,5
+POST,/api/payment/pay/anonymous-612,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-612,2
+GET,/api/cart/cart/anonymous-669,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-669,2
+GET,/api/cart/add/anonymous-777/HPTD/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-777/HPTD/1,1
+POST,/api/payment/pay/anonymous-658,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-658,1
+GET,/api/cart/add/anonymous-786/EPE/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-786/EPE/1,1
+GET,/api/cart/add/anonymous-519/EMM/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-519/EMM/1,1
+GET,/api/shipping/cities/us,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/cities/us,2
+PUT,/api/ratings/api/rate/EPE/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-773,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-773,1
+POST,/api/shipping/confirm/anonymous-422,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-422,1
+POST,/api/payment/pay/anonymous-359,404 Client Error: NOT FOUND for url: http://20.90.154.41/api/payment/pay/anonymous-359,1
+GET,/api/shipping/calc/3808969,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-766,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-766,1
+GET,/api/cart/add/anonymous-672/STAN-1/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-672/STAN-1/1,1
+GET,/api/cart/update/anonymous-314/RMC/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-314/RMC/2,1
+GET,/api/cart/add/anonymous-538/SHCE/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-538/SHCE/1,1
+GET,/api/cart/add/anonymous-590/Watson/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-590/Watson/1,1
+POST,/api/shipping/confirm/anonymous-694,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-694,1
+GET,/api/shipping/calc/5816908,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-928,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-660/HPTD/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-660/HPTD/1,1
+POST,/api/shipping/confirm/anonymous-913,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-913,1
+POST,/api/payment/pay/anonymous-457,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-457,1
+GET,/api/cart/add/anonymous-781/RMC/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-781/RMC/1,1
+GET,/api/cart/cart/anonymous-614,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-582,Remote end closed connection without response,1
+GET,/api/shipping/calc/4043934,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/4043934,1
+POST,/api/shipping/confirm/anonymous-404,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-404,1
+GET,/api/cart/add/anonymous-509/STAN-1/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-509/STAN-1/1,1
+GET,/api/shipping/cities/us,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/cities/us,7
+GET,/api/cart/add/anonymous-662/EMM/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-806/EMM/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-806/EMM/1,1
+POST,/api/shipping/confirm/anonymous-336,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-336,1
+POST,/api/shipping/confirm/anonymous-773,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-773,1
+GET,/api/cart/update/anonymous-532/STAN-1/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-532/STAN-1/2,1
+GET,/api/cart/add/anonymous-495/Watson/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-495/Watson/1,1
+GET,/api/shipping/cities/no,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/cities/no,2
+POST,/api/payment/pay/anonymous-354,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-354,2
+POST,/api/payment/pay/anonymous-902,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-902,1
+POST,/api/shipping/confirm/anonymous-87,Remote end closed connection without response,1
+GET,/api/shipping/cities/fi,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/cities/fi,4
+GET,/api/shipping/calc/4554397,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/4554397,1
+GET,/api/cart/add/anonymous-669/EMM/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-669/EMM/1,1
+POST,/api/payment/pay/anonymous-616,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-616,1
+GET,/api/shipping/calc/3774840,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/3774840,1
+POST,/api/shipping/confirm/anonymous-797,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-797,1
+POST,/api/payment/pay/anonymous-453,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-660,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-660,1
+GET,/api/cart/add/anonymous-83/RED/1,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-820,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-820,1
+GET,/api/cart/add/anonymous-930/STAN-1/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-392/RED/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-633/SHCE/1,Remote end closed connection without response,1
+GET,/api/shipping/cities/ru,"('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))",1
+POST,/api/payment/pay/anonymous-37,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-37,2
+GET,/api/cart/cart/anonymous-13,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-13,1
+POST,/api/payment/pay/anonymous-472,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-687,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-687,1
+GET,/api/cart/cart/anonymous-574,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-574,1
+GET,/api/cart/cart/anonymous-547,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-547,1
+GET,/api/shipping/calc/4180505,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-40,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-40,2
+GET,/api/cart/update/anonymous-572/SHCE/2,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-616,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-616,1
+POST,/api/shipping/confirm/anonymous-387,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/confirm/anonymous-387,1
+GET,/api/cart/cart/anonymous-985,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-646,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-646,1
+POST,/api/shipping/confirm/anonymous-440,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-440,1
+GET,/api/shipping/calc/5841100,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/5841100,1
+GET,/api/shipping/calc/4021494,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/calc/4021494,1
+GET,/api/cart/cart/anonymous-520,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-520,1
+POST,/api/payment/pay/anonymous-942,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-607,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-607,1
+POST,/api/payment/pay/anonymous-438,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-438,1
+GET,/api/cart/update/anonymous-954/SHCE/2,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-462,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-462,1
+GET,/api/cart/add/anonymous-587/RMC/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-587/RMC/1,1
+POST,/api/payment/pay/anonymous-352,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-352,1
+GET,/api/ratings/api/fetch/HPTD,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/ratings/api/fetch/HPTD,9
+GET,/api/shipping/cities/at,Remote end closed connection without response,2
+POST,/api/shipping/confirm/anonymous-750,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-750,1
+GET,/api/shipping/cities/tr,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/cities/tr,2
+GET,/api/cart/add/anonymous-935/EPE/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-862/STAN-1/1,Remote end closed connection without response,1
+GET,/api/catalogue/product/Watson,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/catalogue/product/Watson,7
+GET,/api/shipping/calc/5856678,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/5856678,1
+POST,/api/shipping/confirm/anonymous-352,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-352,1
+GET,/api/cart/update/anonymous-440/EMM/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-440/EMM/2,1
+GET,/api/cart/add/anonymous-802/EMM/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-802/EMM/1,1
+GET,/api/shipping/cities/br,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-58,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-58,1
+GET,/api/cart/cart/anonymous-587,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-587,2
+GET,/api/shipping/codes,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/codes,354
+POST,/api/payment/pay/anonymous-774,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-774,1
+GET,/api/cart/add/anonymous-664/SHCE/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-664/SHCE/1,1
+GET,/api/cart/add/anonymous-659/EPE/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-659/EPE/1,1
+POST,/api/payment/pay/anonymous-908,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-908,1
+GET,/api/cart/cart/anonymous-889,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-889,1
+GET,/api/cart/update/anonymous-480/EMM/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-755/RED/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-755/RED/1,1
+POST,/api/payment/pay/anonymous-552,404 Client Error: NOT FOUND for url: http://20.90.154.41/api/payment/pay/anonymous-552,1
+GET,/api/cart/add/anonymous-382/EPE/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-382/EPE/1,1
+PUT,/api/ratings/api/rate/RMC/1,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-367,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-367,1
+GET,/api/cart/add/anonymous-525/RMC/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-525/RMC/1,1
+POST,/api/shipping/confirm/anonymous-433,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-433,1
+GET,/api/shipping/calc/4596209,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/4596209,1
+GET,/api/cart/cart/anonymous-485,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-485,1
+GET,/api/cart/add/anonymous-638/EPE/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-638/EPE/1,1
+GET,/api/cart/add/anonymous-882/STAN-1/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-776/HPTD/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-718/UHJ/1,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/STAN-1/3,Remote end closed connection without response,2
+GET,/api/cart/cart/anonymous-746,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-746,1
+GET,/api/cart/cart/anonymous-529,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-529,1
+GET,/api/cart/add/anonymous-569/RED/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/5368499,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/calc/5368499,1
+POST,/api/payment/pay/anonymous-356,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/payment/pay/anonymous-356,1
+POST,/api/shipping/confirm/anonymous-368,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-368,1
+POST,/api/payment/pay/anonymous-364,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/payment/pay/anonymous-364,1
+GET,/api/cart/cart/anonymous-813,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-813,1
+GET,/api/cart/add/anonymous-657/EPE/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-868,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-868,1
+PUT,/api/ratings/api/rate/EMM/4,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/ratings/api/rate/EMM/4,1
+POST,/api/shipping/confirm/anonymous-342,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/confirm/anonymous-342,1
+GET,/api/cart/add/anonymous-790/RED/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-790/RED/1,1
+GET,/api/ratings/api/fetch/SHCE,500 Server Error: Internal Server Error for url: http://20.90.154.41/api/ratings/api/fetch/SHCE,2
+GET,/api/shipping/calc/3205067,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/3205067,1
+GET,/api/cart/cart/anonymous-767,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-767,1
+GET,/api/shipping/calc/3304739,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/3304739,1
+GET,/api/cart/add/anonymous-991/Watson/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-449,404 Client Error: NOT FOUND for url: http://20.90.154.41/api/payment/pay/anonymous-449,1
+POST,/api/shipping/confirm/anonymous-391,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-391,1
+POST,/api/payment/pay/anonymous-23,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-23,2
+GET,/api/cart/cart/anonymous-508,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-508,1
+GET,/api/shipping/calc/4040006,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/4040006,1
+GET,/api/shipping/calc/4566241,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/4566241,1
+GET,/api/catalogue/categories,Remote end closed connection without response,28
+GET,/api/cart/update/anonymous-494/EMM/2,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/update/anonymous-494/EMM/2,1
+GET,/api/cart/add/anonymous-693/RMC/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-629/EPE/1,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-641,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-641,1
+GET,/api/cart/add/anonymous-567/UHJ/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-567/UHJ/1,1
+GET,/api/cart/add/anonymous-587/Watson/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-587/Watson/1,1
+POST,/api/payment/pay/anonymous-750,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-750,1
+POST,/api/payment/pay/anonymous-797,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-797,1
+POST,/api/payment/pay/anonymous-670,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-670,1
+GET,/api/cart/cart/anonymous-494,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-494,1
+GET,/api/catalogue/product/RMC,Remote end closed connection without response,10
+POST,/api/payment/pay/anonymous-482,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-504,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-425,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-425,1
+GET,/api/cart/update/anonymous-438/UHJ/2,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/update/anonymous-438/UHJ/2,1
+POST,/api/payment/pay/anonymous-685,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-685,1
+GET,/api/cart/add/anonymous-756/RMC/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-756/RMC/1,1
+GET,/api/cart/update/anonymous-456/RED/2,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/update/anonymous-456/RED/2,1
+POST,/api/shipping/confirm/anonymous-457,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-457,1
+GET,/api/cart/update/anonymous-812/RMC/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-812/RMC/2,1
+GET,/api/cart/cart/anonymous-574,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-574,1
+POST,/api/shipping/confirm/anonymous-731,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-731,1
+GET,/api/shipping/calc/5077658,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/5077658,1
+GET,/api/cart/cart/anonymous-739,Remote end closed connection without response,1
+GET,/api/shipping/calc/3439333,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/3439333,1
+GET,/api/shipping/calc/3849554,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-692/HPTD/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-38,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-38,1
+POST,/api/payment/pay/anonymous-422,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-422,1
+GET,/api/ratings/api/fetch/STAN-1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/ratings/api/fetch/STAN-1,7
+GET,/api/catalogue/categories,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/catalogue/categories,8
+GET,/api/shipping/cities/ca,Remote end closed connection without response,2
+PUT,/api/ratings/api/rate/EMM/3,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/EMM/2,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/ratings/api/rate/EMM/2,1
+POST,/api/payment/pay/anonymous-678,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-678,1
+POST,/api/shipping/confirm/anonymous-348,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-348,1
+POST,/api/payment/pay/anonymous-745,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-745,1
+GET,/api/shipping/calc/5077677,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/5077677,1
+GET,/api/shipping/calc/4043917,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/4043917,1
+POST,/api/shipping/confirm/anonymous-541,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-541,1
+GET,/api/ratings/api/fetch/RED,Remote end closed connection without response,8
+POST,/api/payment/pay/anonymous-500,404 Client Error: NOT FOUND for url: http://20.90.154.41/api/payment/pay/anonymous-500,1
+GET,/api/cart/add/anonymous-666/RED/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-666/RED/1,1
+GET,/api/catalogue/product/UHJ,Remote end closed connection without response,12
+GET,/api/shipping/calc/4581596,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/4581596,1
+GET,/api/cart/add/anonymous-796/Watson/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-796/Watson/1,1
+POST,/api/payment/pay/anonymous-27,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-27,2
+GET,/api/shipping/cities/in,Remote end closed connection without response,2
+GET,/api/cart/add/anonymous-692/STAN-1/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-618/Watson/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-55,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-55,1
+POST,/api/payment/pay/anonymous-742,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-742,1
+GET,/api/cart/add/anonymous-509/Watson/1,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-373,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-373,1
+GET,/api/cart/cart/anonymous-562,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-562,1
+GET,/api/shipping/calc/5670006,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/5670006,1
+POST,/api/shipping/confirm/anonymous-928,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-928,1
+POST,/api/payment/pay/anonymous-484,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-484,1
+POST,/api/payment/pay/anonymous-390,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-390,1
+GET,/api/cart/cart/anonymous-651,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-651,2
+GET,/api/shipping/calc/5087413,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/5087413,1
+GET,/api/cart/cart/anonymous-7,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-7,1
+GET,/api/ratings/api/fetch/EPE,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/ratings/api/fetch/EPE,12
+GET,/api/shipping/calc/3343929,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-945,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-945,1
+GET,/api/cart/cart/anonymous-496,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-496,1
+POST,/api/payment/pay/anonymous-458,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-655,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-655,1
+POST,/api/shipping/confirm/anonymous-691,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-691,1
+POST,/api/shipping/confirm/anonymous-395,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-648,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-648,1
+POST,/api/shipping/confirm/anonymous-373,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/confirm/anonymous-373,1
+POST,/api/shipping/confirm/anonymous-350,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-350,1
+GET,/api/cart/add/anonymous-535/HPTD/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-535/HPTD/1,1
+GET,/api/cart/cart/anonymous-640,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-640,1
+POST,/api/payment/pay/anonymous-429,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-429,1
+GET,/api/cart/add/anonymous-726/HPTD/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-814,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-814,1
+POST,/api/shipping/confirm/anonymous-815,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-815,1
+GET,/api/cart/cart/anonymous-542,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-542,1
+GET,/api/ratings/api/fetch/EMM,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/ratings/api/fetch/EMM,7
+POST,/api/payment/pay/anonymous-22,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-22,2
+GET,/api/cart/add/anonymous-669/RMC/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-669/RMC/1,2
+GET,/api/shipping/calc/5349130,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/5349130,1
+GET,/api/shipping/calc/3311585,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/3311585,1
+GET,/api/cart/cart/anonymous-525,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-525,2
+GET,/api/shipping/calc/3766588,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-656,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-656,1
+POST,/api/payment/pay/anonymous-705,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-705,1
+GET,/api/cart/cart/anonymous-518,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-518,1
+GET,/api/shipping/cities/hu,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/cities/hu,1
+GET,/api/cart/update/anonymous-39/SHCE/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-781/RMC/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-783,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-783,1
+GET,/api/cart/add/anonymous-634/UHJ/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-634/UHJ/1,1
+GET,/api/cart/cart/anonymous-697,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-697,1
+POST,/api/payment/pay/anonymous-42,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-42,2
+GET,/api/cart/add/anonymous-814/EPE/1,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-742,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-742,1
+GET,/api/shipping/calc/4405419,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/calc/4405419,1
+POST,/api/shipping/confirm/anonymous-942,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-942,1
+GET,/api/cart/cart/anonymous-349,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-349,1
+GET,/api/cart/cart/anonymous-467,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-467,1
+GET,/api/cart/add/anonymous-765/UHJ/1,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-568,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-568,1
+GET,/api/cart/cart/anonymous-534,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-534,1
+POST,/api/payment/pay/anonymous-386,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-386,1
+GET,/api/cart/add/anonymous-347/Watson/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-347/Watson/1,1
+POST,/api/payment/pay/anonymous-427,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-427,1
+GET,/api/catalogue/products,Remote end closed connection without response,45
+POST,/api/payment/pay/anonymous-32,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-32,1
+GET,/api/cart/update/anonymous-937/Watson/2,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-908,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-908,1
+GET,/api/cart/cart/anonymous-323,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-323,1
+POST,/api/shipping/confirm/anonymous-586,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-586,1
+GET,/api/cart/cart/anonymous-558,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-558,1
+GET,/api/cart/add/anonymous-510/UHJ/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-468/Watson/2,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/update/anonymous-468/Watson/2,1
+GET,/api/cart/add/anonymous-538/RED/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-538/RED/1,1
+GET,/api/shipping/calc/5842383,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/5842383,1
+GET,/api/cart/add/anonymous-529/EPE/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-529/EPE/1,1
+GET,/api/shipping/calc/5350857,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/5350857,1
+POST,/api/payment/pay/anonymous-715,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-715,1
+POST,/api/payment/pay/anonymous-61,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-61,1
+POST,/api/shipping/confirm/anonymous-884,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-884,1
+GET,/api/shipping/calc/4590560,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/4590560,1
+GET,/api/shipping/calc/5834311,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/5834311,1
+POST,/api/shipping/confirm/anonymous-379,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-379,2
+GET,/api/catalogue/product/HPTD,Remote end closed connection without response,6
+GET,/api/cart/add/anonymous-831/HPTD/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-824/EPE/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-973/HPTD/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-973/HPTD/2,1
+GET,/api/cart/update/anonymous-811/EPE/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-549,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-21,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-21,2
+GET,/api/catalogue/product/UHJ,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/catalogue/product/UHJ,9
+POST,/api/shipping/confirm/anonymous-809,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-809,1
+GET,/api/cart/update/anonymous-499/EPE/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-499/EPE/2,2
+POST,/api/payment/pay/anonymous-624,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-533,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-533,1
+PUT,/api/ratings/api/rate/Watson/5,Remote end closed connection without response,2
+POST,/api/shipping/confirm/anonymous-628,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-628,1
+POST,/api/payment/pay/anonymous-568,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-568,1
+POST,/api/shipping/confirm/anonymous-551,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-551,1
+GET,/api/cart/add/anonymous-574/UHJ/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-574/UHJ/1,1
+GET,/api/shipping/cities/it,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/cities/it,2
+GET,/api/cart/update/anonymous-515/EMM/2,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/update/anonymous-515/EMM/2,1
+GET,/api/cart/add/anonymous-759/STAN-1/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-759/STAN-1/1,1
+POST,/api/shipping/confirm/anonymous-607,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-607,1
+GET,/api/cart/cart/anonymous-567,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-567,1
+GET,/api/cart/cart/anonymous-535,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-535,1
+POST,/api/payment/pay/anonymous-579,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-579,1
+GET,/api/cart/cart/anonymous-674,Remote end closed connection without response,1
+POST,/api/user/login,Remote end closed connection without response,57
+POST,/api/shipping/confirm/anonymous-722,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-722,1
+GET,/api/cart/update/anonymous-833/STAN-1/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-961/STAN-1/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-661/HPTD/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-661/HPTD/2,1
+POST,/api/payment/pay/anonymous-6,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-6,1
+GET,/api/cart/update/anonymous-503/RED/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-503/RED/2,1
+GET,/api/shipping/calc/3399971,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/calc/3399971,1
+GET,/api/cart/cart/anonymous-524,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-524,1
+GET,/api/cart/cart/anonymous-755,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-755,1
+GET,/api/cart/add/anonymous-547/EMM/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-815,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-815,1
+GET,/api/shipping/cities/ca,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/cities/ca,4
+GET,/api/cart/add/anonymous-805/RMC/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-762/RMC/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-762/RMC/2,1
+GET,/api/cart/update/anonymous-812/SHCE/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-812/SHCE/2,1
+GET,/api/shipping/calc/5355082,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/5355082,1
+POST,/api/payment/pay/anonymous-731,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-731,1
+GET,/api/cart/cart/anonymous-588,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-588,1
+GET,/api/catalogue/product/RED,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/catalogue/product/RED,11
+POST,/api/payment/pay/anonymous-479,[Errno 32] Broken pipe,1
+GET,/api/cart/add/anonymous-80/EMM/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/4166587,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/4166587,1
+GET,/api/cart/add/anonymous-863/UHJ/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-687,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-790,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-790,2
+GET,/api/shipping/calc/3923877,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/3923877,1
+GET,/api/shipping/cities/bg,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/cities/bg,2
+GET,/api/cart/add/anonymous-657/EPE/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-657/EPE/1,1
+POST,/api/payment/pay/anonymous-741,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-741,1
+GET,/api/cart/add/anonymous-869/HPTD/1,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-722,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-722,1
+GET,/api/ratings/api/fetch/RMC,Remote end closed connection without response,8
+POST,/api/payment/pay/anonymous-812,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-658,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-658,1
+GET,/api/cart/cart/anonymous-561,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-651/RED/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-651/RED/1,1
+GET,/api/cart/update/anonymous-566/SHCE/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-726/RED/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/4037768,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/4037768,1
+GET,/api/cart/cart/anonymous-791,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-791,1
+POST,/api/shipping/confirm/anonymous-397,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-397,1
+GET,/api/cart/cart/anonymous-635,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-635,1
+GET,/api/cart/add/anonymous-7/STAN-1/1,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-807,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-807,1
+GET,/api/ratings/api/fetch/EPE,Remote end closed connection without response,8
+POST,/api/shipping/confirm/anonymous-436,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-436,1
+POST,/api/payment/pay/anonymous-586,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-586,1
+GET,/api/cart/cart/anonymous-533,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-533,1
+POST,/api/payment/pay/anonymous-25,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-25,2
+POST,/api/payment/pay/anonymous-10,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-10,1
+GET,/api/cart/add/anonymous-529/UHJ/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-355/RED/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-355/RED/1,1
+GET,/api/shipping/cities/ch,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/cities/ch,3
+GET,/api/cart/update/anonymous-750/UHJ/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-750/UHJ/2,1
+GET,/api/ratings/api/fetch/EMM,Remote end closed connection without response,8
+POST,/api/payment/pay/anonymous-53,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-53,1
+PUT,/api/ratings/api/rate/RMC/3,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/ratings/api/rate/RMC/3,1
+GET,/api/cart/add/anonymous-542/EMM/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-542/EMM/1,1
+POST,/api/payment/pay/anonymous-628,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-628,1
+GET,/api/cart/update/anonymous-780/STAN-1/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-780/STAN-1/2,1
+GET,/api/cart/add/anonymous-814/RED/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-814/RED/1,1
+PUT,/api/ratings/api/rate/EPE/4,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/ratings/api/rate/EPE/4,1
+GET,/api/cart/update/anonymous-448/RMC/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-448/RMC/2,1
+GET,/api/shipping/calc/4165925,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/4165925,1
+GET,/api/cart/add/anonymous-722/EMM/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-478/RMC/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-478/RMC/2,1
+POST,/api/shipping/confirm/anonymous-838,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-838,1
+GET,/api/shipping/calc/5593556,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/calc/5593556,1
+GET,/api/shipping/cities/cz,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/cities/cz,3
+GET,/api/cart/update/anonymous-493/RMC/2,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/update/anonymous-493/RMC/2,1
+POST,/api/payment/pay/anonymous-57,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-57,1
+GET,/api/catalogue/product/RMC,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/catalogue/product/RMC,15
+GET,/api/shipping/calc/5845195,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/5845195,1
+GET,/api/cart/add/anonymous-549/Watson/1,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-774,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-774,1
+POST,/api/payment/pay/anonymous-357,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-357,1
+GET,/api/cart/cart/anonymous-510,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-510,1
+POST,/api/payment/pay/anonymous-807,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-807,1
+PUT,/api/ratings/api/rate/EPE/3,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-809,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-809,1
+GET,/api/cart/add/anonymous-782/STAN-1/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-782/STAN-1/1,1
+POST,/api/payment/pay/anonymous-664,404 Client Error: NOT FOUND for url: http://20.90.154.41/api/payment/pay/anonymous-664,1
+POST,/api/payment/pay/anonymous-103,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-103,1
+POST,/api/payment/pay/anonymous-434,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-434,1
+GET,/api/cart/cart/anonymous-126,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-126,1
+GET,/api/cart/cart/anonymous-631,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-631,1
+POST,/api/payment/pay/anonymous-842,404 Client Error: NOT FOUND for url: http://20.90.154.41/api/payment/pay/anonymous-842,1
+GET,/api/cart/cart/anonymous-672,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-672,1
+GET,/api/shipping/cities/it,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/cities/it,8
+GET,/api/cart/cart/anonymous-631,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-631,1
+GET,/api/shipping/calc/5369469,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/5369469,1
+GET,/api/cart/add/anonymous-696/RED/1,Remote end closed connection without response,1
+GET,/api/shipping/cities/fr,Remote end closed connection without response,2
+GET,/api/cart/cart/anonymous-728,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-728,1
+POST,/api/payment/pay/anonymous-358,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-358,1
+GET,/api/cart/add/anonymous-691/EMM/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-691/EMM/1,1
+POST,/api/shipping/confirm/anonymous-817,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-817,1
+POST,/api/payment/pay/anonymous-536,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-514/HPTD/2,Remote end closed connection without response,1
+GET,/api/catalogue/product/STAN-1,Remote end closed connection without response,6
+GET,/api/cart/cart/anonymous-630,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-630,1
+GET,/api/cart/cart/anonymous-857,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-857,1
+GET,/api/cart/cart/anonymous-782,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-782,1
+GET,/api/cart/cart/anonymous-774,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-774,1
+GET,/api/cart/add/anonymous-762/Watson/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-762/Watson/1,1
+POST,/api/payment/pay/anonymous-361,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-361,1
+PUT,/api/ratings/api/rate/EPE/5,Remote end closed connection without response,1
+GET,/api/shipping/calc/5092229,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/5092229,1
+POST,/api/shipping/confirm/anonymous-424,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/confirm/anonymous-424,1
+GET,/api/cart/cart/anonymous-967,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-967,1
+GET,/api/cart/cart/anonymous-744,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-744,1
+GET,/api/cart/add/anonymous-588/EPE/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-588/EPE/1,1
+POST,/api/shipping/confirm/anonymous-412,Remote end closed connection without response,1
+GET,/api/shipping/cities/de,Remote end closed connection without response,1
+PUT,/api/ratings/api/rate/SHCE/5,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-670,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-670,1
+GET,/api/shipping/cities/no,Remote end closed connection without response,2
+POST,/api/shipping/confirm/anonymous-945,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-945,1
+GET,/api/cart/add/anonymous-790/EPE/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-790/EPE/1,1
+POST,/api/payment/pay/anonymous-413,404 Client Error: NOT FOUND for url: http://20.90.154.41/api/payment/pay/anonymous-413,1
+POST,/api/shipping/confirm/anonymous-902,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-902,1
+POST,/api/shipping/confirm/anonymous-919,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-919,1
+GET,/api/shipping/calc/4555260,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/calc/4555260,1
+GET,/api/shipping/calc/3845479,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/calc/3845479,1
+GET,/api/cart/update/anonymous-466/Watson/2,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-412,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/confirm/anonymous-412,1
+POST,/api/shipping/confirm/anonymous-472,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-472,1
+GET,/api/cart/update/anonymous-124/SHCE/2,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-704,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-675,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-675,1
+POST,/api/shipping/confirm/anonymous-612,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-612,2
+POST,/api/shipping/confirm/anonymous-793,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-793,1
+GET,/api/shipping/calc/3401365,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/3401365,1
+POST,/api/shipping/confirm/anonymous-361,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-361,1
+POST,/api/shipping/confirm/anonymous-745,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-745,1
+POST,/api/payment/pay/anonymous-506,404 Client Error: NOT FOUND for url: http://20.90.154.41/api/payment/pay/anonymous-506,1
+PUT,/api/ratings/api/rate/HPTD/2,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-741,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-741,1
+POST,/api/payment/pay/anonymous-18,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-18,1
+GET,/api/cart/add/anonymous-808/HPTD/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-649/Watson/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-649/Watson/1,1
+POST,/api/shipping/confirm/anonymous-376,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-376,1
+POST,/api/shipping/confirm/anonymous-414,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/confirm/anonymous-414,1
+GET,/api/shipping/calc/5880843,Remote end closed connection without response,1
+GET,/api/shipping/cities/ru,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/cities/ru,1
+GET,/api/cart/add/anonymous-349/Watson/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-349/Watson/1,1
+GET,/api/shipping/cities/ru,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/cities/ru,2
+GET,/api/cart/add/anonymous-788/UHJ/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-788/UHJ/1,1
+POST,/api/payment/pay/anonymous-520,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-12,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-12,1
+GET,/api/user/uniqueid,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/user/uniqueid,236
+GET,/api/shipping/cities/hu,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/cities/hu,3
+GET,/api/cart/cart/anonymous-779,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-596,Remote end closed connection without response,1
+GET,/api/shipping/cities/at,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/cities/at,7
+GET,/api/shipping/cities/de,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/cities/de,5
+GET,/api/cart/cart/anonymous-549,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-549,1
+POST,/api/payment/pay/anonymous-466,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-466,1
+GET,/api/cart/add/anonymous-646/STAN-1/1,Remote end closed connection without response,1
+GET,/api/ratings/api/fetch/SHCE,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/ratings/api/fetch/SHCE,4
+GET,/api/shipping/calc/5346373,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/calc/5346373,1
+GET,/api/shipping/cities/ch,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-876,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-876,1
+POST,/api/payment/pay/anonymous-336,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-336,1
+POST,/api/shipping/confirm/anonymous-605,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-605,2
+POST,/api/payment/pay/anonymous-121,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-121,1
+POST,/api/shipping/confirm/anonymous-529,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-529,1
+GET,/api/cart/add/anonymous-990/RMC/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-661,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-661,1
+POST,/api/payment/pay/anonymous-919,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-919,1
+GET,/api/cart/add/anonymous-636/RMC/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-636/RMC/1,1
+POST,/api/payment/pay/anonymous-346,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-346,1
+GET,/api/shipping/cities/hu,Remote end closed connection without response,2
+GET,/api/cart/add/anonymous-767/RED/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-767/RED/1,1
+POST,/api/payment/pay/anonymous-884,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-884,1
+GET,/api/cart/add/anonymous-748/EPE/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-748/EPE/1,1
+POST,/api/user/login,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/user/login,218
+POST,/api/shipping/confirm/anonymous-678,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-678,1
+POST,/api/payment/pay/anonymous-650,404 Client Error: NOT FOUND for url: http://20.90.154.41/api/payment/pay/anonymous-650,1
+GET,/api/cart/cart/anonymous-510,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-510,1
+POST,/api/shipping/confirm/anonymous-341,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-341,1
+POST,/api/payment/pay/anonymous-629,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-629,1
+POST,/api/shipping/confirm/anonymous-466,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-466,1
+GET,/api/shipping/cities/nl,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/cities/nl,2
+GET,/api/cart/cart/anonymous-693,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-693,1
+GET,/api/cart/cart/anonymous-931,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-530/UHJ/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-530/UHJ/2,1
+GET,/api/cart/update/anonymous-799/HPTD/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-799/HPTD/2,1
+GET,/api/cart/add/anonymous-739/SHCE/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/3302232,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-830,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-830,1
+POST,/api/shipping/confirm/anonymous-411,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/confirm/anonymous-411,1
+POST,/api/payment/pay/anonymous-633,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-633,1
+POST,/api/payment/pay/anonymous-530,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-530,1
+GET,/api/shipping/calc/4389800,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/4389800,1
+GET,/api/cart/cart/anonymous-702,Remote end closed connection without response,1
+GET,/api/shipping/calc/4580852,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/calc/4580852,1
+GET,/api/catalogue/product/EMM,Remote end closed connection without response,6
+POST,/api/shipping/confirm/anonymous-701,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-701,1
+GET,/api/cart/add/anonymous-527/SHCE/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-527/SHCE/1,1
+GET,/api/cart/update/anonymous-470/SHCE/2,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-616/EPE/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-391,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-391,1
+GET,/api/cart/add/anonymous-652/UHJ/1,Remote end closed connection without response,1
+GET,/,502 Server Error: Bad Gateway for url: http://20.90.154.41/,259
+GET,/api/shipping/calc/6046216,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/6046216,1
+POST,/api/shipping/confirm/anonymous-766,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-766,1
+GET,/api/shipping/cities/se,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/cities/se,8
+GET,/api/shipping/calc/5358316,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/5358316,1
+GET,/api/cart/cart/anonymous-666,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-666,1
+GET,/api/cart/add/anonymous-811/Watson/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-811/Watson/1,1
+POST,/api/payment/pay/anonymous-740,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-691/Watson/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-691/Watson/1,1
+GET,/api/cart/add/anonymous-688/RMC/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-688/RMC/1,1
+GET,/api/shipping/calc/4022851,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-351,404 Client Error: NOT FOUND for url: http://20.90.154.41/api/payment/pay/anonymous-351,1
+POST,/api/payment/pay/anonymous-878,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-878,1
+GET,/api/cart/cart/anonymous-540,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-540,1
+GET,/api/shipping/cities/pt,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/cities/pt,10
+GET,/api/cart/cart/anonymous-708,Remote end closed connection without response,1
+GET,/api/shipping/calc/4564002,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-366,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/payment/pay/anonymous-366,1
+GET,/api/shipping/calc/4578560,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/4578560,1
+GET,/api/shipping/calc/5348926,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/5348926,1
+POST,/api/shipping/confirm/anonymous-685,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-685,1
+GET,/api/shipping/cities/us,"('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))",2
+GET,/api/shipping/cities/es,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/cities/es,6
+POST,/api/payment/pay/anonymous-397,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-397,1
+GET,/api/cart/add/anonymous-632/RED/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-632/RED/1,1
+GET,/api/cart/cart/anonymous-699,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-699,1
+GET,/api/cart/update/anonymous-820/UHJ/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-820/UHJ/2,1
+GET,/api/cart/add/anonymous-861/SHCE/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-890,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-890,1
+GET,/api/cart/add/anonymous-550/STAN-1/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-550/STAN-1/1,1
+GET,/api/cart/cart/anonymous-811,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-16,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-16,1
+POST,/api/shipping/confirm/anonymous-530,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-530,1
+GET,/api/cart/cart/anonymous-844,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-844,1
+POST,/api/shipping/confirm/anonymous-783,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-783,1
+GET,/api/cart/add/anonymous-817/STAN-1/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/3911522,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/3911522,1
+POST,/api/payment/pay/anonymous-45,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-45,1
+GET,/api/cart/cart/anonymous-521,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-521,1
+POST,/api/payment/pay/anonymous-402,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-402,1
+GET,/api/cart/add/anonymous-621/EPE/1,Remote end closed connection without response,1
+GET,/api/cart/add/anonymous-648/RMC/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-648/RMC/1,1
+GET,/api/cart/update/anonymous-476/HPTD/2,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/update/anonymous-476/HPTD/2,1
+POST,/api/payment/pay/anonymous-86,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-86,1
+POST,/api/payment/pay/anonymous-913,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-913,1
+GET,/api/cart/add/anonymous-661/RMC/1,Remote end closed connection without response,1
+POST,/api/shipping/confirm/anonymous-938,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-423/RED/2,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/update/anonymous-423/RED/2,1
+GET,/api/cart/add/anonymous-651/EPE/1,Remote end closed connection without response,1
+GET,/api/cart/update/anonymous-685/STAN-1/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-685/STAN-1/2,1
+POST,/api/payment/pay/anonymous-100,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-100,1
+GET,/api/shipping/calc/5358897,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-541,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-541,1
+GET,/api/ratings/api/fetch/STAN-1,Remote end closed connection without response,7
+GET,/api/cart/cart/anonymous-505,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-505,1
+GET,/api/shipping/calc/3207109,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/3207109,1
+POST,/api/payment/pay/anonymous-89,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-89,1
+GET,/api/cart/add/anonymous-369/SHCE/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/3207517,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/3207517,1
+GET,/api/ratings/api/fetch/SHCE,Remote end closed connection without response,6
+POST,/api/shipping/confirm/anonymous-357,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-357,1
+GET,/api/cart/add/anonymous-655/EPE/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-655/EPE/1,1
+POST,/api/payment/pay/anonymous-473,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-473,1
+GET,/api/shipping/calc/3919276,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/3919276,1
+GET,/api/cart/update/anonymous-483/SHCE/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-483/SHCE/2,1
+POST,/api/payment/pay/anonymous-548,404 Client Error: NOT FOUND for url: http://20.90.154.41/api/payment/pay/anonymous-548,1
+GET,/api/cart/update/anonymous-605/UHJ/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-605/UHJ/2,1
+GET,/api/cart/update/anonymous-29/RMC/2,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-654,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-654,1
+GET,/api/cart/update/anonymous-502/HPTD/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-502/HPTD/2,1
+GET,/api/cart/cart/anonymous-532,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-532,1
+GET,/api/cart/add/anonymous-774/STAN-1/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-774/STAN-1/1,1
+GET,/api/cart/add/anonymous-669/UHJ/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-669/UHJ/1,1
+POST,/api/payment/pay/anonymous-490,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-490,1
+GET,/api/shipping/calc/3355827,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/3355827,1
+POST,/api/payment/pay/anonymous-334,404 Client Error: NOT FOUND for url: http://20.90.154.41/api/payment/pay/anonymous-334,1
+POST,/api/payment/pay/anonymous-29,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-29,2
+POST,/api/payment/pay/anonymous-433,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-433,1
+POST,/api/shipping/confirm/anonymous-804,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-804,1
+GET,/api/cart/cart/anonymous-609,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-609,1
+GET,/api/shipping/calc/3376544,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-408,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-408,1
+POST,/api/shipping/confirm/anonymous-787,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-787,1
+POST,/api/payment/pay/anonymous-24,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-24,2
+GET,/api/cart/add/anonymous-660/RED/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-660/RED/1,1
+POST,/api/shipping/confirm/anonymous-733,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-733,1
+POST,/api/shipping/confirm/anonymous-656,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-656,1
+GET,/api/cart/update/anonymous-829/EPE/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-829/EPE/2,1
+POST,/api/payment/pay/anonymous-389,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-389,1
+POST,/api/payment/pay/anonymous-403,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-403,1
+POST,/api/shipping/confirm/anonymous-517,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-517,1
+GET,/api/shipping/cities/es,Remote end closed connection without response,1
+GET,/api/shipping/cities/tr,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/cities/tr,7
+POST,/api/payment/pay/anonymous-517,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-517,1
+POST,/api/shipping/confirm/anonymous-347,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-347,1
+GET,/api/shipping/calc/5090109,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/5090109,1
+POST,/api/payment/pay/anonymous-700,404 Client Error: NOT FOUND for url: http://20.90.154.41/api/payment/pay/anonymous-700,1
+POST,/api/payment/pay/anonymous-440,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-440,1
+GET,/api/shipping/calc/3366510,Remote end closed connection without response,1
+GET,/api/shipping/calc/3849678,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/3849678,1
+POST,/api/shipping/confirm/anonymous-528,Remote end closed connection without response,1
+GET,/api/catalogue/product/STAN-1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/catalogue/product/STAN-1,5
+GET,/api/shipping/calc/4023046,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/4023046,1
+POST,/api/payment/pay/anonymous-13,429 Client Error: TOO MANY REQUESTS for url: http://20.90.154.41/api/payment/pay/anonymous-13,1
+GET,/api/shipping/cities/pt,Remote end closed connection without response,2
+GET,/api/cart/cart/anonymous-713,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-713,1
+GET,/api/cart/cart/anonymous-839,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-839,1
+POST,/api/payment/pay/anonymous-425,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-425,1
+POST,/api/payment/pay/anonymous-373,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-373,1
+GET,/api/cart/update/anonymous-733/SHCE/2,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/update/anonymous-733/SHCE/2,1
+GET,/api/cart/add/anonymous-632/STAN-1/1,Remote end closed connection without response,1
+GET,/api/shipping/cities/gb,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/cities/gb,5
+POST,/api/shipping/confirm/anonymous-354,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-354,2
+POST,/api/shipping/confirm/anonymous-509,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-509,2
+GET,/api/cart/add/anonymous-654/RMC/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-691,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-691,1
+GET,/api/cart/cart/anonymous-691,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-691,1
+GET,/api/shipping/calc/3957525,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/3957525,1
+GET,/api/shipping/cities/jp,Remote end closed connection without response,3
+POST,/api/shipping/confirm/anonymous-362,404 Client Error:  for url: http://20.90.154.41/api/shipping/confirm/anonymous-362,1
+GET,/api/cart/cart/anonymous-523,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-523,1
+GET,/api/cart/add/anonymous-833/HPTD/1,Remote end closed connection without response,1
+GET,/api/shipping/calc/3297691,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/3297691,1
+GET,/api/shipping/codes,Remote end closed connection without response,36
+POST,/api/payment/pay/anonymous-519,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-694,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-694,1
+POST,/api/payment/pay/anonymous-626,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/payment/pay/anonymous-626,1
+GET,/api/shipping/cities/jp,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/cities/jp,9
+GET,/api/cart/add/anonymous-589/EPE/1,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/add/anonymous-589/EPE/1,1
+GET,/api/cart/cart/anonymous-759,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/cart/cart/anonymous-759,1
+GET,/api/cart/cart/anonymous-945,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-533,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-533,1
+GET,/api/cart/update/anonymous-674/EPE/2,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-865,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-865,1
+GET,/api/cart/add/anonymous-643/EPE/1,Remote end closed connection without response,1
+POST,/api/payment/pay/anonymous-368,500 Server Error: INTERNAL SERVER ERROR for url: http://20.90.154.41/api/payment/pay/anonymous-368,1
+GET,/api/cart/add/anonymous-846/STAN-1/1,Remote end closed connection without response,1
+GET,/api/shipping/cities/ro,502 Server Error: Bad Gateway for url: http://20.90.154.41/api/shipping/cities/ro,2
+GET,/api/cart/update/anonymous-617/EMM/2,Remote end closed connection without response,1
+GET,/api/cart/cart/anonymous-929,404 Client Error: Not Found for url: http://20.90.154.41/api/cart/cart/anonymous-929,1
+GET,/api/shipping/cities/fr,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/cities/fr,4
+POST,/api/payment/pay/anonymous-467,Remote end closed connection without response,1
+GET,/api/shipping/calc/3920759,504 Server Error: Gateway Time-out for url: http://20.90.154.41/api/shipping/calc/3920759,1
